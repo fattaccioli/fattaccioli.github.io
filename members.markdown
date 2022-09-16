@@ -28,7 +28,7 @@ In charge of the [M2 Microfluidique](https://microfluidics-master.fr/)
 
 ## Past members
 
--
+
 
 - Mr. Chaohe HU : PhD student (CSC Grant)
 

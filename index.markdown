@@ -5,6 +5,14 @@
 layout: page #home
 ---
 
+
+
+
+
+![cropped-img_0571.jpg](/Users/jacques/Sites/fattaccioli.github.io/assets/images/cropped-img_0571.jpg)
+
+
+
 Welcome to the website of the research team coordinated by Jacques Fattaccioli.
 
 Feel free to contact us for any questions about our research, job opportunities, etc.
