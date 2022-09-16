@@ -4,25 +4,35 @@ title: Members
 permalink: /members/
 ---
 
-**Members**
+## Jacques Fattaccioli
 
-- [Jacques Fattaccioli](https://fattacciolilab.wordpress.com/about/ "Contact") (PI) [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)]
+Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)]
 
-Droplets / tiny devices maker. Now multi kingdom explorer !  
-In charge of the [M2 Microfluidique](https://microfluidics-master.fr/) (PSL/SU/Diderot/Saclay)
+Droplets / tiny devices maker. Now multi kingdom explorer ! 
+In charge of the [M2 Microfluidique](https://microfluidics-master.fr/) 
 
 > 2017 : Habilitation à diriger les recherches, UPMC  
-> 2009 – now : Maître de Conférences (Ass. Pr.) at [UPMC](http://www.upmc.fr/)  
-> 2006 – 2009 : Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo  
-> 2002 – 2006 : PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/))  
-> 2001 – 2002 : M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/))  
+> 2009 – now : Maître de Conférences (Ass. Pr.) at [UPMC](http://www.upmc.fr/)  
+> 2006 – 2009 : Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo  
+> 2002 – 2006 : PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/)) 
+> 2001 – 2002 : M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/)) 
 > 1998 – 2002 : Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))
 
-- Mr. Chaohe HU : PhD student (CSC Grant)
-- Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [[LinkedIn](https://www.linkedin.com/in/wafa-hechiche-a37248144/)]
-- Mr. Gabriel FINA : Research engineer
+## Current Members
 
-**Past members**
+- Ms. Héloïse UHL : PhD student
+
+- Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [[LinkedIn](https://www.linkedin.com/in/wafa-hechiche-a37248144/)]
+
+
+
+## Past members
+
+-
+
+- Mr. Chaohe HU : PhD student (CSC Grant)
+
+- Mr. Gabriel FINA : Research engineer
 
 - Ms. Lina BEN SALEM : Intern (L3 Pro Formulation, Sorbonne Université)
 
