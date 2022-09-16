@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Welcome to the website of the research team coordinated by Jacques Fattaccioli.
+
+Feel free to contact us for any questions about our research, job opportunities, etc.
