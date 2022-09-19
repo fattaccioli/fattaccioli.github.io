@@ -27,7 +27,7 @@ Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/so
 **2022**
 
 J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication) [[url]](https://elifesciences.org/articles/78330)  
-**BioRxiv** (**2022**) Link : [Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes | bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.03.473915v1)
+**BioRxiv** (**2022**) [[url]](https://www.biorxiv.org/content/10.1101/2022.01.03.473915v1)
 
 **2021**
 
