@@ -26,7 +26,7 @@ Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/so
 
 **2022**
 
-J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication)  
+J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication) [[url]](https://elifesciences.org/articles/78330)  
 **BioRxiv** (**2022**) Link : [Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes | bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.03.473915v1)
 
 **2021**
@@ -167,8 +167,6 @@ Patent Number : **WO2008125747 (A2)** [[pdf](https://fattacciolilab.files.wor
 [1] S. K. Mandal, N. Lequeux, B. Rotenberg, M. Tramier, J. Fattaccioli, J. Bibette and B. Dubertret  
 *Encapsulation of Magnetic and Fluorescent Nanoparticles in Emulsion Droplets*  
 **Langmuir**, 21 pp. 4175-4179 (**2005**) [[pdf](https://fattacciolilab.files.wordpress.com/2008/11/fattaccioli_jacques_28277_publi_1.pdf "Link to the pdf version")][[doi](http://dx.doi.org/10.1021/la047025m)]
-
-
 
 # Conferences
 
