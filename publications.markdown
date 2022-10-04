@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Preprint
 
-[1] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht, J. Fattaccioli, A. S. Utada  
+[1] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht\*, J. Fattaccioli\*, A. S. Utada\*  
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation  
 ***BioRxiv** (**2022**) 2022.08.06.503017; doi: https://doi.org/10.1101/2022.08.06.503017
 
