@@ -10,11 +10,6 @@ M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomur
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation  
 ***BioRxiv** (**2022**) 2022.08.06.503017; doi: https://doi.org/10.1101/2022.08.06.503017
 
-L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli*  
-*Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
-**BioRxiv** (**2021**) Link : https://doi.org/10.1101/2021.12.22.473360  
-Status : Under review in [Cell Reports Methods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075234).
-
 N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*.  
 **Arxiv (2021)** Link : [[2110.07412] An in silico study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412)
 
@@ -25,6 +20,9 @@ Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/so
 # Published or In Press
 
 **2022**
+
+L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli* *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. **BioRxiv** (**2021**) Link : https://doi.org/10.1101/2021.12.22.473360  
+Status : Accepted in [Cell Reports Methods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075234).
 
 J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication) [[url]](https://elifesciences.org/articles/78330)  
 **BioRxiv** (**2022**) [[url]](https://www.biorxiv.org/content/10.1101/2022.01.03.473915v1)
