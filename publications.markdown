@@ -51,12 +51,12 @@ Post-review preprint avaiable on the **ArXiv (2021)** [[url](https://arxiv.org
 Preprint available on BioRxiv [[Link to BioRXiv](https://doi.org/10.1101/482547)]  
 Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https://www.larecherche.fr/la-microfluidique-sint%C3%A9resse-aux-plantes)][[pdf](https://fattacciolilab.files.wordpress.com/2019/10/kaori-larecherche.pdf)]
 
-[25] L. Montel, L. Pinon,  J. Fattaccioli*.   
+[25] L. Montel, L. Pinon,  J. Fattaccioli\*.   
 *A multiparametric, quantitative and high-throughput assay to determine the influence of target size on phagocytic uptake*.  
 **Biophys. J.**, 117 (3) pp. 408-419 (**2019**) [[doi](https://doi.org/10.1016/j.bpj.2019.06.021)]  
 Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/482547)]
 
-[24] C. Vié, J. Fattaccioli*, P. Jacq*  
+[24] C. Vié, J. Fattaccioli\*, P. Jacq\*  
 *Introducing digital microfluidics concepts in chemistry using a macroscopic droplet generator.*    
 **Journal of Chemical Education**. 96 (4), pp. 797-800 (**2019**) [[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jchemed.8b00876)][[doi](http://dx.doi.org/10.1021/acs.jchemed.8b00876)]
 
@@ -69,7 +69,7 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 [22] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli*. *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets.*  
 **Langmuir,** 34 (50), pp 15319–15326  (**2018**) [[doi](http://dx.doi.org/10.1021/acs.langmuir.8b02721)][[url](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.8b02721)]
 
-[21] F.M. Allioux*, P. Kapruwan, N. Milne, L. Kong, J. Fattaccioli, Y. Chen, L.F. Dumée*. *Electro-capture of heavy metal ions with carbon cloth integrated microfluidic devices.*  
+[21] F.M. Allioux\*, P. Kapruwan, N. Milne, L. Kong, J. Fattaccioli, Y. Chen, L.F. Dumée\*. *Electro-capture of heavy metal ions with carbon cloth integrated microfluidic devices.*  
 **Sep. Purif. Technol.**, 194, pp. 26-32 (**2018**) [[doi](https://doi.org/10.1016/j.seppur.2017.10.064)]
 
 **2016**
