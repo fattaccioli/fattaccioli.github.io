@@ -17,6 +17,14 @@ C. Valencia-Gallardo*, D.-I. Aguilar-Salvador*, […], J. Fattaccioli, […], G.
 **BioRxiv** (**2019**) [[url](https://www.biorxiv.org/content/10.1101/773283v1)]  
 Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931631)]  
 
+# Submitted
+
+J. Pineau, L. Pinon, J. Fattaccioli*, P. Pierobon*
+
+*Functionalized Lipid Droplets and Microfluidics approach to study immune cell polarity in vitro*. **Methods in Molecular Biology**
+
+
+
 # Published or In Press
 
 **2022**
