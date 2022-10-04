@@ -6,38 +6,35 @@ permalink: /publications/
 
 # Preprint
 
-M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht, J. Fattaccioli, A. S. Utada  
+[1] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht, J. Fattaccioli, A. S. Utada  
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation  
 ***BioRxiv** (**2022**) 2022.08.06.503017; doi: https://doi.org/10.1101/2022.08.06.503017
 
-N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*.  
+[2] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*.  
 **Arxiv (2021)** Link : [[2110.07412] An in silico study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412)
 
-C. Valencia-Gallardo*, D.-I. Aguilar-Salvador*, […], J. Fattaccioli, […], G. Tran Van Nhieu*. *Vinculin targeting by Shigella IpaA promotes stable cell adhesion independent of mechanotransduction.*[[Under review](http://ssrn.com/abstract=3931631)]  
+[3] C. Valencia-Gallardo*, D.-I. Aguilar-Salvador*, […], J. Fattaccioli, […], G. Tran Van Nhieu*. *Vinculin targeting by Shigella IpaA promotes stable cell adhesion independent of mechanotransduction.*[[Under review](http://ssrn.com/abstract=3931631)]  
 **BioRxiv** (**2019**) [[url](https://www.biorxiv.org/content/10.1101/773283v1)]  
 Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931631)]  
 
 # Submitted
 
-J. Pineau, L. Pinon, J. Fattaccioli*, P. Pierobon*
-
+[1] J. Pineau, L. Pinon, J. Fattaccioli*, P. Pierobon*
 *Functionalized Lipid Droplets and Microfluidics approach to study immune cell polarity in vitro*. **Methods in Molecular Biology**
-
-
 
 # Published or In Press
 
 **2022**
 
-L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli* *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. **BioRxiv** (**2021**) Link : https://doi.org/10.1101/2021.12.22.473360  
+[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli* *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. **BioRxiv** (**2021**) Link : https://doi.org/10.1101/2021.12.22.473360  
 Status : Accepted in [Cell Reports Methods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075234).
 
-J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication) [[url]](https://elifesciences.org/articles/78330)  
+[29] J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication) [[url]](https://elifesciences.org/articles/78330)  
 **BioRxiv** (**2022**) [[url]](https://www.biorxiv.org/content/10.1101/2022.01.03.473915v1)
 
 **2021**
 
-O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli*. *Enhancing the capture efficiency and homogeneity of single-layer flow-through trapping microfluidic devices using oblique hydrodynamic streams*.  
+[28] O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli*. *Enhancing the capture efficiency and homogeneity of single-layer flow-through trapping microfluidic devices using oblique hydrodynamic streams*.  
 **Microfluidics and Nanofluidics**, [](https://link.springer.com/journal/10404) 25, 91 (**2021**) [[doi](https://doi.org/10.1007/s10404-021-02492-1)]  
 Post-review preprint avaiable on the **ArXiv (2021)** [[url](https://arxiv.org/abs/2106.14512)]
 
