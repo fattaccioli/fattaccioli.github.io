@@ -26,10 +26,11 @@ Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/so
 
 **2022**
 
-[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli* *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. **BioRxiv** (**2021**) Link : https://doi.org/10.1101/2021.12.22.473360  
+[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli* *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. 
+**BioRxiv** (**2021**) Link : https://doi.org/10.1101/2021.12.22.473360  
 Status : (Theoretically) Accepted in [Cell Reports Methods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075234).
 
-[29] J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication) [[url]](https://elifesciences.org/articles/78330)  
+[29] J. Pineau, L. Pinon, O. Mesdjian, *J. Fattaccioli*, A.-M. Lennon-Duménil, P. Pierobon* . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (Accepted for publication) [[url]](https://elifesciences.org/articles/78330)  
 **BioRxiv** (**2022**) [[url]](https://www.biorxiv.org/content/10.1101/2022.01.03.473915v1)
 
 **2021**
