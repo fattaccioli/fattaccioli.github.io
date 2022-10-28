@@ -23,9 +23,9 @@ Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/so
 
 **2022**
 
-[31] J. Pineau, L. Pinon, J. Fattaccioli*, P. Pierobon* *Functionalized Lipid Droplets and Microfluidics approach to study immune cell polarity in vitro*. **Methods in Molecular Biology** (Accepted)
+[31] J. Pineau, L. Pinon, J. Fattaccioli * , P. Pierobon *  *Functionalized Lipid Droplets and Microfluidics approach to study immune cell polarity in vitro*. **Methods in Molecular Biology** (Accepted)
 
-[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli* *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. 
+[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. 
 [Cell Reports Methods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075234) (In press).
 **BioRxiv** (**2021**) Link : https://doi.org/10.1101/2021.12.22.473360  
 
