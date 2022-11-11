@@ -26,23 +26,16 @@ Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/so
 [31] J. Pineau, L. Pinon, J. Fattaccioli * , P. Pierobon *  *Functionalized Lipid Droplets and Microfluidics approach to study immune cell polarity in vitro*. 
 **Methods in Molecular Biology** (Accepted)
 
-
-
 [30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. 
 Cell Reports Methods (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335) (In press). 
 
-
 [29] J. Pineau, L. Pinon, O. Mesdjian, *J. Fattaccioli*, A.-M. Lennon-Duménil, P. Pierobon* . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (2022) [[DOI]](https://elifesciences.org/articles/78330)  
-
-
 
 **2021**
 
 [28] O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli*. *Enhancing the capture efficiency and homogeneity of single-layer flow-through trapping microfluidic devices using oblique hydrodynamic streams*.  
 **Microfluidics and Nanofluidics**,  25, 91 (**2021**) [[doi](https://doi.org/10.1007/s10404-021-02492-1)]  
 Post-review preprint avaiable on the **ArXiv (2021)** [[url](https://arxiv.org/abs/2106.14512)]
-
-
 
 **2019**
 
@@ -69,8 +62,6 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 *Point mutations lead to increased levels of c-di-GMP and phenotypic changes to colony biofilm morphology in Alcanivorax borkumensis SK2.*  
 **Microbes and Environnements**. 34 (1) pp. 104-107 (**2019**) [[doi](https://doi.org/10.1264/jsme2.ME18151)][[pdf](https://www.jstage.jst.go.jp/article/jsme2/advpub/0/advpub_ME18151/_pdf/-char/en)]
 
-
-
 **2018**
 
 [22] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli*. *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets.*  
@@ -78,8 +69,6 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 
 [21] F.M. Allioux\*, P. Kapruwan, N. Milne, L. Kong, J. Fattaccioli, Y. Chen, L.F. Dumée\*. *Electro-capture of heavy metal ions with carbon cloth integrated microfluidic devices.*  
 **Sep. Purif. Technol.**, 194, pp. 26-32 (**2018**) [[doi](https://doi.org/10.1016/j.seppur.2017.10.064)]
-
-
 
 **2016**
 
@@ -95,15 +84,11 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 *Luminescent and Absorptive Metal-Coated Emulsions for Micro-Velocimetry*  
 **Microelectronic Engineering** 158**,** 69-74 (**2016**). [[pdf](http://www.sciencedirect.com/science/article/pii/S016793171630140X)][[doi](http://dx.doi.org/10.1016/j.mee.2016.03.028)].
 
-
-
 **2015**
 
 [17] K. Ben M’Barek, D. Molino, S. Quignard, Y. Chen, P. Chavrier and J. Fattaccioli*  
 *Phagocytosis of Immunoglobulin-Coated Emulsion Droplets*  
 **Biomaterials** 51, 270-277  (**2015**). [[pdf](https://fattacciolilab.files.wordpress.com/2015/03/phagocytosisdroplets_versionfinale.pdf "Article Phagocytosis")][[doi](http://dx.doi.org/10.1016/j.biomaterials.2015.02.030)]
-
-
 
 **2014**
 
@@ -120,22 +105,16 @@ Article highlighted in Wiley-VCH Hot Topics – Surfaces and Interfaces. [[link]
 *Spatially-Controlled Crystallization in Microfluidics Chambers*  
 **Journal of Crystal Growth** 386  pp. 179-182 (**2014**). [[pdf](https://fattacciolilab.files.wordpress.com/2013/10/2013_spatially-controlled-protein-crystallization-in-microfluidic-chambers_jcrystgrowth.pdf "Spatially-Controlled Crystallization in Microfluidics Chambers")][[doi](http://dx.doi.org/10.1016/j.jcrysgro.2013.10.011)]
 
-
-
 **2013**
 
 [13]  J. Fattaccioli. Méthode de dépôt de de polymère sur des particules liquides.  
 Patent Number : PCT/FR2014/050461 (**2013**). [[url](http://worldwide.espacenet.com/publicationDetails/biblio?DB=worldwide.espacenet.com&II=0&ND=3&adjacent=true&locale=fr_EP&FT=D&date=20140904&CC=WO&NR=2014132012A1&KC=A1 "EspaceNet")]
-
-
 
 **2012**
 
 [12] JH Park, J. Fattaccioli, H. Fujita and BJ Kim.  
 *Fabrication of Aluminum/Alumina Patterns Using Localized Anodization of Aluminum*.  
 **Int. J. of Precision Eng. And Manuf.** 5 (13) pp. 765-770 (**2012**). [[pdf](http://wp.me/anEh5-8G "Link to the pdf version")][[doi](http://dx.doi.org/10.1007/s12541-012-0100-9)]
-
-
 
 **2009**
 
@@ -162,8 +141,6 @@ Asian Society for Precision Engineering and Nanotechnology Conference
 22st IEEE International Conference on Micro Electro Mechanical Systems  
 **IEEE MEMS’2009 Conference Proceedings**, pp. 567-570 [[pdf](https://fattacciolilab.files.wordpress.com/2008/11/mems09aki0463.pdf "Link to the pdf version")][[doi](http://dx.doi.org/10.1109/MEMSYS.2009.4805445 "Link throug the DOI")]
 
-
-
 **2008**
 
 [6] Y.T. Cheng, J. Fattaccioli, S. Akiyama, N. Takama, Y. Akagi, S.J. Cho, and B.J. Kim.  
@@ -186,8 +163,6 @@ Micro and Nano Engineering Conference 2008 (**MNE 2008**) [[pdf](https://fattacc
 [2] M. Goutayer, I. Texier-Nogues, J. Fattaccioli and J. Bibette.  
 *Émulsions fluorescentes pour l’imagerie optique.*  
 Patent Number : **WO2008125747 (A2)** [[pdf](https://fattacciolilab.files.wordpress.com/2008/11/fattaccioli-emulsions.pdf "Link to the pdf version")]
-
-
 
 **2005**
 
