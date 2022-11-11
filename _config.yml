@@ -30,10 +30,10 @@ google_analytics: G-PW1QZ6LFPN
 
 # Build settings
 - theme: minima
-+ remote_theme: jekyll/minima
-#plugins:
+#+ remote_theme: jekyll/minima
+plugins:
 #  + - jekyll-remote-theme
-#  - jekyll-feed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
