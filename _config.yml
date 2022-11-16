@@ -29,10 +29,10 @@ github_username:  FattaccioliLab
 google_analytics: G-PW1QZ6LFPN
 
 # Build settings
-theme: minima
+- theme: minima
 + remote_theme: jekyll/minima
 
-plugins:
+  plugins:
 + - jekyll-remote-theme
 
 # Exclude from processing.
