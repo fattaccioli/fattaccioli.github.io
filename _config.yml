@@ -32,7 +32,7 @@ google_analytics: G-PW1QZ6LFPN
 - theme: minima
 + remote_theme: jekyll/minima
 
-  plugins:
+plugins:
 + - jekyll-remote-theme
 
 # Exclude from processing.
