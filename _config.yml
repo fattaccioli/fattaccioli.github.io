@@ -29,8 +29,7 @@ github_username:  FattaccioliLab
 google_analytics: G-PW1QZ6LFPN
 
 # Build settings
-- theme: minima
-+ remote_theme: jekyll/minima
+theme: minima
 
 plugins:
   - jekyll-feed
