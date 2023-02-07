@@ -8,22 +8,20 @@ permalink: /members/
 
 Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)]
 
+Current positions : 
+
+2015 - Now : Team leader at Institut Pierre-Gilles de Gennes \
+2009 – Now : Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) \
+2018 - Now : In charge of the [M2 Microfluidique](https://microfluidics-master.fr/) \
+
+Academic positions and studies
+
 2020 : EELISA Dean of Studies \
-2018 - Now : In charge of the [M2 Microfluidique](https://microfluidics-master.fr/) 
-
-2015 - Now : Team leader at Institut Pierre-Gilles de Gennes
-
-2009 – Now : Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/)
-
-2017 : Habilitation à diriger les recherches, UPMC  
-
-2006 – 2009 : Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo  
-
-2002 – 2006 : PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/)) 
-
-2001 – 2002 : M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/)) 
-
-1998 – 2002 : Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))
+2017 : Habilitation à diriger les recherches, Sorbonne Université  \
+2006 – 2009 : Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo  \\
+2002 – 2006 : PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/)) \
+2001 – 2002 : M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/)) \
+1998 – 2002 : Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))\
 
 ## Current Members
 
