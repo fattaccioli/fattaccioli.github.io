@@ -31,7 +31,7 @@ Academic positions and studies
 
 - Ms. Martin COUX : Postdoctoral researcher (Funding : ANR Phosphalgues) [[LinkedIn](https://www.linkedin.com/in/martin-coux/)
 
-- Ms. Chiara POMPILI : PhD student (Primary supervisor : F. Niedergang, Institut Cochin, 2022 - 2025, Funding : 80"|"Prime CNRS) [[LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)]
+- Ms. Chiara POMPILI : PhD student (Primary supervisor : F. Niedergang, Institut Cochin, 2022 - 2025, Funding : 80Prime CNRS) [[LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)]
 
 
 
