@@ -8,8 +8,7 @@ permalink: /members/
 
 Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)]
 
-2020 : EELISA Dean of Studies
-
+2020 : EELISA Dean of Studies \
 2018 - Now : In charge of the [M2 Microfluidique](https://microfluidics-master.fr/) 
 
 2015 - Now : Team leader at Institut Pierre-Gilles de Gennes
