@@ -19,11 +19,21 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 
 ## Current Members
 
-- Ms. Héloïse UHL : PhD student
+- Ms. Héloïse UHL : PhD student (Funding : ANR Phagochemiforce)
 
-- Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [[LinkedIn](https://www.linkedin.com/in/wafa-hechiche-a37248144/)]
+- Ms. Estelle LU : PhD student (Funding : Sorbonne Université - ED 388)
+
+- Ms. Martin COUX : Postdoctoral researcher (Funding : ANR Phosphalgues) [[LinkedIn](https://www.linkedin.com/in/martin-coux/)
+
+- Ms. Chiara POMPILI : PhD student (Primary supervisor : F. Niedergang, Institut Cochin, 2022 - 2025, Funding : 80|Prime CNRS) [[LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)]
+
+
 
 ## Past members
+
+- Ms. Charlie BRUNET : Intern (L3 Pro Formulation, Sorbonne Université)
+
+- Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [[LinkedIn](https://www.linkedin.com/in/wafa-hechiche-a37248144/)]
 
 - Mr. Chaohe HU : PhD student (CSC Grant)
 

@@ -17,7 +17,6 @@ permalink: /publications/
 **BioRxiv** (**2019**) [[url](https://www.biorxiv.org/content/10.1101/773283v1)]  
 Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931631)]  
 
-# 
 
 # Published or In Press
 
@@ -27,7 +26,7 @@ Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/so
 **Methods in Molecular Biology** (Accepted)
 
 [30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon* , and J. Fattaccioli*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. 
-Cell Reports Methods (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335) (In press). 
+**Cell Reports Methods** (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335) (In press). 
 
 [29] J. Pineau, L. Pinon, O. Mesdjian, *J. Fattaccioli*, A.-M. Lennon-Duménil, P. Pierobon* . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (2022) [[DOI]](https://elifesciences.org/articles/78330)  
 
