@@ -34,7 +34,7 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 
 - Ms. Martin COUX : Postdoctoral researcher (Funding : ANR Phosphalgues) [[LinkedIn](https://www.linkedin.com/in/martin-coux/)
 
-- Ms. Chiara POMPILI : PhD student (Primary supervisor : F. Niedergang, Institut Cochin, 2022 - 2025, Funding : 80|Prime CNRS) [[LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)]
+- Ms. Chiara POMPILI : PhD student (Primary supervisor : F. Niedergang, Institut Cochin, 2022 - 2025, Funding : 80"|"Prime CNRS) [[LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)]
 
 
 
