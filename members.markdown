@@ -25,10 +25,12 @@ Academic positions and studies
 
 ## Current Members
 
-- Ms. Héloïse UHL : PhD student (Funding : ANR Phagochemiforce) \
-- Ms. Estelle LU : PhD student (Funding : Sorbonne Université - ED 388) \
-- Ms. Martin COUX : Postdoctoral researcher (Funding : ANR Phosphalgues) [[LinkedIn](https://www.linkedin.com/in/martin-coux/) \
-- Ms. Chiara POMPILI : PhD student (Primary supervisor : F. Niedergang, Institut Cochin, 2022 - 2025, Funding : 80Prime CNRS) [[LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)]
+|  | Status | Funding |  |
+|---|---|---|---|
+| Ms. Héloïse UHL | PhD student | ANR Phagochemiforce |  |
+| Ms. Estelle LU | PhD student | Sorbonne U. - ED 388 |  |
+| Ms. Martin COUX | Postdoctoral researcher | ANR Phosphalgues | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
+| Ms. Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
 
 
 
