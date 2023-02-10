@@ -36,12 +36,14 @@ Academic positions and studies
 
 ## Past members
 
-| 2023 | Ms. Charlie BRUNET : Intern (L3 Pro Formulation, Sorbonne Université) \ |
-| 2019 - 2023 | Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [LinkedIn] \ |
-| 2019 - 2022 | Mr. Chaohe HU : PhD student (CSC Grant) \ |
-| 2021 - 2022 | Mr. Gabriel FINA : Research engineer \ |
-| 2022 | Ms. Lina BEN SALEM : Intern (L3 Pro Formulation, Sorbonne Université) \ |
-| 2021 | Ms. Romane VINOT : Intern (M2 Microfluidics) \ |
+| Year (s) | Name and status |
+|:---:|:---:|
+|  | Ms. Charlie BRUNET : Intern (L3 Pro Formulation, Sorbonne Université) \ |
+|  | Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [LinkedIn] \ |
+|  | Mr. Chaohe HU : PhD student (CSC Grant) \ |
+|  | Mr. Gabriel FINA : Research engineer \ |
+|  | Ms. Lina BEN SALEM : Intern (L3 Pro Formulation, Sorbonne Université) \ |
+|  | Ms. Romane VINOT : Intern (M2 Microfluidics) \ |
 | 2017 – 2021 | Lea PINON, PhD : Postdoc [ORCID][LinkedIn] \ |
 | 2020 – 2021 |  Julie SIGNEUX, Research engineer \ |
 | 2021 |  Walid BEZAOUCH (L3 Pro, Sorbonne Université) \ |
