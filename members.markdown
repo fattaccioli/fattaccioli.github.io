@@ -27,10 +27,11 @@ Academic positions and studies
 
 |  | Status | Funding |  |
 |---|---|---|---|
-| Ms. Héloïse UHL | PhD student | ANR Phagochemiforce |  |
-| Ms. Estelle LU | PhD student | Sorbonne U. - ED 388 |  |
-| Ms. Martin COUX | Postdoctoral researcher | ANR Phosphalgues | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
-| Ms. Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
+| Charles CAVANIOL | Postdoctoral researcher |  | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
+| Martin COUX | Postdoctoral researcher | ANR Phosphalgues | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
+| Estelle LU | PhD student | Sorbonne U. - ED 388 |  |
+| Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
+| Héloïse UHL | PhD student | ANR Phagochemiforce |  |
 
 
 
