@@ -11,11 +11,7 @@ permalink: /publications/
 ***BioRxiv** (**2022**) 2022.08.06.503017; doi: https://doi.org/10.1101/2022.08.06.503017
 
 [2] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*.  
-**Arxiv (2021)** Link : [[2110.07412] An in silico study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412)
-
-[3] C. Valencia-Gallardo\*, D.-I. Aguilar-Salvador\*, […], J. Fattaccioli, […], G. Tran Van Nhieu*. *Vinculin targeting by Shigella IpaA promotes stable cell adhesion independent of mechanotransduction.*[[Under review](http://ssrn.com/abstract=3931631)]  
-**BioRxiv** (**2019**) [[url](https://www.biorxiv.org/content/10.1101/773283v1)]  
-Status : Review complete in Developmental Cell [[URL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931631)]  
+**Arxiv (2021)** Link : [[2110.07412] An in silico study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412) 
 
 
 # Published or In Press
