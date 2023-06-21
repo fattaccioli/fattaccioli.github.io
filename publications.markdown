@@ -225,3 +225,5 @@ Tucson, Arizona, U.S.A. [[url](http://www.mems2008.org/ "MEMS 2008")]
 *Adhésion de gouttes d’émulsions fonctionnalisées.*  
 **9emes Journées de la Matière Condensée**  
 30 August-3 September 2004, Nancy, France
+
+-
