@@ -16,17 +16,18 @@ permalink: /publications/
 
 [32] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht\*, J. Fattaccioli\*, A. S. Utada\*  
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation  
-Science (Accepted), 2023  
+***Science*** (Accepted), 2023  
 ***BioRxiv** (**2022**) 2022.08.06.503017; doi: https://doi.org/10.1101/2022.08.06.503017
 
 [31] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) **The Immune Synapse**. *Methods in Molecular Biology*, vol 2654. Humana, New York, NY. [DOI](https://doi.org/10.1007/978-1-0716-3135-5_22)
 
 **2022**
 
-[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*. 
+[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
 **Cell Reports Methods** (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335) (In press). 
 
-[29] J. Pineau, L. Pinon, O. Mesdjian, *J. Fattaccioli*, A.-M. Lennon-Duménil, P. Pierobon\* . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*. **eLife** (2022) [[DOI]](https://elifesciences.org/articles/78330)  
+[29] J. Pineau, L. Pinon, O. Mesdjian, *J. Fattaccioli*, A.-M. Lennon-Duménil, P. Pierobon\* . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*.  
+**eLife** (2022) [[DOI]](https://elifesciences.org/articles/78330)  
 
 **2021**
 
