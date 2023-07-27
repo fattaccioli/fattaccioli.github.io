@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Positions
-permalink: /open/
+permalink: /positions/
 ---
 
 We have several open positions (funded) in the team. All of them to start ASAP
