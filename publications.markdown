@@ -31,7 +31,9 @@ T. McGenity and P.-P. Laissue
 News in Physics Today : *How bacteria help clean up oil spills*
 [URL](https://pubs.aip.org/physicstoday/online/42663/How-bacteria-help-clean-up-oil-spills)
 
-[31] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) **The Immune Synapse**. *Methods in Molecular Biology*, vol 2654. Humana, New York, NY. [DOI](https://doi.org/10.1007/978-1-0716-3135-5_22)
+[31] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) 
+**The Immune Synapse**. 
+*Methods in Molecular Biology*, vol 2654. Humana, New York, NY. [DOI](https://doi.org/10.1007/978-1-0716-3135-5_22)
 
 **2022**
 
