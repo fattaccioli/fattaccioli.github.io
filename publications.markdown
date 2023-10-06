@@ -11,9 +11,9 @@ permalink: /publications/
 **BioRxiv (2023)**
 
 
-[2] B. COCOM-CHAN, H. KHAKZAD, M. KONATE, D. ISUI-AGUILAR, C. BELLO, C. VALENCIA-GALLARDO 5-8 , Y. ZARROUK , Jacques
-FATTACCIOLI, A. MAUVIEL, D. JAVELAUD, G. TRAN VAN NHIEU \
-*A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*
+[2] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
+Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
+*A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
 **Submitted** (2023)
 
 [3] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*  \
