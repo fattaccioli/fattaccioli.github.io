@@ -7,11 +7,11 @@ permalink: /publications/
 # Preprint
 
 [1] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
-*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* 
+*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
 **BioRxiv (2023)**
 
-[2] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*  
-**Arxiv (2021)** 
+[2] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*  \
+**Arxiv (2021)** \
 Link : [[2110.07412] An in silico study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412) 
 
 
@@ -24,11 +24,11 @@ Link : [[2110.07412] An in silico study to geometrically optimize microfluidic 
 **Science** 381,748-753 (2023). DOI:10.1126/science.adf3345
 [URL](https://www.science.org/doi/10.1126/science.adf3345)
 
-Perspective : *Bacteria stretch and bend oil to feed their appetite*
+**Perspective** : *Bacteria stretch and bend oil to feed their appetite*
 T. McGenity and P.-P. Laissue
 [URL](https://www.science.org/doi/full/10.1126/science.adj4430)
 
-News in Physics Today : *How bacteria help clean up oil spills*
+News in **Physics Today** : *How bacteria help clean up oil spills*
 [URL](https://pubs.aip.org/physicstoday/online/42663/How-bacteria-help-clean-up-oil-spills)
 
 [31] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) 
