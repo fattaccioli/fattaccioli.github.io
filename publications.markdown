@@ -6,7 +6,10 @@ permalink: /publications/
 
 # Preprint
 
-[1] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*.  
+[1] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
+*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* **BioRxiv (2023)**
+
+[2] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*.  
 **Arxiv (2021)** Link : [[2110.07412] An in silico study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412) 
 
 
