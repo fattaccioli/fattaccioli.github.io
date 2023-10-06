@@ -30,6 +30,7 @@ Academic positions and studies
 | Charles CAVANIOL | Postdoctoral researcher |  | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
 |---|---|---|---|
 |---|---|---|---|
+|---|---|---|---|
 | Estelle LU | PhD student | Sorbonne U. - ED 388 |  |
 | Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
 | Héloïse UHL | PhD student | ANR Phagochemiforce |  |
