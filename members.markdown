@@ -28,7 +28,8 @@ Academic positions and studies
 |  | Status | Funding |  |
 |---|---|---|---|
 | Charles CAVANIOL | Postdoctoral researcher |  | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
-| Martin COUX | Postdoctoral researcher | ANR Phosphalgues | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
+|---|---|---|---|
+|---|---|---|---|
 | Estelle LU | PhD student | Sorbonne U. - ED 388 |  |
 | Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
 | Héloïse UHL | PhD student | ANR Phagochemiforce |  |
@@ -39,6 +40,7 @@ Academic positions and studies
 
 | Year (s) | Name and status |
 |---|---|
+| 2023 | Martin COUX | Postdoctoral researcher - ANR Phosphalgues - [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
 | 2023 | Ms. Charlie BRUNET : Intern (L3 Pro Formulation, Sorbonne Université) \ |
 | 2019 - 2023 | Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [LinkedIn] \ |
 | 2019 - 2023 | Mr. Chaohe HU : PhD student (CSC Grant) \ |
