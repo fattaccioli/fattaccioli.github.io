@@ -18,7 +18,7 @@ Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 
 [3] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*  \
 **Arxiv (2021)** \
-Link : [[2110.07412] An *in silico* study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412) 
+Link : [[2110.07412] An *in silico* study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412){:target="_blank"}
 
 
 # Published or In Press
@@ -28,14 +28,14 @@ Link : [[2110.07412] An *in silico* study to geometrically optimize microfluidi
 [32] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht\*, J. Fattaccioli\*, A. S. Utada\*  
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation  
 **Science** 381,748-753 (2023). DOI:10.1126/science.adf3345
-[URL](https://www.science.org/doi/10.1126/science.adf3345)
+[URL](https://www.science.org/doi/10.1126/science.adf3345){:target="_blank"}
 
 **Perspective** : *Bacteria stretch and bend oil to feed their appetite*
 T. McGenity and P.-P. Laissue
-[URL](https://www.science.org/doi/full/10.1126/science.adj4430)
+[URL](https://www.science.org/doi/full/10.1126/science.adj4430){:target="_blank"}
 
 News in **Physics Today** : *How bacteria help clean up oil spills*
-[URL](https://pubs.aip.org/physicstoday/online/42663/How-bacteria-help-clean-up-oil-spills)
+[URL](https://pubs.aip.org/physicstoday/online/42663/How-bacteria-help-clean-up-oil-spills){:target="_blank"}
 
 [31] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) 
 **The Immune Synapse**. 
