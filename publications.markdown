@@ -8,7 +8,8 @@ permalink: /publications/
 
 [1] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
 *FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
-**BioRxiv (2023)**
+**ChemRxiv (2023)** \
+[DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"}
 
 
 [2] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
