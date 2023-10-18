@@ -29,9 +29,9 @@ Academic positions and studies
 |  | Status | Funding |  |
 |---|---|---|---|
 | Charles CAVANIOL | Postdoctoral researcher |  | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
+|Alexandre CHARGUERAUD| PhD student | ANR Phosphalgue |[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
-|---|---|---|---|
-|---|---|---|---|
+|Aurélien LEPOËTRE | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/|
 | Estelle LU | PhD student | Sorbonne U. - ED 388 |  |
 | Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
 | Héloïse UHL | PhD student | ANR Phagochemiforce |  |
