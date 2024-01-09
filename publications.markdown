@@ -17,7 +17,7 @@ Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 **Submitted** (2023)
 
 [3] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
-**Arxiv (2021)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
+**Arxiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
 
 # Published or In Press
