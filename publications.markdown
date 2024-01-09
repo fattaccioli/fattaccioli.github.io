@@ -11,15 +11,13 @@ permalink: /publications/
 **ChemRxiv (2023)** \
 [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"}
 
-
 [2] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
 Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 *A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
 **Submitted** (2023)
 
-[3] N. Ruyssen, J. Fattaccioli, M.C. Jullien, R. Allena*. *An in silico study to geometrically optimize microfluidic trap array for trapping efficiency*  \
-**Arxiv (2021)** \
-Link : [[2110.07412] An *in silico* study to geometrically optimize microfluidic trap array for trapping efficiency](http://arxiv.org/abs/2110.07412){:target="_blank"}
+[3] N. Ruyssen*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
+**Arxiv (2021)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
 
 # Published or In Press
