@@ -16,7 +16,7 @@ Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 *A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
 **Submitted** (2023)
 
-[3] N. Ruyssen*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
+[3] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
 **Arxiv (2021)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
 
