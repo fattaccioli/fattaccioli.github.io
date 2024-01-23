@@ -9,11 +9,6 @@ permalink: /publications/
 [1] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
 **Arxiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
-[2] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
-*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
-**ChemRxiv (2023)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
-Currently under revision
-
 [3] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
 Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 *A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
@@ -25,6 +20,11 @@ Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 # Published or In Press
 
 **2023**
+
+[33] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
+*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
+**ChemRxiv (2024)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
+In Press
 
 [32] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht\*, J. Fattaccioli\*, A. S. Utada\*  
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation  
