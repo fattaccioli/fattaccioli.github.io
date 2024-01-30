@@ -6,6 +6,11 @@ permalink: /research/
 
 # Functional lipid droplets as aAPCs
 
+[9] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
+*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
+**ChemRxiv (2024)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
+In Press
+
 [8] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) **The Immune Synapse**. *Methods in Molecular Biology*, vol 2654. Humana, New York, NY. [DOI](https://doi.org/10.1007/978-1-0716-3135-5_22)
 
 [7] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
@@ -36,14 +41,19 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 
 # Microfluidic trapping arrays 
 
-[30] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
+[6] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
+*Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
+**Arxiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"} \
+Under review
+
+[5] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
 **Cell Reports Methods** (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335) (In press). 
 
-[28] O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli\*. *Enhancing the capture efficiency and homogeneity of single-layer flow-through trapping microfluidic devices using oblique hydrodynamic streams*.  
+[4] O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli\*. *Enhancing the capture efficiency and homogeneity of single-layer flow-through trapping microfluidic devices using oblique hydrodynamic streams*.  
 **Microfluidics and Nanofluidics**,  25, 91 (**2021**) [[doi](https://doi.org/10.1007/s10404-021-02492-1)]  
 Post-review preprint avaiable on the **ArXiv (2021)** [[url](https://arxiv.org/abs/2106.14512)]
 
-[26] K. Sakai, F. Charlot, T. Le Saux, S. Bonhomme, F. Nogué, J.C. Palauqui\*, J. Fattaccioli\*.   
+[3] K. Sakai, F. Charlot, T. Le Saux, S. Bonhomme, F. Nogué, J.C. Palauqui\*, J. Fattaccioli\*.   
 *Design of a microfluidic and microscopic toolbox for the ultra-wide spatio-temporal study of plant protoplast development and physiology.*  
 **Plant Methods**, 15, n° 19 (**2019**) [[doi](https://doi.org/10.1186/s13007-019-0459-z)]  
 Preprint available on BioRxiv [[Link to BioRXiv](https://doi.org/10.1101/482547)]  
@@ -62,11 +72,8 @@ Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https:/
 
 # Sophisticated microparticles
 
-[6] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli\*. *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets.*  
+[5] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli\*. *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets.*  
 **Langmuir,** 34 (50), pp 15319–15326  (**2018**) [[doi](http://dx.doi.org/10.1021/acs.langmuir.8b02721)][[url](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.8b02721)]
-
-[5] F.M. Allioux\*, P. Kapruwan, N. Milne, L. Kong, J. Fattaccioli, Y. Chen, L.F. Dumée\*. *Electro-capture of heavy metal ions with carbon cloth integrated microfluidic devices.*  
-**Sep. Purif. Technol.**, 194, pp. 26-32 (**2018**) [[doi](https://doi.org/10.1016/j.seppur.2017.10.064)]
 
 [4] S. Quignard\*, G. Frébourg, Y. Chen, J. Fattaccioli*.  
 *Nanometric emulsions encapsulating solid particles as alternative carriers for intracellular delivery.*  
