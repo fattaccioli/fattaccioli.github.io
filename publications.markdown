@@ -6,17 +6,18 @@ permalink: /publications/
 
 # Preprint and/or Submitted
 
-[1] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
+[1] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \ *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \ **ChemRxiv** (2024) doi:10.26434/chemrxiv-2024-3c42z
+
+[2] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
 **Arxiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"} \
 Under review
 
-[2] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\* \
+[3] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\* \
 *Functionalization of microbubbles in a microfluidic chip for biosensing applications* \
 Under review (**2024**)
 
-
-[3] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
+[4] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
 Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 *A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
 **Submitted** (2023)
