@@ -17,17 +17,16 @@ Under review
 *Functionalization of microbubbles in a microfluidic chip for biosensing applications* \
 Under review (**2024**)
 
-[4] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
-Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
-*A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
-**Submitted** (2023)
-
-
 
 
 # Published or In Press
 
 **2024**
+
+[34] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
+Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
+*A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
+**Under review** (2024)
 
 [33] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
 *FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
