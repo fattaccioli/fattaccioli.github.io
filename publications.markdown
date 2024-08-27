@@ -13,17 +13,17 @@ permalink: /publications/
 **Arxiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"} \
 Under review
 
-[3] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\* \
-*Functionalization of microbubbles in a microfluidic chip for biosensing applications* \
-Under review (**2024**)
 
 
 # Published or In Press
 
 **2024**
 
-[34] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J.
-Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
+[35] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\* \
+*Functionalization of microbubbles in a microfluidic chip for biosensing applications* \
+Biomedical Microdevices (**2024**, Accepted)
+
+[34] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J. Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
 *A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
 **Life Science Alliance** (2024, In press)
 
