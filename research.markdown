@@ -9,7 +9,7 @@ permalink: /research/
 
 # Functional lipid droplets as aAPCs
 
-![image](/assets/images/macrophage.jpg){: style="float: left" width="50px"}
+![image](/assets/images/macrophage.jpg){: style="float: left" width="100px"}
 
 Some text.
 
