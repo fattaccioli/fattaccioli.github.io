@@ -5,7 +5,10 @@ permalink: /research/
 ---
 
 <details>
-<summary>Preview</summary>
+<summary># Functional lipid droplets as aAPCs
+
+blabla
+</summary>
 
 {% highlight ruby %}
 
