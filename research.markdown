@@ -15,7 +15,7 @@ bla bla
 | --- | --- |
 | List | <ul><li>aaa</li><li>bbb</li><ul> |
 | Code block | <pre><code>ccc</code></pre> |
-| Image | <img src="/assets/images/macrophage.jpg"> |
+| Image | <img src="/assets/images/macrophage.jpg" width='50'> |
 
 <details>
 <summary> **Related references**
