@@ -4,7 +4,28 @@ title: Members
 permalink: /members/
 ---
 
-## Current Members
+### Jacques Fattaccioli - Short bio
+
+Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)]
+
+**Current positions**
+
+|2015 - Now| Team leader à l'[Institut Pierre-Gilles de Gennes](http://www.institut-pgg.fr)|
+|2009 - Now| Membre du Pôle NBMS du laboratoire PASTEUR (UMR 8640) du <br>[Département de Chimie](http://www.chimie.ens.psl.eu) de l'ENS-PSL |
+|2009 – Now| Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) |
+|2018 - Now| Head of the [Master 2 Microfluidics Program](https://microfluidics-master.fr/) |
+
+**Academic positions and studies**
+
+|2023 | Fulbright Scholar (May-July, Invited Professor) at the [CSMR](https://as.nyu.edu/research-centers/csmr.html) of [NYU](http://www.nyu.edu) |
+|2020 | EELISA Dean of Studies |
+|2017 | Habilitation à diriger les recherches, Sorbonne Université  |
+|2006 – 2009 | Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo |
+|2002 – 2006 | PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/)) |
+|2001 – 2002 | M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/)) |
+|1998 – 2002 | Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))|
+
+### Current Members
 
 |  | Status | Funding | LinkedIn Profile  |
 |---|---|---|---|
@@ -17,8 +38,7 @@ permalink: /members/
 | Héloïse UHL | PhD student | ANR Phagochemiforce |  |
 
 
-
-## Alumni
+### Alumni
 
 | Start - End | Name | Status | |
 |---|---|---|---|
