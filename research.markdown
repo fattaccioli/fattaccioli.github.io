@@ -11,6 +11,12 @@ permalink: /research/
 
 bla bla 
 
+| Content | Example |
+| --- | --- |
+| List | <ul><li>aaa</li><li>bbb</li><ul> |
+| Code block | <pre><code>ccc</code></pre> |
+| Image | <img src="/assets/images/2023/macrophage.jpg"> |
+
 <details>
 <summary> **Related references**
 {: style="display: inline;"}
