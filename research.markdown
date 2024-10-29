@@ -5,26 +5,19 @@ permalink: /research/
 ---
 
 <details>
-<summary># Functional lipid droplets as aAPCs
-
-blabla
+<summary>
+Toggle hidden text
+{: style="display: inline;"}
 </summary>
+<br>{: style="display: inline;"}
 
-{% highlight ruby %}
-
-
-[9] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
-*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
-**ChemRxiv (2024)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
-In Press
-
-[8] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) **The Immune Synapse**. *Methods in Molecular Biology*, vol 2654. Humana, New York, NY. [DOI](https://doi.org/10.1007/978-1-0716-3135-5_22)
-
-[7] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
-**Cell Reports Methods** (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335) (In press). 
-
-{% endhighlight %}
-
+This is a *collapsible paragraph*.
+```json
+{
+  "key": "value",
+  "foo": "bar"
+}
+``` 
 </details>
 
 <details>
