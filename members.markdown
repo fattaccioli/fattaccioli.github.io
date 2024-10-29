@@ -26,9 +26,8 @@ Academic positions and studies
 
 ## Current Members
 
-|  | Status | Funding |  |
+|  | Status | Funding | LinkedIn Profile  |
 |---|---|---|---|
-
 |Alexandre CHARGUERAUD| PhD student | ANR Phosphalgue |[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
 |Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr|
