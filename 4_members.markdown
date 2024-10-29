@@ -29,13 +29,13 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 
 |  | Status | Funding | LinkedIn Profile  |
 |---|---|---|---|
-|Alexandre CHARGUERAUD| PhD student | ANR Phosphalgue | [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
+|Alexandre CHARGUERAUD| PhD student  | [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
-|Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
-|Aurélien LEPOËTRE | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/) |
-| Estelle LU | PhD student | Sorbonne U. - ED 388 | [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
-| Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
-| Héloïse UHL | PhD student | ANR Phagochemiforce |  |
+|Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
+|Aurélien LEPOËTRE | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/) |
+| Estelle LU | PhD student |  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
+| Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
+| Héloïse UHL | PhD student |  |
 
 
 ### Alumni
