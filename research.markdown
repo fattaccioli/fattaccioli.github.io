@@ -11,6 +11,10 @@ permalink: /research/
 
 bla bla 
 
+![image](/assets/images/macrophage.jpg){: style="float: left"}
+
+Some text.
+
 | Content | Example |
 | --- | --- |
 | List | <ul><li>aaa</li><li>bbb</li><ul> |
