@@ -15,7 +15,7 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 **Current positions**
 
 |2015 - Now| Team leader à l'[Institut Pierre-Gilles de Gennes](http://www.institut-pgg.fr)|
-|2009 - Now| Membre du Pôle NBMS du laboratoire PASTEUR (UMR 8640) du [Département de Chimie](http://www.chimie.ens.psl.eu) de l'ENS-PSL |
+|2009 - Now| Membre du Pôle NBMS du laboratoire PASTEUR (UMR 8640) du <br>[Département de Chimie](http://www.chimie.ens.psl.eu) de l'ENS-PSL |
 |2009 – Now| Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) |
 |2018 - Now| Head of the [Master 2 Microfluidics Program](https://microfluidics-master.fr/) |
 
