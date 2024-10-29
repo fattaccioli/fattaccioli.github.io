@@ -75,6 +75,10 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 <br>
 # Microfluidic trapping arrays 
 
+![image](/assets/images/MicrofluidicTrap.png){: style="float: left; margin-right: 20px" width="100px"}
+
+<br>
+<br>
 <details>
 <summary> **Related references**
 {: style="display: inline;"}
