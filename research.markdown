@@ -9,17 +9,9 @@ permalink: /research/
 
 # Functional lipid droplets as aAPCs
 
-bla bla 
-
 ![image](/assets/images/macrophage.jpg){: style="float: left" width="50px"}
 
 Some text.
-
-| Content | Example |
-| --- | --- |
-| List | <ul><li>aaa</li><li>bbb</li><ul> |
-| Code block | <pre><code>ccc</code></pre> |
-| Image | <img src="/assets/images/macrophage.jpg" width='50'> |
 
 <details>
 <summary> **Related references**
@@ -64,6 +56,12 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 
 # Microfluidic trapping arrays 
 
+<details>
+<summary> **Related references**
+{: style="display: inline;"}
+</summary>
+<br>{: style="display: inline;"}
+
 [6] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
 **Arxiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"} \
@@ -81,8 +79,15 @@ Post-review preprint avaiable on the **ArXiv (2021)** [[url](https://arxiv.org
 **Plant Methods**, 15, n° 19 (**2019**) [[doi](https://doi.org/10.1186/s13007-019-0459-z)]  
 Preprint available on BioRxiv [[Link to BioRXiv](https://doi.org/10.1101/482547)]  
 Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https://www.larecherche.fr/la-microfluidique-sint%C3%A9resse-aux-plantes)][[pdf](https://fattacciolilab.files.wordpress.com/2019/10/kaori-larecherche.pdf)]
+</details>
 
 # Bacterial biofilms
+
+<details>
+<summary> **Related references**
+{: style="display: inline;"}
+</summary>
+<br>{: style="display: inline;"}
 
 [2] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht\*, J. Fattaccioli\*, A. S. Utada\*  
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation  
@@ -92,11 +97,20 @@ Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https:/
 [1] M. Prasad, N. Obana, K. Sakai, Y. Nakayama, S. Miyazaki, M. Toyofuku, J. Fattaccioli, N. Nomura, A.S. Utada\*  
 *Point mutations lead to increased levels of c-di-GMP and phenotypic changes to colony biofilm morphology in Alcanivorax borkumensis SK2.*  
 **Microbes and Environnements**. 34 (1) pp. 104-107 (**2019**) [[doi](https://doi.org/10.1264/jsme2.ME18151)][[pdf](https://www.jstage.jst.go.jp/article/jsme2/advpub/0/advpub_ME18151/_pdf/-char/en)]
+<br>
+<br>
+</details>
 
-# Sophisticated microparticles
 
-[5] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli\*. *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets.*  
-**Langmuir,** 34 (50), pp 15319–15326  (**2018**) [[doi](http://dx.doi.org/10.1021/acs.langmuir.8b02721)][[url](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.8b02721)]
+
+# Polydopamine and metal-coated microparticles
+
+<details>
+<summary> **Related references**
+{: style="display: inline;"}
+</summary>
+<br>{: style="display: inline;"}
+
 
 [4] S. Quignard\*, G. Frébourg, Y. Chen, J. Fattaccioli*.  
 *Nanometric emulsions encapsulating solid particles as alternative carriers for intracellular delivery.*  
@@ -115,3 +129,4 @@ Article highlighted in Wiley-VCH Hot Topics – Surfaces and Interfaces. [[link]
 *Fluorescent microparticles fabrication through chemical coating of O/W emulsion droplets with a thin metallic film.*  
 **RSC Advances** 4 (23), 11564 – 11568 (**2014**). [[pdf](https://fattacciolilab.files.wordpress.com/2008/11/2014-fluorescent-microparticles.pdf)][[doi](http://dx.doi.org/10.1039/C3RA47063F)]
 
+</details>
