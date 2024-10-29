@@ -11,7 +11,7 @@ permalink: /research/
 
 bla bla 
 
-![image](/assets/images/macrophage.jpg){: style="float: left"}
+![image](/assets/images/macrophage.jpg){: style="float: left" width="50px"}
 
 Some text.
 
@@ -59,7 +59,6 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 [1] K. Ben M’Barek, D. Molino, S. Quignard, Y. Chen, P. Chavrier and J. Fattaccioli\*  
 *Phagocytosis of Immunoglobulin-Coated Emulsion Droplets*  
 **Biomaterials** 51, 270-277  (**2015**). [[pdf](https://fattacciolilab.files.wordpress.com/2015/03/phagocytosisdroplets_versionfinale.pdf "Article Phagocytosis")][[doi](http://dx.doi.org/10.1016/j.biomaterials.2015.02.030)]
-
 </details>
 
 
