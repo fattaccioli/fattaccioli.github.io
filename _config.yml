@@ -58,6 +58,7 @@ plugins:
 kramdown:
   parse_block_html: true
 
+provider:  "custom"
 #jekyll_analytics:
 #  GoogleAnalytics:          # Add, if you want to track with Google Analytics
 #    id: G-PW1QZ6LFPN          # Required - replace with your tracking id
