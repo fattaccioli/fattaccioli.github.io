@@ -4,28 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-<details>
-<summary> # Toggle hidden text
-{: style="display: inline;"}
 
-blablabla
-blablabla
-
-blablabla
-
-</summary>
-<br>{: style="display: inline;"}
-
-
-[9] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
-*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
-**ChemRxiv (2024)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
-In Press
-
-</details>
 
 
 # Functional lipid droplets as aAPCs
+
+bla bla 
+
+<details>
+<summary> ## Related references
+{: style="display: inline;"}
+</summary>
+<br>{: style="display: inline;"}
 
 [9] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
 *FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
@@ -59,6 +49,9 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 [1] K. Ben M’Barek, D. Molino, S. Quignard, Y. Chen, P. Chavrier and J. Fattaccioli\*  
 *Phagocytosis of Immunoglobulin-Coated Emulsion Droplets*  
 **Biomaterials** 51, 270-277  (**2015**). [[pdf](https://fattacciolilab.files.wordpress.com/2015/03/phagocytosisdroplets_versionfinale.pdf "Article Phagocytosis")][[doi](http://dx.doi.org/10.1016/j.biomaterials.2015.02.030)]
+
+</details>
+
 
 # Microfluidic trapping arrays 
 
