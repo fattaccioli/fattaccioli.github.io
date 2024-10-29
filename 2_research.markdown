@@ -134,6 +134,29 @@ Alcanivorax, a genus of oil-degrading bacteria, plays a crucial role in breaking
 <br>
 </details>
 
+<br>
+# Plant development using microfluidic tools
+
+
+![image](/assets/images/Physco.gif){: style="float: left; margin-right: 20px" width="100px"}
+
+Microfluidics offers a powerful approach to studying plant development by enabling precise control over microenvironments, allowing researchers to monitor cellular responses, nutrient flows, and hormonal gradients in real-time under highly reproducible conditions. In collaboration with J.C. Palauqui (IJPB, INRAE Versailles), we developed a comprehensive experimental setup allowing the study of the development of the moss *Physcomitrella Patens* with an ultra-wide (from seconds to weeks, from single-cell to the complete organism) spatio-temporal resolution.
+{: style="text-align: justify"}
+
+<details>
+<summary> **Related references**
+{: style="display: inline;"}
+</summary>
+<br>{: style="display: inline;"}
+
+[1] K. Sakai, F. Charlot, T. Le Saux, S. Bonhomme, F. Nogué, J.C. Palauqui\*, J. Fattaccioli\*.   
+*Design of a microfluidic and microscopic toolbox for the ultra-wide spatio-temporal study of plant protoplast development and physiology.*  
+**Plant Methods**, 15, n° 19 (**2019**) [[doi](https://doi.org/10.1186/s13007-019-0459-z)]  
+Preprint available on BioRxiv [[Link to BioRXiv](https://doi.org/10.1101/482547)]  
+Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https://www.larecherche.fr/la-microfluidique-sint%C3%A9resse-aux-plantes)][[pdf](https://fattacciolilab.files.wordpress.com/2019/10/kaori-larecherche.pdf)]
+
+
+</details>
 
 <br>
 # Polydopamine and metal-coated microparticles
