@@ -6,7 +6,7 @@ permalink: /research/
 
 <details>
 <summary>
-Toggle hidden text
+# Toggle hidden text
 {: style="display: inline;"}
 </summary>
 <br>{: style="display: inline;"}
@@ -18,6 +18,12 @@ This is a *collapsible paragraph*.
   "foo": "bar"
 }
 ``` 
+
+[9] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
+*FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
+**ChemRxiv (2024)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
+In Press
+
 </details>
 
 <details>
