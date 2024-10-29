@@ -32,20 +32,20 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 |---|---|---|---|
 |Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
 |Aurélien LEPOËTRE | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/) |
-| Estelle LU | PhD student | Sorbonne U. - ED 388 | [LinkIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
+| Estelle LU | PhD student | Sorbonne U. - ED 388 | [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
 | Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
 | Héloïse UHL | PhD student | ANR Phagochemiforce |  |
 
 
 
-## Past members
+## Alumni
 
 | Start - End | Name | Status | |
 |---|---|---|---|
 | 2024 |  Juliette MERIGOT--LOMBARD | Intern (M2 Microfluidics)  ||
 | 2024 |  François LAMBEAUX | Intern (M2 Microfluidics)  ||
 | 2024 |  Cylia BIRBA | (L3 Pro, Sorbonne Université)  ||
-| 2023 - 2024 | Charles CAVANIOL | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/|charles-cavaniol-928268130/?originalSubdomain=fr/) |
+| 2023 - 2024 | Charles CAVANIOL | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
 | 2023 | Martin COUX | Postdoctoral researcher - ANR Phosphalgues | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
 | 2023 | Charlie BRUNET | Intern (L3 Pro Formulation, Sorbonne Université) ||
 | 2019 - 2023 |  Wafa HECHICHE | PhD student (Primary supervisor : J. Vinh, ESPCI) | [LinkedIn] |
