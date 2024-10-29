@@ -110,7 +110,8 @@ Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https:/
 
 ![image](/assets/images/SnakeBacteria.jpg){: style="float: left; margin-right: 20px" width="100px"}
 
-Alcanivorax, a genus of oil-degrading bacteria, plays a crucial role in breaking down hydrocarbons in oil-contaminated environments, making it invaluable for bioremediation efforts. These bacteria utilize the hydrocarbons in crude oil as a carbon and energy source, converting complex compounds into simpler, less harmful substances. Alcanivorax bacteria often form biofilms on oil surfaces, creating a structured community that protects them from environmental stress and enhances their metabolic capabilities. In collaboration with [Andrew Utada](https://andrew-utada.com/){:target="_blank"} (Tsukuba University, Japan), we study the dynamics of the biofilm and its impact on the oil consumption.{: style="text-align: center"}
+Alcanivorax, a genus of oil-degrading bacteria, plays a crucial role in breaking down hydrocarbons in oil-contaminated environments, making it invaluable for bioremediation efforts. These bacteria utilize the hydrocarbons in crude oil as a carbon and energy source, converting complex compounds into simpler, less harmful substances. Alcanivorax bacteria often form biofilms on oil surfaces, creating a structured community that protects them from environmental stress and enhances their metabolic capabilities. In collaboration with [Andrew Utada](https://andrew-utada.com/){:target="_blank"} (Tsukuba University, Japan), we study the dynamics of the biofilm and its impact on the oil consumption.
+{: style="text-align: center"}
 
 <details>
 <summary> **Related references**
