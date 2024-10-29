@@ -7,6 +7,10 @@ permalink: /research/
 # Isolation and selection of individual microalgae
 
 
+![image](/assets/images/Chalomidomonas.png){: style="float: left; margin-right: 20px" width="100px"}
+
+We aim a developing a microfluidic setup to immobilize, phenotype and select single-cell microalgae based on specific optical readouts (fluorescence, etc.) .
+
 *Current fundings* : 
 - ANR **Phosphalgue** (Coordinator) with L. Jullien (PASTEUR, ENS Chimie), A. Boulouis and S. Eberhart (IBPC) , F. Guyot (MNHN), G Charvin (IGBMC)
 
@@ -20,7 +24,7 @@ permalink: /research/
 Functional emulsion droplets, engineered as artificial antigen-presenting cells with a fluid and deformable interface, enable precise force mapping during macrophage phagocytosis and B cell activation studies by mimicking the dynamic, flexible interactions that occur during cell encounter and uptake.
 
 *Current fundings* : 
-- ANR **Phagochemiforce** with F. Niedergang (Institut Cochin, Coordinator), J.M. Mallet et Blaise Dumat (LBM, ENS Chimie)
+- ANR [Phagochemiforce](https://anr.fr/Project-ANR-20-CE13-0017) with F. Niedergang (Institut Cochin, Coordinator), J.M. Mallet et Blaise Dumat (LBM, ENS Chimie)
 - ANR **Imperis** with P. Pierobon (Institut Cochin, Coordinator), J.F. Rupprecht (Centuri Marseille)
 
 <details>
