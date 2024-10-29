@@ -33,6 +33,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,3 +57,8 @@ plugins:
 
 kramdown:
   parse_block_html: true
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-PW1QZ6LFPN          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
