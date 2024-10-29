@@ -27,7 +27,7 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 
 ### Current Members
 
-|  | Status | Funding | LinkedIn Profile  |
+|  | Status | |
 |---|---|---|---|
 |Alexandre CHARGUERAUD| PhD student  | [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
