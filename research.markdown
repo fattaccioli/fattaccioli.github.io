@@ -7,7 +7,7 @@ permalink: /research/
 # Isolation and selection of individual microalgae
 
 
-![image](/assets/images/Chalomidomonas.png){: style="float: left; margin-right: 20px" width="100px"}
+![image](/assets/images/Chlamydomonas.png){: style="float: left; margin-right: 20px" width="100px"}
 
 We aim a developing a microfluidic setup to immobilize, phenotype and select single-cell microalgae based on specific optical readouts (fluorescence, etc.) .
 
