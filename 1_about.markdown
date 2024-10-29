@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-## Affiliations
+### Affiliations
 
 Our team belong to the [Pôle Microfluidique](http://www.chimie.ens.fr/?q=umr-8640/microfluidique "Pôle Microfluidique") of the [Chemistry Department](http://www.chimie.ens.fr/?q=accueil_departement "Département de Chimie") of the [ENS](http://www.ens.fr/ "ENS").
 
-## Jacques Fattaccioli - Short bio
+### Jacques Fattaccioli - Short bio
 
 Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)]
 
@@ -30,7 +30,7 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 |1998 – 2002 | Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))|
 
 
-**Current address :**  
+### Current address  
 Insitut Pierre-Gilles de Gennes  
 Office #S-3-34  
 6 rue Jean Calvin  
