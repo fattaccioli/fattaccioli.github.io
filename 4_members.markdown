@@ -10,6 +10,9 @@ Links : [[ORCID](https://orcid.org/0000-0002-0095-2576)][[LinkedIn](https://www.
 
 Current positions : 
 
+||Current Positions|
+|2015 - Now| Team leader at Institut Pierre-Gilles de Gennes|
+
 2015 - Now : Team leader at Institut Pierre-Gilles de Gennes \
 2009 – Now : Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) \
 2018 - Now : Head of the [Master 2 Microfluidics Program](https://microfluidics-master.fr/) \
@@ -40,16 +43,19 @@ Academic positions and studies
 
 ## Past members
 
-| Year (s) | Name and status |
+| Start - End | Name and status |
 |---|---|
+| 2024 |  Juliette MERIGOT--LOMBARD : Intern (M2 Microfluidics)  |
+| 2024 |  François LAMBEAUX : Intern (M2 Microfluidics)  |
+| 2024 |  Cylia BIRBA (L3 Pro, Sorbonne Université)  |
 | 2023 - 2024 | Charles CAVANIOL | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
 | 2023 | Martin COUX | Postdoctoral researcher - ANR Phosphalgues | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
-| 2023 | Ms. Charlie BRUNET : Intern (L3 Pro Formulation, Sorbonne Université) \ |
-| 2019 - 2023 | Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [LinkedIn] \ |
-| 2019 - 2023 | Mr. Chaohe HU : PhD student (CSC Grant)  |
-| 2021 - 2022 | Mr. Gabriel FINA : Research engineer  |
-| 2022 | Ms. Lina BEN SALEM : Intern (L3 Pro Formulation, Sorbonne Université)  |
-| 2021 | Ms. Romane VINOT : Intern (M2 Microfluidics)  |
+| 2023 | Charlie BRUNET : Intern (L3 Pro Formulation, Sorbonne Université) |
+| 2019 - 2023 |  Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [LinkedIn] |
+| 2019 - 2023 |  Chaohe HU : PhD student (CSC Grant)  |
+| 2021 - 2022 |  Gabriel FINA : Research engineer  |
+| 2022 |  Lina BEN SALEM : Intern (L3 Pro Formulation, Sorbonne Université)  |
+| 2021 |  Romane VINOT : Intern (M2 Microfluidics)  |
 | 2017 – 2021 | Lea PINON, PhD : Postdoc [ORCID][LinkedIn]  |
 | 2020 – 2021 |  Julie SIGNEUX, Research engineer  |
 | 2021 |  Walid BEZAOUCH (L3 Pro, Sorbonne Université)  |
