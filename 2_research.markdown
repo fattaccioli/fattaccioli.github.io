@@ -23,7 +23,7 @@ We aim a developing a microfluidic setup to immobilize, phenotype and select sin
 
 ![image](/assets/images/macrophage.jpg){: style="float: left; margin-right: 20px" width="100px"}
 
-Functional emulsion droplets, engineered as artificial antigen-presenting cells with a fluid and deformable interface, enable precise force mapping during macrophage phagocytosis and B cell activation studies by mimicking the dynamic, flexible interactions that occur during cell encounter and uptake.
+Functional emulsion droplets, engineered as artificial antigen-presenting cells with a fluid and deformable interface, enable precise force mapping during macrophage phagocytosis and B cell activation studies by mimicking the dynamic interactions that occur during cell encounter and uptake.
 {: style="text-align: justify"}
 
 *Current fundings* : 
@@ -137,6 +137,12 @@ Alcanivorax, a genus of oil-degrading bacteria, plays a crucial role in breaking
 
 <br>
 # Polydopamine and metal-coated microparticles
+
+
+![image](/assets/images/Polydopamine.png){: style="float: left; margin-right: 20px" width="100px"}
+
+Polydopamine, a bioinspired polymer known for its strong adhesion to various surfaces, can serve as a versatile platform for metallization, enabling the deposition of metals like gold, silver, and copper, which enhances its applications in biosensing, catalysis, and antimicrobial coatings. Using emulsion droplets as a template, we showed that polydopamine could become fluorescent under UV illumination, and developed silver-coated liquid particles that we used as seed particles for micro-velocimetry.
+{: style="text-align: justify"}
 
 <details>
 <summary> **Related references**
