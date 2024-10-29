@@ -12,7 +12,7 @@ permalink: /research/
 bla bla 
 
 <details>
-<summary> ## Related references
+<summary> <mark>Related references</mark>
 {: style="display: inline;"}
 </summary>
 <br>{: style="display: inline;"}
