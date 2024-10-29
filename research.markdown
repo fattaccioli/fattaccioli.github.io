@@ -7,6 +7,11 @@ permalink: /research/
 <details>
 <summary>
 # Toggle hidden text
+
+blablabla
+blablabla
+
+blablabla
 {: style="display: inline;"}
 </summary>
 <br>{: style="display: inline;"}
