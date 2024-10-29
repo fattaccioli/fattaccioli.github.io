@@ -9,7 +9,7 @@ permalink: /research/
 
 # Functional lipid droplets as aAPCs
 
-![image](/assets/images/macrophage.jpg){: style="float: left" width="100px" margin-right: 20px}
+![image](/assets/images/macrophage.jpg){: style="float: left" width="100px" style="margin-right: 20px"}
 
 Functional emulsion droplets, engineered as artificial antigen-presenting cells with a fluid and deformable interface, enable precise force mapping during macrophage phagocytosis and B cell activation studies by mimicking the dynamic, flexible interactions that occur during cell encounter and uptake.
 
