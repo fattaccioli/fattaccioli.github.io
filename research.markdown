@@ -21,41 +21,44 @@ Functional emulsion droplets, engineered as artificial antigen-presenting cells 
 </summary>
 <br>{: style="display: inline;"}
 
-[9] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
+[10] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
 *FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
-**ChemRxiv (2024)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
-In Press
+**ACS Applied Bio Materials** (2024) [URL](https://pubs.acs.org/doi/10.1021/acsami.3c15067){:target="_blank"}
 
-[8] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) **The Immune Synapse**. *Methods in Molecular Biology*, vol 2654. Humana, New York, NY. [DOI](https://doi.org/10.1007/978-1-0716-3135-5_22)
 
-[7] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
-**Cell Reports Methods** (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335) (In press). 
+[9] J. Pineau, L. Pinon, J. Fattaccioli\* , P. Pierobon\* (2023). Functionalized Lipid Droplets and Microfluidics Approach to Study Immune Cell Polarity In Vitro. In: Baldari, C.T., Dustin, M.L. (eds) **The Immune Synapse**. *Methods in Molecular Biology*, vol 2654. Humana, New York, NY. [DOI](https://doi.org/10.1007/978-1-0716-3135-5_22)
 
-[6] J. Pineau, L. Pinon, O. Mesdjian, *J. Fattaccioli*, A.-M. Lennon-Duménil, P. Pierobon\* . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*.  
+[8] L. Pinon , N. Ruyssen , J. Pineau , O. Mesdjian , D. Cuvelier , R. Allena , S. Asnacios , A. Asnacios , P. Pierobon\* , and J. Fattaccioli\*. *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet – Cell Pairing Microfluidic Platform*.  
+**Cell Reports Methods** (2022) [DOI](https://doi.org/10.1016/j.crmeth.2022.100335)  
+
+[7] J. Pineau, L. Pinon, O. Mesdjian, *J. Fattaccioli*, A.-M. Lennon-Duménil, P. Pierobon\* . *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*.  
 **eLife** (2022) [[DOI]](https://elifesciences.org/articles/78330)  
 
-[5] B. Dumat‡, L. Montel‡, P. Matton, L. Pinon, L. Cattiaux, J. Fattaccioli\*, J.M. Mallet\*. *Mannose-coated fluorescent emulsion droplets: specific biosensors for Mannose Receptor-induced phagocytosis.*  
+[6] B. Dumat‡, L. Montel‡, P. Matton, L. Pinon, L. Cattiaux, J. Fattaccioli\*, J.M. Mallet\*. *Mannose-coated fluorescent emulsion droplets: specific biosensors for Mannose Receptor-induced phagocytosis.*  
 **ACS Applied Bio Materials**., 2, 11, 5118-5126 (**2019**) [[doi](https://doi.org/10.1021/acsabm.9b00793)]  
 ‡: equal contribution to the work
 
-[4] L. Montel, L. Pinon,  J. Fattaccioli\*.   
+[5] L. Montel, L. Pinon,  J. Fattaccioli\*.   
 *A multiparametric, quantitative and high-throughput assay to determine the influence of target size on phagocytic uptake*.  
 **Biophys. J.**, 117 (3) pp. 408-419 (**2019**) [[doi](https://doi.org/10.1016/j.bpj.2019.06.021)]  
 Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/482547)]
 
-[3] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli\*. *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets.*  
+[4] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli\*. *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets.*  
 **Langmuir,** 34 (50), pp 15319–15326  (**2018**) [[doi](http://dx.doi.org/10.1021/acs.langmuir.8b02721)][[url](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.8b02721)]
 
-[2] D. Molino, S. Quignard, C. Gruget, F. Pincet, Y. Chen, M. Piel, J. Fattaccioli\*.  
+[3] D. Molino, S. Quignard, C. Gruget, F. Pincet, Y. Chen, M. Piel, J. Fattaccioli\*.  
 *On-chip quantitative measurement of mechanical stresses during cell migration with emulsion droplets.*  
 **Scientific Reports** 6, 29113 (**2016**)[[pdf](http://www.nature.com/articles/srep29113.pdf)][[doi](http://dx.doi.org/10.1038/srep29113)].
+
+[2] S. Quignard\*, G. Frébourg, Y. Chen, J. Fattaccioli*.  
+*Nanometric emulsions encapsulating solid particles as alternative carriers for intracellular delivery.*  
+**Nanomedicine**, 11 (16), 2059-2072 (**2016**) [[pdf](https://fattacciolilab.files.wordpress.com/2016/08/2016-nanometricemulsions.pdf)].
 
 [1] K. Ben M’Barek, D. Molino, S. Quignard, Y. Chen, P. Chavrier and J. Fattaccioli\*  
 *Phagocytosis of Immunoglobulin-Coated Emulsion Droplets*  
 **Biomaterials** 51, 270-277  (**2015**). [[pdf](https://fattacciolilab.files.wordpress.com/2015/03/phagocytosisdroplets_versionfinale.pdf "Article Phagocytosis")][[doi](http://dx.doi.org/10.1016/j.biomaterials.2015.02.030)]
 </details>
 
-<br>
 <br>
 # Microfluidic trapping arrays 
 
@@ -84,6 +87,7 @@ Preprint available on BioRxiv [[Link to BioRXiv](https://doi.org/10.1101/482547)
 Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https://www.larecherche.fr/la-microfluidique-sint%C3%A9resse-aux-plantes)][[pdf](https://fattacciolilab.files.wordpress.com/2019/10/kaori-larecherche.pdf)]
 </details>
 
+<br>
 # Bacterial biofilms
 
 <details>
@@ -105,7 +109,7 @@ Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https:/
 </details>
 
 
-
+<br>
 # Polydopamine and metal-coated microparticles
 
 <details>
@@ -114,10 +118,6 @@ Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https:/
 </summary>
 <br>{: style="display: inline;"}
 
-
-[4] S. Quignard\*, G. Frébourg, Y. Chen, J. Fattaccioli*.  
-*Nanometric emulsions encapsulating solid particles as alternative carriers for intracellular delivery.*  
-**Nanomedicine**, 11 (16), 2059-2072 (**2016**) [[pdf](https://fattacciolilab.files.wordpress.com/2016/08/2016-nanometricemulsions.pdf)].
 
 [3] O. Mesdjian, Y. Chen, J. Fattaccioli\*  
 *Luminescent and Absorptive Metal-Coated Emulsions for Micro-Velocimetry*  

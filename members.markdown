@@ -28,9 +28,10 @@ Academic positions and studies
 
 |  | Status | Funding |  |
 |---|---|---|---|
-| Charles CAVANIOL | Postdoctoral researcher |  | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
+
 |Alexandre CHARGUERAUD| PhD student | ANR Phosphalgue |[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
+|Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr|
 |Aurélien LEPOËTRE | Postdoctoral researcher |---| [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/|
 | Estelle LU | PhD student | Sorbonne U. - ED 388 |  |
 | Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | 80Prime CNRS | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
@@ -42,6 +43,7 @@ Academic positions and studies
 
 | Year (s) | Name and status |
 |---|---|
+| 2023 - 2024 | Charles CAVANIOL | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
 | 2023 | Martin COUX | Postdoctoral researcher - ANR Phosphalgues - [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
 | 2023 | Ms. Charlie BRUNET : Intern (L3 Pro Formulation, Sorbonne Université) \ |
 | 2019 - 2023 | Ms. Wafa HECHICHE : PhD student (Primary supervisor : J. Vinh, ESPCI) [LinkedIn] \ |

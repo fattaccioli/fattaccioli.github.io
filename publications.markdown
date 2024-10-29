@@ -30,8 +30,6 @@ Biomedical Microdevices (**2024**, Accepted)
 [33] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
 *FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
 **ACS Applied Bio Materials** (2024) In Press [URL](https://pubs.acs.org/doi/10.1021/acsami.3c15067){:target="_blank"} \
-**ChemRxiv (2024)** [DOI : 10.26434/chemrxiv-2023-7cfwq](https://doi.org/10.26434/chemrxiv-2023-7cfwq){:target="_blank"} \
-In Press
 
 **2023**
 
