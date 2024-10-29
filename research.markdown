@@ -11,6 +11,7 @@ permalink: /research/
 
 We aim a developing a microfluidic setup to immobilize, phenotype and select single-cell microalgae based on specific optical readouts (fluorescence, etc.) .
 
+<br>
 *Current fundings* : 
 - ANR **Phosphalgue** (Coordinator) with L. Jullien (PASTEUR, ENS Chimie), A. Boulouis and S. Eberhart (IBPC) , F. Guyot (MNHN), G Charvin (IGBMC)
 

@@ -21,11 +21,13 @@ Under review
 
 [35] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\* \
 *Functionalization of microbubbles in a microfluidic chip for biosensing applications* \
-Biomedical Microdevices (**2024**, Accepted)
+**Biomedical Microdevices** 26, 39 (2024). [URL](https://doi.org/10.1007/s10544-024-00721-2)
+
 
 [34] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo 5-8 , Y. Zarrouk , J. Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu \
-*A role for head domain-mediated vinculin oligomerization induced by Shigella IpaA in cell-matrix adhesion*\
-**Life Science Alliance** (2024, In press)
+*IpaA reveals distinct modes of vinculin activation during Shigella invasion and cell-matrix adhesion*\
+**Life Science Alliance** 7 (8) e202302418. [URL](https://doi.org/10.26508/lsa.202302418/) 
+
 
 [33] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.
 *FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids* \
