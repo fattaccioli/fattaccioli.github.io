@@ -77,7 +77,7 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 
 ![image](/assets/images/MicrofluidicTrap.png){: style="float: left; margin-right: 20px" width="100px"}
 
-Microfluidic hydrodynamics trapping arrays are specialized micro-scale devices used to capture, isolate, and study individual cells, particles, or molecules in a controlled environment. Using precise fluid flows within microchannels, these arrays exploit the principles of hydrodynamic forces to trap and position objects without direct mechanical contact. By carefully manipulating flow rates and channel geometries, microfluidic hydrodynamic traps can achieve stable, repeatable positioning of targets, making them a versatile tool in biological research, as for example studies of the dynamics of the immune synapse.{: style="text-align: center;"}
+Microfluidic hydrodynamics trapping arrays are specialized micro-scale devices used to capture, isolate, and study individual cells, particles, or molecules in a controlled environment. Using precise fluid flows within microchannels, these arrays exploit the principles of hydrodynamic forces to trap and position objects without direct mechanical contact. By carefully manipulating flow rates and channel geometries, microfluidic hydrodynamic traps can achieve stable, repeatable positioning of targets, making them a versatile tool in biological research, as for example studies of the dynamics of the immune synapse.{: style="text-align: center"}
 
 <details>
 <summary> **Related references**
@@ -110,7 +110,7 @@ Highlighted in the french magazine **La Recherche** (Nov. 2019) [[url](https:/
 
 ![image](/assets/images/SnakeBacteria.jpg){: style="float: left; margin-right: 20px" width="100px"}
 
-Alcanivorax, a genus of oil-degrading bacteria, plays a crucial role in breaking down hydrocarbons in oil-contaminated environments, making it invaluable for bioremediation efforts. These bacteria utilize the hydrocarbons in crude oil as a carbon and energy source, converting complex compounds into simpler, less harmful substances. Alcanivorax bacteria often form biofilms on oil surfaces, creating a structured community that protects them from environmental stress and enhances their metabolic capabilities. In collaboration with [Andrew Utada](https://andrew-utada.com/){:target="_blank"} (Tsukuba University, Japan), we study the dynamics of the biofilm and its impact on the oil consumption.{: style="text-align: center;"}
+Alcanivorax, a genus of oil-degrading bacteria, plays a crucial role in breaking down hydrocarbons in oil-contaminated environments, making it invaluable for bioremediation efforts. These bacteria utilize the hydrocarbons in crude oil as a carbon and energy source, converting complex compounds into simpler, less harmful substances. Alcanivorax bacteria often form biofilms on oil surfaces, creating a structured community that protects them from environmental stress and enhances their metabolic capabilities. In collaboration with [Andrew Utada](https://andrew-utada.com/){:target="_blank"} (Tsukuba University, Japan), we study the dynamics of the biofilm and its impact on the oil consumption.{: style="text-align: center"}
 
 <details>
 <summary> **Related references**
