@@ -44,19 +44,19 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 
 | Start | End | Name | Status | |
 |---|---|---|---|---|
-| 2023 | 2024 | Charles CAVANIOL | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
-| 2023 || Martin COUX | Postdoctoral researcher - ANR Phosphalgues | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
+| 2023 | 2024 | Charles CAVANIOL | Postdoc | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
+| 2023 || Martin COUX | Postdoc | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
 | 2019 | 2023 |  Wafa HECHICHE | PhD student (Primary supervisor : J. Vinh, ESPCI) | [LinkedIn] |
 | 2019 | 2023 |  Chaohe HU | PhD student (CSC Grant)  ||
 | 2021 | 2022 |  Gabriel FINA | Research engineer  | [LinkedIn](https://www.linkedin.com/in/gabriel-fina-566839201/) |
 | 2017 | 2021 | Lea PINON, PhD | Postdoc | [ORCID](https://orcid.org/0000-0002-8645-071X))  |
 | 2020 | 2021 |  Julie SIGNEUX| Research engineer  | [LinkedIn](https://www.linkedin.com/in/julie-signeux-74b32413a/?originalSubdomain=fr) |
-| 2017 | 2019 |  Kaori Sakai| Engineer (IPGG Project)  | [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/) |
-| 2016 | 2019 |  Lorraine Montel| Post-doc (ANR JCJC) | [ORCID](https://orcid.org/0000-0003-0545-6413)  |
-| 2014 | 2017 |  Olivier Mesdjian | PhD student (UMPC – ED 388)  | [ORCID](https://orcid.org/0000-0003-4499-2040)|
-| 2014 | 2017 |  Pascal Matton| PhD student (PSL, Primary supervisor : J.M. Mallet)  ||
+| 2017 | 2019 |  Kaori Sakai| Engineer  | [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/) |
+| 2016 | 2019 |  Lorraine Montel| Post-doc | [ORCID](https://orcid.org/0000-0003-0545-6413)  |
+| 2014 | 2017 |  Olivier Mesdjian | PhD student | [ORCID](https://orcid.org/0000-0003-4499-2040)|
+| 2014 | 2017 |  Pascal Matton| PhD student (Primary supervisor : J.M. Mallet)  ||
 | 2013 | 2017 |  Sandrine Quignard | Post-doc (Ag.Pr.)  ||
-| 2013 | 2016 |  Diana Molino |(IPGG Post-doc) |[LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)  |
+| 2013 | 2016 |  Diana Molino | Postdoc |[LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)  |
 | 2011 | 2015 |  Kalthoum Ben M’Barek | PhD student – Grad. on Feb. 19th, 2015 | [LinkedIn](https://www.linkedin.com/in/kalthoumbenmbarek/?originalSubdomain=fr)|
 
 ### Former Interns
