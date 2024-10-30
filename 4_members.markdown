@@ -6,10 +6,13 @@ permalink: /members/
 
 ### Jacques Fattaccioli - Short bio
 
+![image](/assets/images/FaceJacques.jpg){: style="float: left; margin-right: 20px" width="200px"}
+
 Links : [Linktree](https://linktr.ee/fattaccioli) - [ORCID](https://orcid.org/0000-0002-0095-2576) - [LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)
 
 Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 
+<br>
 **Current positions**
 
 |From | To | |
@@ -19,6 +22,7 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 |2009 | Now| Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) |
 
 **Academic positions and studies**
+
 | From | To | |
 |2023 | | Fulbright Scholar (May-July, Invited Professor) at the [CSMR](https://as.nyu.edu/research-centers/csmr.html) of [NYU](http://www.nyu.edu) |
 |2020 | | EELISA Dean of Studies |
