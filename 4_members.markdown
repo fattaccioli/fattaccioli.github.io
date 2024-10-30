@@ -6,7 +6,7 @@ permalink: /members/
 
 ### Jacques Fattaccioli - Short bio
 
-![image](/assets/images/FaceJacques.jpg){: style="float: left; margin-right: 20px" width="200px"}
+![image](/assets/images/Face_Jacques.jpg){: style="float: left; margin-right: 20px" width="200px"}
 
 Links : [Linktree](https://linktr.ee/fattaccioli) - [ORCID](https://orcid.org/0000-0002-0095-2576) - [LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)
 
