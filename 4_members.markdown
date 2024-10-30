@@ -12,20 +12,21 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 
 **Current positions**
 
-|2018 - Now| Head of the [Master 2 Microfluidics Program](https://microfluidics-master.fr/) |
-|2015 - Now| Team leader à l'[Institut Pierre-Gilles de Gennes](http://www.institut-pgg.fr)|
-|2009 - Now| Membre du Pôle NBMS du laboratoire PASTEUR (UMR 8640) du <br>[Département de Chimie](http://www.chimie.ens.psl.eu) de l'ENS-PSL |
-|2009 – Now| Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) |
+|From | To | |
+|2018 | Now| Head of the [Master 2 Microfluidics Program](https://microfluidics-master.fr/) |
+|2015 | Now| Team leader à l'[Institut Pierre-Gilles de Gennes](http://www.institut-pgg.fr)|
+|2009 | Now| Membre du Pôle NBMS du laboratoire PASTEUR (UMR 8640) du <br>[Département de Chimie](http://www.chimie.ens.psl.eu) de l'ENS-PSL |
+|2009 | Now| Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) |
 
 **Academic positions and studies**
-
-|2023 | Fulbright Scholar (May-July, Invited Professor) at the [CSMR](https://as.nyu.edu/research-centers/csmr.html) of [NYU](http://www.nyu.edu) |
-|2020 | EELISA Dean of Studies |
-|2017 | Habilitation à diriger les recherches, Sorbonne Université  |
-|2006 – 2009 | Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo |
-|2002 – 2006 | PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/)) |
-|2001 – 2002 | M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/)) |
-|1998 – 2002 | Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))|
+| From | To | |
+|2023 | | Fulbright Scholar (May-July, Invited Professor) at the [CSMR](https://as.nyu.edu/research-centers/csmr.html) of [NYU](http://www.nyu.edu) |
+|2020 | | EELISA Dean of Studies |
+|2017 | | Habilitation à diriger les recherches, Sorbonne Université  |
+|2006 | 2009 | Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo |
+|2002 | 2006 | PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/)) |
+|2001 | 2002 | M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/)) |
+|1998 | 2002 | Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))|
 
 ### Current Members
 
@@ -51,13 +52,13 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 | 2021 | 2022 |  Gabriel FINA | Research engineer  | [LinkedIn](https://www.linkedin.com/in/gabriel-fina-566839201/) |
 | 2017 | 2021 | Lea PINON, PhD | Postdoc | [ORCID](https://orcid.org/0000-0002-8645-071X))  |
 | 2020 | 2021 |  Julie SIGNEUX| Research engineer  | [LinkedIn](https://www.linkedin.com/in/julie-signeux-74b32413a/?originalSubdomain=fr) |
-| 2017 | 2019 |  Kaori Sakai| Engineer  | [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/) |
-| 2016 | 2019 |  Lorraine Montel| Post-doc | [ORCID](https://orcid.org/0000-0003-0545-6413)  |
-| 2014 | 2017 |  Olivier Mesdjian | PhD student | [ORCID](https://orcid.org/0000-0003-4499-2040)|
-| 2014 | 2017 |  Pascal Matton| PhD student (Primary supervisor : J.M. Mallet)  ||
-| 2013 | 2017 |  Sandrine Quignard | Post-doc (Ag.Pr.)  ||
-| 2013 | 2016 |  Diana Molino | Postdoc |[LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)  |
-| 2011 | 2015 |  Kalthoum Ben M’Barek | PhD student – Grad. on Feb. 19th, 2015 | [LinkedIn](https://www.linkedin.com/in/kalthoumbenmbarek/?originalSubdomain=fr)|
+| 2017 | 2019 |  Kaori SAKAI| Engineer  | [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/) |
+| 2016 | 2019 |  Lorraine MONTEL| Post-doc | [ORCID](https://orcid.org/0000-0003-0545-6413)  |
+| 2014 | 2017 |  Olivier MESDJIAN | PhD student | [ORCID](https://orcid.org/0000-0003-4499-2040)|
+| 2014 | 2017 |  Pascal MATTON| PhD student (Primary supervisor : J.M. Mallet)  ||
+| 2013 | 2017 |  Sandrine QUIGNARD| Post-doc (Ag.Pr.)  ||
+| 2013 | 2016 |  Diana MOLINO | Postdoc |[LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)  |
+| 2011 | 2015 |  Kalthoum BEN M'BAREK | PhD student – Grad. on Feb. 19th, 2015 | [LinkedIn](https://www.linkedin.com/in/kalthoumbenmbarek/?originalSubdomain=fr)|
 
 ### Former Interns
 
