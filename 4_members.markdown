@@ -34,7 +34,7 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 
 ### Current Members
 
-|  | Status | |
+| Name | Status | |
 |---|---|---|---|
 |Alexandre CHARGUERAUD| PhD student  | [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
