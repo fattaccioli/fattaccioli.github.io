@@ -6,9 +6,12 @@ permalink: /publications/
 
 # Preprint and/or Submitted
 
-[1] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \ *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \ **ChemRxiv** (2024) doi:10.26434/chemrxiv-2024-3c42z
+[3] E. LU, W. FLORES CISTERNAS, H. UHL, A. CHARGUERAUD, Q. GRIMAL, G. RENAUD, J.-G. MINONZIO, J. FATTACCIOLI. \ *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \ **Arxiv (2025)	
 
-[2] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
+
+[2] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \ *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \ **ChemRxiv** (2024) doi:10.26434/chemrxiv-2024-3c42z
+
+[3] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
 **Arxiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"} \
 Under review
