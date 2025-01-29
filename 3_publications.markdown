@@ -11,7 +11,9 @@ permalink: /publications/
 **Arxiv (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"} \
 
 
-[2] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \ *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \ **ChemRxiv** (2024) doi:10.26434/chemrxiv-2024-3c42z
+[2] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \ 
+*Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \ 
+**ChemRxiv** (2024) [Link](doi:10.26434/chemrxiv-2024-3c42z){:target="_blank"} \
 
 [3] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
