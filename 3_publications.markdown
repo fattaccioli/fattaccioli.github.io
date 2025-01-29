@@ -6,7 +6,9 @@ permalink: /publications/
 
 # Preprint and/or Submitted
 
-[3] E. LU, W. FLORES CISTERNAS, H. UHL, A. CHARGUERAUD, Q. GRIMAL, G. RENAUD, J.-G. MINONZIO, J. FATTACCIOLI. \ *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \ **Arxiv (2025)	
+[3] E. LU, W. FLORES CISTERNAS, H. UHL, A. CHARGUERAUD, Q. GRIMAL, G. RENAUD, J.-G. MINONZIO, J. FATTACCIOLI. \ 
+*Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \ 
+**Arxiv (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"} \
 
 
 [2] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \ *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \ **ChemRxiv** (2024) doi:10.26434/chemrxiv-2024-3c42z
@@ -201,3 +203,5 @@ Patent Number : **WO2008125747 (A2)** [[pdf](https://fattacciolilab.files.wor
 [1] S. K. Mandal, N. Lequeux, B. Rotenberg, M. Tramier, J. Fattaccioli, J. Bibette and B. Dubertret  
 *Encapsulation of Magnetic and Fluorescent Nanoparticles in Emulsion Droplets*  
 **Langmuir**, 21 pp. 4175-4179 (**2005**) [[pdf](https://fattacciolilab.files.wordpress.com/2008/11/fattaccioli_jacques_28277_publi_1.pdf "Link to the pdf version")][[doi](http://dx.doi.org/10.1021/la047025m)]
+
+[def]: https://doi.org/10.48550/arXiv.2501.16959
