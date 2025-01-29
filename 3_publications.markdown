@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Preprint and/or Submitted
 
-[3] E. LU, W. FLORES CISTERNAS, H. UHL, A. CHARGUERAUD, Q. GRIMAL, G. RENAUD, J.-G. MINONZIO, J. FATTACCIOLI. \ 
+[3] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \ 
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \ 
 **Arxiv (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"} \
 
