@@ -80,9 +80,10 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 
 ![image](/assets/images/AESO.png){: style="float: left; margin-right: 20px" width="100px"}
 
-We aim at designing sophisticated and functional microcapsuls with degradable properties.
+We aim at designing sophisticated and functional microcapsuls with degradable properties. We developed microfluidic devices for double emulsification and crosslinking.
 {: style="text-align: justify"}
 
+<br>
 <details>
 <summary> **Related references**
 {: style="display: inline;"}
