@@ -74,6 +74,14 @@ Preprint available on BioRxiv (2019) [[Link to BioRXiv](https://doi.org/10.1101/
 **Biomaterials** 51, 270-277  (**2015**). [[pdf](https://fattacciolilab.files.wordpress.com/2015/03/phagocytosisdroplets_versionfinale.pdf "Article Phagocytosis")][[doi](http://dx.doi.org/10.1016/j.biomaterials.2015.02.030)]
 </details>
 
+# Degradable microcapsules from modified vegetable oils
+
+![image](/assets/images/AESO.png){: style="float: left; margin-right: 20px" width="100px"}
+
+We aim at designing sophisticated and functional microcapsuls with degradable properties.
+{: style="text-align: justify"}
+
+
 <br>
 # Microfluidic trapping arrays 
 

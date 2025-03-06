@@ -6,6 +6,10 @@ permalink: /publications/
 
 # Preprint and/or Submitted
 
+[4] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel3, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger. \
+*The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions* \
+**In preparation** (2025)
+
 [3] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \
 **arXiv** (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"}
