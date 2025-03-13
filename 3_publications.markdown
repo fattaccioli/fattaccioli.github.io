@@ -4,29 +4,32 @@ title: Publications
 permalink: /publications/
 ---
 
-# Preprint and/or Submitted
 
-[4] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel3, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger. \
+**2025**
+
+[40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O.
+Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \ 
+*A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains* \
+
+[39] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel3, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger. \
 *The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions* \
 **BiorXiv** (2025) [doi](https://doi.org/10.1101/2025.03.05.641611){:target="_blank"}
 
-[3] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \
+[38] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \
 **arXiv** (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"}
 
 
-[2] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \
+**2024**
+
+[37] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \
 *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \
 **ChemRxiv** (2024) [Link](doi:10.26434/chemrxiv-2024-3c42z){:target="_blank"}
 
-[3] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
+
+[36] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
 **arXiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
-
-
-# Published or In Press
-
-**2024**
 
 [35] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\* \
 *Functionalization of microbubbles in a microfluidic chip for biosensing applications* \
