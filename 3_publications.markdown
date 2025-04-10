@@ -19,17 +19,16 @@ Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \
 **arXiv** (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"}
 
+[37] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
+*Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
+**arXiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
 **2024**
 
-[37] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \
+[36] C. Hu , E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli. \
 *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils* \
 **ChemRxiv** (2024) [Link](doi:10.26434/chemrxiv-2024-3c42z){:target="_blank"}
 
-
-[36] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
-*Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
-**arXiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
 [35] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\* \
 *Functionalization of microbubbles in a microfluidic chip for biosensing applications* \
