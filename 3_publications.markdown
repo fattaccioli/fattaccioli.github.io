@@ -21,7 +21,8 @@ Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \
 
 [37] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
-**arXiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
+**Computers & Fluids** - Accepted for publication (2025)
+Preprint : **arXiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
 **2024**
 
