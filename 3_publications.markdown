@@ -13,15 +13,17 @@ Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \
 
 [39] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel3, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger. \
 *The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions* \
+**Plant Direct** - Under review (2025)
 **BiorXiv** (2025) [doi](https://doi.org/10.1101/2025.03.05.641611){:target="_blank"}
 
 [38] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \
+**Micro and Nano Engineering** - Accepted for publication (2025) \
 **arXiv** (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"}
 
 [37] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
-**Computers & Fluids** - Accepted for publication (2025)
+**Computers & Fluids** - Accepted for publication (2025) \
 Preprint : **arXiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
 
 **2024**
