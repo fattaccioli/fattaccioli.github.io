@@ -7,13 +7,13 @@ permalink: /publications/
 
 **2025**
 
-[40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O.
-Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \ 
+[40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \ 
 *A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains* \
+**Small Science** (2025) Under review
 
 [39] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel3, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger. \
 *The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions* \
-**Plant Direct** - Under review (2025)
+**Plant Direct** - Under review (2025) \
 **BiorXiv** (2025) [doi](https://doi.org/10.1101/2025.03.05.641611){:target="_blank"}
 
 [38] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \
