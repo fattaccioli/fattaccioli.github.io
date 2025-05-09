@@ -22,8 +22,7 @@ permalink: /publications/
 
 [37] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
-**Computers & Fluids** - Accepted for publication (2025) \
-Preprint : **arXiv (2024)** [Link](https://arxiv.org/abs/2110.07412){:target="_blank"}
+**Computers & Fluids** - 106643 (2025) [DOI](https://doi.org/10.1016/j.compfluid.2025.106643){:target="_blank"}\
 
 **2024**
 
