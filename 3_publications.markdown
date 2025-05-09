@@ -18,8 +18,7 @@ permalink: /publications/
 
 [38] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \
-**Micro and Nano Engineering** - Accepted for publication (2025) \
-**arXiv** (2025)	[arXiv:2501.16959](https://doi.org/10.48550/arXiv.2501.16959){:target="_blank"}
+**Micro and Nano Engineering**, 100298 (2025) [DOI](https://doi.org/10.1016/j.mne.2025.100298){:target="_blank"} \
 
 [37] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
