@@ -7,6 +7,10 @@ permalink: /publications/
 
 **2025**
 
+[41] A. Chargueraud, L. Kool, J. Fattaccioli*. \
+*Fully integrated automatic reusable microfluidic setup for immobilization, analysis and non-selective release of particles* \
+**ArXiv** (2025)
+
 [40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \ 
 *A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains* \
 **Small Science** (2025) Under review
