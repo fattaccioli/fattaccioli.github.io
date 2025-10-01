@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
+  {%- comment -%}
+    Pull in your custom head include if it exists
+  {%- endcomment -%}
+  {% include head.html %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  {%- comment -%}
+    Optional header include
+  {%- endcomment -%}
+  {% include header.html %}
+
+  <main role="main">
+    {{ content }}
+  </main>
+
+  {%- comment -%}
+    Global footer (with GA4, defined in _includes/footer.html)
+  {%- endcomment -%}
+  {% include footer.html %}
+
+</body>
+</html>
