@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Softwares
+description: "Open-source and custom software tools developed in Jacques Fattaccioli's lab for image analysis, microfluidics, and data science."
+
 permalink: /softwares/
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Start-up
+description: "Quintessence Biotech, a deeptech startup co-founded by Jacques Fattaccioli, translating microfluidics and soft matter research into biotech applications."
+
 permalink: /startup/
 ---
 

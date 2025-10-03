@@ -5,6 +5,10 @@ description: "Biography of Jacques Fattaccioli, Professor in Chemistry at Sorbon
 permalink: /about/
 ---
 
+I am Jacques Fattaccioli, Associate Professor in Chemistry at Sorbonne Université and ENS - PSL, and member of the Institut Pierre-Gilles de Gennes.
+My teaching covers microfluidics, image analysis, and physical chemistry of soft matter, while my research focuses on how physics and chemistry intersect with biology.
+Beyond academia, I contribute to innovation through Quintessence Biotech, a startup created to address CGT manufacturing costs and efficiency.
+
 ### Affiliations
 
 Our team belong to the [Pôle Microfluidique](http://www.chimie.ens.fr/?q=umr-8640/microfluidique "Pôle Microfluidique") of the [Chemistry Department](http://www.chimie.ens.fr/?q=accueil_departement "Département de Chimie") of the [ENS](http://www.ens.fr/ "ENS").

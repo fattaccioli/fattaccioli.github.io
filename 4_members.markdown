@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Members
+description: "Research group members in Jacques Fattaccioli's laboratory at Sorbonne Université and ENS-PSL."
+
 permalink: /members/
 ---
 

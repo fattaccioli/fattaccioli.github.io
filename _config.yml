@@ -19,12 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jacques Fattaccioli | Microfluidics & Soft Matter"
-email: jacques.fattaccioli@ens.psl.eu
-description: >- # this means to ignore newlines until "baseurl:"
-  We are emulsion droplets makers, microfluidic devices designers, and more recently became multikingdom explorers (immune cells, plants, bacteria). Team fueled by IPGG, ENS, Sorbonne Université, CNRS 
+description: "Official website of Jacques Fattaccioli, Professor in Chemistry at Sorbonne Université. Research in microfluidics, soft matter, and biophysics."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: JFattaccioli
+url: "https://fattaccioli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+author:
+  name: "Jacques Fattaccioli"
+  email: jacques.fattaccioli@ens.psl.eu
+
+
 github_username:  FattaccioliLab
 google_analytics: G-PW1QZ6LFPN
 ga_measurement_id: G-PW1QZ6LFPN
@@ -34,6 +37,8 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

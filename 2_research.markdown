@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: "Research activities of Jacques Fattaccioli in microfluidics, biophysics, soft matter, and droplet-based systems at Sorbonne Université."
+description: "Research activities of Jacques Fattaccioli in microfluidics, biophysics, soft matter, and droplet-based systems at Sorbonne Université and ENS-PSL."
 
 permalink: /research/
 ---
