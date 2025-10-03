@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page #home
-title: "Jacques Fattaccioli | Sorbonne Université | Microfluidics & Soft Matter"
 description: "Official website of Jacques Fattaccioli, Professor in Chemistry at Sorbonne Université. Research in microfluidics, soft matter, biophysics, and biotech innovation."
 ---
 
