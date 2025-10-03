@@ -11,7 +11,9 @@ permalink: /startup/
 
 ![image](assets/images/quintessence_biotech_logo.jpeg){: style="float: left; margin-right: 20px" width="100px"}
 
-Quintessence Biotech has been officially launched in November 2024 ! 
+I am co-founder and scientific advisor of Quintessence Biotech, a startup born from our laboratory’s patent portfolio.
+Our mission is to develop innovative solutions for Cell and Gene Therapies.
+
 More informations [here](https://www.linkedin.com/company/quintessence-biotech/)
 {: style="text-align: justify"}
 

@@ -5,6 +5,7 @@ description: "Research group members in Jacques Fattaccioli's laboratory at Sorb
 
 permalink: /members/
 ---
+My group brings together researchers, PhD students, postdocs, and engineers working on projects in microfluidics, soft matter, and biophysics.
 
 ### Jacques Fattaccioli - Short bio
 
