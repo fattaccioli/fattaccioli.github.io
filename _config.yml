@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jacques Fattaccioli | Microfluidics & Soft Matter"
+title: Jacques Fattaccioli | Microfluidics & Soft Matter
 description: "Official website of Jacques Fattaccioli, Professor in Chemistry at Sorbonne Université. Research in microfluidics, soft matter, and biophysics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fattaccioli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
