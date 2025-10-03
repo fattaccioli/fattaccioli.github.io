@@ -5,12 +5,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Favicon -->
+  <!-- Classic favicon (for older browsers) -->
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
   <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 
-  <!-- Optional: better support for mobile devices -->
+  <!-- Modern PNG favicons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/favicon.png' | relative_url }}">
+
+  <!-- Apple devices -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/favicon.png' | relative_url }}">
+
 
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
