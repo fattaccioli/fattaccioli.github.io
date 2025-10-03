@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: "Biography of Jacques Fattaccioli, Professor in Chemistry at Sorbonne Université. Specialist in microfluidics, biophysics, and soft matter."
 permalink: /about/
 ---
 

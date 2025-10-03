@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Publications
+description: "Peer-reviewed publications of Jacques Fattaccioli in microfluidics, soft matter, and biophysics."
+
 permalink: /publications/
 ---
 
