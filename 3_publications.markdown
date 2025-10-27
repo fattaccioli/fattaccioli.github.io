@@ -9,25 +9,25 @@ permalink: /publications/
 
 **2025**
 
-[41] A. Chargueraud, L. Kool, J. Fattaccioli*. 
-*Fully integrated automatic reusable microfluidic setup for immobilization, analysis and non-selective release of particles* 
+[41] A. Chargueraud, L. Kool, J. Fattaccioli\*. \
+*Fully integrated automatic reusable microfluidic setup for immobilization, analysis and non-selective release of particles* \
 **ArXiv** (2025) [url](https://arxiv.org/abs/2507.06241){:target="_blank"}
 
-[40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo. 
-*A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains* 
+[40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \
+*A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains* \
 **Small Science** (2025) [doi](https://doi.org/10.1002/smsc.202500210){:target="_blank"} 
 
 [39] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel3, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger. \
 *The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions* \
-**Plant Direct** - Accepted for publication (2025) [doi](http://dx.doi.org/10.1002/pld3.70090){:target="_blank"} \
+**Plant Direct** - Accepted for publication (2025) [doi](http://dx.doi.org/10.1002/pld3.70090){:target="_blank"} 
 
-[38] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli. \
+[38] E. Lu, W. Flores Cisternas, H. UHL, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli\*. \
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid* \
-**Micro and Nano Engineering**, 100298 (2025) [DOI](https://doi.org/10.1016/j.mne.2025.100298){:target="_blank"} \ 
+**Micro and Nano Engineering**, 100298 (2025) [DOI](https://doi.org/10.1016/j.mne.2025.100298){:target="_blank"} 
 
 [37] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli. \
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  \
-**Computers & Fluids** - 106643 (2025) [DOI](https://doi.org/10.1016/j.compfluid.2025.106643){:target="_blank"} \ 
+**Computers & Fluids** - 106643 (2025) [DOI](https://doi.org/10.1016/j.compfluid.2025.106643){:target="_blank"} 
 
 **2024**
 
