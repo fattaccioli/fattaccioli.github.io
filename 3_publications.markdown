@@ -10,7 +10,8 @@ permalink: /publications/
 **2025**
 
 [41] A. Chargueraud, L. Kool, J. Fattaccioli\*. \
-*Fully integrated automatic reusable microfluidic setup for immobilization, analysis and non-selective release of particles* \
+*Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles* \
+**Micro and Nano Engineering**, Accepted (2025) \
 **ArXiv** (2025) [url](https://arxiv.org/abs/2507.06241){:target="_blank"}
 
 [40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \
