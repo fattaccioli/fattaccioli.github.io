@@ -12,7 +12,7 @@ We have several open positions (funded) in the team. All of them to start ASAP
 
 Natural latex from *Hevea brasiliensis* is a complex colloidal suspension made of rubber particles, lipids, proteins and small solutes dispersed in an aqueous phase. Its flow, stability and mechanical response strongly impact plantation productivity, rubber quality and, more broadly, the sustainability of the rubber industry. Despite its major economic importance, our understanding of its interfacial (tension, interfacial composition, protein adsorption) and viscoelastic properties remains limited, partly due to the intrinsic time-dependent instability of latex (coagulation, ageing, pH variations, etc.).
 
-This internship is part of a collaborative project aiming to connect the physico-chemical properties of latex to its behaviour under realistic collection conditions, and to develop microfluidic tools for \emph{in situ} monitoring directly in rubber tree plantations in Ivory Coast.
+This internship is part of a collaborative project aiming to connect the physico-chemical properties of latex to its behaviour under realistic collection conditions, and to develop microfluidic tools for *in situ* monitoring directly in rubber tree plantations in Ivory Coast.
 
 
 More details here : [M2 Internship Offer](/assets/open_positions/2026_M2_Latex.pdf)
