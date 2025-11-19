@@ -10,15 +10,15 @@ permalink: /publications/
 
 [44] *Phagocytosis in macrophages monitored using functionalized emulsion droplets*. \ C. Pompili1, H. Uhl, S. Michelis, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang\* \
 
-[43] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \
-S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\* \
-**BioRXiv** (Soon)
-
-[42] *Lipid droplet–based passive tracking to probe tissue dynamics in lymph node slices* \
+[43] *Lipid droplet–based passive tracking to probe tissue dynamics in lymph node slices* \
 L. Bruno, H. Uhl, L. Vimeux, M. Karnat, J-F Rupprecht, E. Donnadieu, J. Fattaccioli and P. Pierobon \
 **Methods in Molecular Biology** (Soon)
 
 **2025**
+
+[42] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \
+S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\* \
+**BioRXiv** (2025)
 
 [41] A. Chargueraud, L. Kool, J. Fattaccioli\*. \
 *Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles* \
