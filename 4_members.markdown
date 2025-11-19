@@ -43,23 +43,23 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 |---|---|---|---|
 |Alexandre CHARGUERAUD| PhD student  | [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
-|Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
-|Aurélien LEPOËTRE | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/) |
 | Estelle LU | PhD student |  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
 | Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
-| Héloïse UHL | PhD student |  |
+| Héloïse UHL | PhD student | [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/) |
 
 
 ### Former Graduate Students, Postdocs and Engineers
 
 | Start | End | Name | Status | |
 |---|---|---|---|---|
+|2024|2025|Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
+|2023|2025|Aurélien LEPOËTRE | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/) |
 | 2023 | 2024 | Charles CAVANIOL | Postdoc | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
 | 2023 || Martin COUX | Postdoc | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
 | 2019 | 2023 |  Wafa HECHICHE | PhD student (Primary supervisor : J. Vinh, ESPCI) | [LinkedIn] |
 | 2019 | 2023 |  Chaohe HU | PhD student (CSC Grant)  ||
 | 2021 | 2022 |  Gabriel FINA | Research engineer  | [LinkedIn](https://www.linkedin.com/in/gabriel-fina-566839201/) |
-| 2017 | 2021 | Lea PINON, PhD | Postdoc | [ORCID](https://orcid.org/0000-0002-8645-071X))  |
+| 2017 | 2021 | Lea PINON, PhD | Postdoc | [ORCID](https://orcid.org/0000-0002-8645-071X)  |
 | 2020 | 2021 |  Julie SIGNEUX| Research engineer  | [LinkedIn](https://www.linkedin.com/in/julie-signeux-74b32413a/?originalSubdomain=fr) |
 | 2017 | 2019 |  Kaori SAKAI| Engineer  | [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/) |
 | 2016 | 2019 |  Lorraine MONTEL| Post-doc | [ORCID](https://orcid.org/0000-0003-0545-6413)  |
