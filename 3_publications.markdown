@@ -22,8 +22,7 @@ S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\* \
 
 [41] A. Chargueraud, L. Kool, J. Fattaccioli\*. \
 *Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles* \
-**Micro and Nano Engineering**, Accepted (2025) \
-**ArXiv** (2025) [url](https://arxiv.org/abs/2507.06241){:target="_blank"}
+**Micro and Nano Engineering** (2025, In Press) [doi](https://doi.org/10.1016/j.mne.2025.100332){:target="_blank"}  \
 
 [40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \
 *A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains* \
