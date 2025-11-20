@@ -9,21 +9,21 @@ permalink: /publications/
 **In Preparation**
 
 [44] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \ C. Pompili1, H. Uhl, S. Michelis, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang\* \
-**BioRxiv** (2025) [doi](https://doi.org/10.1101/2025.11.20.685382)  \
+ **Methods & Protocols Book – Exocytosis and Endocytosis** (2026)
 
 [43] *Lipid droplet–based passive tracking to probe tissue dynamics in lymph node slices* \
 L. Bruno, H. Uhl, L. Vimeux, M. Karnat, J-F Rupprecht, E. Donnadieu, J. Fattaccioli and P. Pierobon \
-**Methods in Molecular Biology** (Soon)
+**Methods in Molecular Biology : Real-Time Imaging of Immune Cells** (2026)
 
 **2025**
 
 [42] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \
 S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\* \
-**BioRXiv** (2025)
+**BioRxiv** (2025) [doi](https://doi.org/10.1101/2025.11.20.685382){:target="_blank"} \
 
 [41] A. Chargueraud, L. Kool, J. Fattaccioli\*. \
 *Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles* \
-**Micro and Nano Engineering** (2025, In Press) [doi](https://doi.org/10.1016/j.mne.2025.100332){:target="_blank"}  \
+**Micro and Nano Engineering**, Accepted (2025, In Press) [doi](https://doi.org/10.1016/j.mne.2025.100332){:target="_blank"}
 
 [40] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo. \
 *A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains* \
