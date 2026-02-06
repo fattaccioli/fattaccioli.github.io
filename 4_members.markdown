@@ -43,7 +43,6 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 |---|---|---|---|
 |Alexandre CHARGUERAUD| PhD student  | [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
 |---|---|---|---|
-| Estelle LU | PhD student |  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
 | Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
 | Héloïse UHL | PhD student | [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/) |
 
