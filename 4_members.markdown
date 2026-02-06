@@ -52,7 +52,8 @@ Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
 
 | Start | End | Name | Status | |
 |---|---|---|---|---|
-|2024|2025|Mathieu GONCALVES--VENTURELLI | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
+|2022|2025| Estelle LU | - |  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
+|2024|2025|Mathieu GONCALVES-VENTURELLI | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
 |2023|2025|Aurélien LEPOËTRE | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/) |
 | 2023 | 2024 | Charles CAVANIOL | Postdoc | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
 | 2023 || Martin COUX | Postdoc | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
