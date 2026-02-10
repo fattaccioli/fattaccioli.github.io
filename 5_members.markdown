@@ -89,16 +89,14 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 ## Alumni
 
 <details open>
-<summary><strong>Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}</summary>{: style="display: inline;"}
+<summary><strong>Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}
+</summary>{: style="display: inline;"}
 
-- **Estelle Lu** (2022–2025)  
-  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/)
+- **Estelle Lu** (2022–2025)  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/)
 
-- **Mathieu Goncalves-Venturelli** — Postdoctoral researcher (2024–2025)  
-  [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr)
+- **Mathieu Goncalves-Venturelli** — Postdoctoral researcher (2024–2025)  [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr)
 
-- **Aurélien Lepoëtre** — Postdoctoral researcher (2023–2025)  
-  [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/)
+- **Aurélien Lepoëtre** — Postdoctoral researcher (2023–2025)  [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/)
 
 - **Charles Cavaniol** — Postdoctoral researcher (2023–2024)  
   [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/)
