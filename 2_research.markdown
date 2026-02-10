@@ -6,13 +6,22 @@ description: "Research activities of Jacques Fattaccioli in microfluidics, bioph
 permalink: /research/
 ---
 
-## Research
-
 We conduct interdisciplinary research at the interface of **microfluidics, soft matter, biophysics, and immunology**, with a strong emphasis on **droplet-based microfluidic systems**. Our work focuses on the design and use of **microfluidic platforms** to generate, manipulate, and functionalize **droplets, interfaces, particles, and cells**, creating controlled microscale environments for quantitative biological and biochemical studies.
 
 A central research direction is the development of **microfluidic approaches for immunology**, where droplets act as microcompartments to control biochemical conditions, surface chemistry, and cell–interface interactions. These systems enable the study of immune-cell functions, intracellular processes, and reaction kinetics with high temporal and spatial resolution, including **single-cell and high-throughput assays**.
 
-Our research combines **microfabrication**, surface and interface engineering, advanced optical microscopy, and quantitative data analysis to build robust lab-on-a-chip tools tailored to biologically relevant questions. Beyond fundamental research, we actively engage in **technology transfer and startup-driven innovation**, translating microfluidic and droplet-based technologies into scalable solutions for **biotechnology and biomedical applications**.
+Our research combines **microfabrication**, surface and interface engineering, advanced optical microscopy, and quantitative data analysis to build robust lab-on-a-chip tools tailored to biologically relevant questions. 
+
+## Translation and innovation
+
+Part of our research activities is translated toward applications through **Quintessence Biotech**, a startup co-founded within the laboratory. The company builds on our expertise in **microfluidics, droplets, and interface engineering** to develop **innovative solutions for Cell and Gene Therapies**.
+
+This translational effort ensures a strong feedback loop between **fundamental research**, **technology development**, and **biomedical applications**, while preserving the academic objectives of the laboratory.
+
+![Quintessence Biotech](assets/images/quintessence_biotech_logo.jpeg){: style="float: left; margin-right: 20px" width="100px"}
+
+More informations [here](https://www.linkedin.com/company/quintessence-biotech/)
+{: style="text-align: justify"}
 
 Some research topics : 
 
