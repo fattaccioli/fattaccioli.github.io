@@ -89,9 +89,9 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 ## Alumni
 
 <details open>
-<summary><strong>Former PhD students, postdoctoral researchers, and engineers</strong></summary>
-
-<br>
+<summary><strong>Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}
+</summary>
+<br>{: style="display: inline;"}
 
 - **Estelle Lu** (2022–2025)  
   [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/)
