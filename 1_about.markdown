@@ -25,6 +25,17 @@ I am in charge of the **Microfluidics and Miniaturization Master**: https://micr
 
 In addition to university teaching, I develop and deliver **lifelong learning** and professional training programs in **microfluidics**, tailored to R&D teams.
 
+## Startup and technology transfer
+
+I am **co-founder and scientific advisor of Quintessence Biotech**, a startup born from our laboratory’s patent portfolio. Quintessence Biotech develops **innovative microfluidic and physico-chemical solutions for Cell and Gene Therapies**, with the objective of translating academic research into robust and scalable technologies for biomedical applications.
+
+This activity is part of a broader commitment to **technology transfer and innovation**, bridging fundamental research, engineering, and real-world therapeutic challenges.
+
+![Quintessence Biotech](assets/images/quintessence_biotech_logo.jpeg){: style="float: left; margin-right: 20px" width="100px"}
+
+More informations [here](https://www.linkedin.com/company/quintessence-biotech/)
+{: style="text-align: justify"}
+
 ## Contact
 
 If you are interested in research collaborations, student projects, or professional training in microfluidics, feel free to get in touch : **jacques.fattaccioli at ens.psl.eu**
