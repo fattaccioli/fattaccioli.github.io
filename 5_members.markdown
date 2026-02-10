@@ -182,7 +182,7 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ---
 
-## Team and environment (ERC/ANR-style overview)
+## Team and environment
 
 The **MesoBioLab** team is hosted within the **CPCV Laboratory** at **École Normale Supérieure (ENS-PSL, Department of Chemistry)**. The group combines **microfluidics and microfabrication**, **droplet and interface engineering**, **microscopy**, and **quantitative analysis** to address questions at the interface of **physical chemistry and immunology**.
 
