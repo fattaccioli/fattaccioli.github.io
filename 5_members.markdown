@@ -5,15 +5,6 @@ description: "Members of the MesoBioLab team at the CPCV Laboratory (ENS-PSL), w
 permalink: /members/
 ---
 
-# Members
-
-## Team and environment
-
-Our group combines **microfluidics and microfabrication**, **droplet and interface engineering**, **microscopy**, and **quantitative analysis** to address questions at the interface of **physical chemistry and biology**.
-
-Our team structure integrates complementary profiles (PhD students, postdoctoral researchers, engineers, and trainees) and relies on interactions with local scientific infrastructures and partner groups. This environment supports both **method development** (microfluidic platforms, measurement strategies) and **application-driven projects** (biomedical and analytical microdevices), and provides a training framework for students from interdisciplinary backgrounds.
-
----
 
 ## Group leader
 
@@ -86,55 +77,44 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 - **Aurélien Lepoëtre** — Postdoctoral researcher (2023–2025)  [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/)
 
-- **Charles Cavaniol** — Postdoctoral researcher (2023–2024)  
-  [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/)
+- **Charles Cavaniol** — Postdoctoral researcher (2023–2024)  [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/)
 
-- **Martin Coux** — Postdoctoral researcher (2023–)  
-  [LinkedIn](https://www.linkedin.com/in/martin-coux/)
+- **Martin Coux** — Postdoctoral researcher (2023–)  [LinkedIn](https://www.linkedin.com/in/martin-coux/)
 
 - **Wafa Hechiche** — PhD student (2019–2023)  
   Primary supervisor: J. Vinh (ESPCI)
 
 - **Chaohe Hu** — PhD student (2019–2023, CSC Grant)
 
-- **Gabriel Fina** — Research engineer (2021–2022)  
-  [LinkedIn](https://www.linkedin.com/in/gabriel-fina-566839201/)
+- **Gabriel Fina** — Research engineer (2021–2022)  [LinkedIn](https://www.linkedin.com/in/gabriel-fina-566839201/)
 
-- **Léa Pinon, PhD** — Postdoctoral researcher (2017–2021)  
-  [ORCID](https://orcid.org/0000-0002-8645-071X)
+- **Léa Pinon, PhD** — Postdoctoral researcher (2017–2021)  [ORCID](https://orcid.org/0000-0002-8645-071X)
 
-- **Julie Signeux** — Research engineer (2020–2021)  
-  [LinkedIn](https://www.linkedin.com/in/julie-signeux-74b32413a/?originalSubdomain=fr)
+- **Julie Signeux** — Research engineer (2020–2021)  [LinkedIn](https://www.linkedin.com/in/julie-signeux-74b32413a/?originalSubdomain=fr)
 
-- **Kaori Sakai** — Engineer (2017–2019)  
-  [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/)
+- **Kaori Sakai** — Engineer (2017–2019)  [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/)
 
-- **Lorraine Montel** — Postdoctoral researcher (2016–2019)  
-  [ORCID](https://orcid.org/0000-0003-0545-6413)
+- **Lorraine Montel** — Postdoctoral researcher (2016–2019)  [ORCID](https://orcid.org/0000-0003-0545-6413)
 
-- **Olivier Mesdjian** — PhD student (2014–2017)  
-  [ORCID](https://orcid.org/0000-0003-4499-2040)
+- **Olivier Mesdjian** — PhD student (2014–2017)  [ORCID](https://orcid.org/0000-0003-4499-2040)
 
 - **Pascal Matton** — PhD student (2014–2017)  
   Primary supervisor: J.-M. Mallet
 
 - **Sandrine Quignard** — Postdoctoral researcher (2013–2017)
 
-- **Diana Molino** — Postdoctoral researcher (2013–2016)  
-  [LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)
+- **Diana Molino** — Postdoctoral researcher (2013–2016)  [LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)
 
-- **Kalthoum Ben M'Barek** — PhD student (2011–2015)  
-  [LinkedIn](https://www.linkedin.com/in/kalthoumbenmbarek/?originalSubdomain=fr)
+- **Kalthoum Ben M'Barek** — PhD student (2011–2015)  [LinkedIn](https://www.linkedin.com/in/kalthoumbenmbarek/?originalSubdomain=fr)
 
 </details>
 
----
 
 <details>
 <summary><strong>Former interns and undergraduate students</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
 
-
+- Sihzm Guelai (2026) - Intern (M2 in Chemistry, Sorbonne Université)
 - Juliette Mérigot--Lombard (2024) — Intern (M2 Microfluidics)
 - François Lambeaux (2024) — Intern (M2 Microfluidics)
 - Cylia Birba (2024) — L3 Pro, Sorbonne Université
@@ -165,7 +145,6 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 </details>
 
----
 
 
 ## Join the lab
