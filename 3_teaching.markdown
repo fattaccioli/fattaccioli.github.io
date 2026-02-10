@@ -5,27 +5,19 @@ description: "Teaching activities of Jacques Fattaccioli in chemistry, microflui
 permalink: /teaching/
 ---
 
-# Teaching
 
-## Teaching at a glance
 
-**Levels**  
-Bachelor · Master · Professional / Lifelong learning  
-
-**Core themes**  
-Microfluidics · Miniaturisation · Image analysis · Microscopy · Quantitative reasoning  
-
-**Pedagogical focus**  
-Hands-on learning · Real data · Physical reasoning · Research-driven teaching  
-
-**Roles**  
-University lecturer · Course coordinator · Master program director · Professional trainer  
-
----
 
 My teaching activities span **university education** and **professional training**, with a strong emphasis on **quantitative approaches, experimental practice, and the connection between research and learning**. Teaching is conceived as a continuum, from Bachelor-level foundations to advanced Master programs and lifelong learning for professionals.
 
----
+## Teaching philosophy
+
+Across all levels, my teaching approach aims to:
+- connect **fundamental concepts** with **experimental practice**,
+- promote **quantitative and critical thinking**,
+- prepare students and professionals to engage with **research-driven and interdisciplinary environments**.
+
+Teaching is conceived as a continuous pathway, from initial university training to advanced professional development.
 
 ## University teaching (Bachelor and Master levels)
 
@@ -42,7 +34,7 @@ Across these courses, the emphasis is placed on:
 - quantitative reasoning and physical intuition,
 - autonomy in data analysis and interpretation.
 
----
+
 
 ## Teaching unit — Master of Chemistry (Sorbonne Université)
 
@@ -61,32 +53,14 @@ By the end of the unit, students are expected to be able to:
 - Discuss the **constraints of miniaturised spectroscopy** (IR/Raman) and mitigation strategies (preconcentration, SERS)
 - Propose a coherent **“sample → answer” microdevice** under point-of-care constraints (time, cost, robustness)
 
-### Course format
-
-- **Lectures**: physical concepts, key examples, and design trade-offs  
-- **Tutorials**: problem solving and quantitative reasoning  
-- **Laboratory classes (2 sessions)**: hands-on experiments on mixing, gradients, and droplets  
-- **Mini-project**: quantitative measurement of capillary wicking using a Washburn-type analysis  
-
-### Assessment
-
-The final exam is **open-PDF**: course documents are accessible during the exam. Evaluation therefore focuses on **reasoning quality**, **problem structuring**, and the **correct use of physical models, assumptions, and orders of magnitude**.
-
 ### Teaching team
 
-- **Jacques Fattaccioli** — Course coordinator  
-- Mathieu Morel  
-- Valérie Pichon  
-- Ludovic Bellot-Gurlet  
-- Laurent Thouin  
+**Jacques Fattaccioli** — Course coordinator, Mathieu Morel, Valérie Pichon, Ludovic Bellot-Gurlet, Laurent Thouin  
 
-Contact: jacques.fattaccioli@ens.psl.eu
 
----
+## *Microfluidics and Miniaturization* Master — Program management
 
-## Microfluidics and Miniaturization Master — Program management
-
-I am in charge of the **Microfluidics and Miniaturization Master**, an interdisciplinary program dedicated to **microfluidics, lab-on-a-chip technologies, and miniaturised analytical systems**.
+I am in charge of the [**Microfluidics and Miniaturization Master**](https://microfluidics-master.fr/), an interdisciplinary program dedicated to **microfluidics, lab-on-a-chip technologies, and miniaturised analytical systems**.
 
 The program is designed for students from **chemistry, physics, engineering, and biology**, and combines **fundamental concepts**, **hands-on experimental training**, and **application-driven projects**.
 
@@ -105,7 +79,6 @@ Teaching is provided by **faculty from ENS, Sorbonne Université, and partner in
 🔗 Full program details:  
 https://microfluidics-master.fr/
 
----
 
 ## Lifelong learning and professional training
 
@@ -133,13 +106,3 @@ R&D engineers, researchers, and technical staff in chemistry, physics, biology, 
 
 This syllabus is indicative and can be tailored to application domains or participant profiles.
 
----
-
-## Teaching philosophy
-
-Across all levels, my teaching approach aims to:
-- connect **fundamental concepts** with **experimental practice**,
-- promote **quantitative and critical thinking**,
-- prepare students and professionals to engage with **research-driven and interdisciplinary environments**.
-
-Teaching is conceived as a continuous pathway, from initial university training to advanced professional development.
