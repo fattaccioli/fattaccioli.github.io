@@ -56,12 +56,15 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ### PhD students
 
-- **Alexandre Chargueraud** — PhD student [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)
+- **Alexandre Chargueraud** — PhD student (2022-2026)[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)
 
-- **Chiara Pompili** — PhD student  
+- **Chiara Pompili** — PhD student  (2022-2026)
   Primary supervisor: F. Niedergang (Institut Cochin) [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)
 
-- **Héloïse Uhl** — PhD student [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)
+- **Héloïse Uhl** — PhD student (2022-2026) [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)
+
+- **Moein Derakshan** - PhD student (2026-2029)
+Primary supervisor : Feng-Ching Tsai (Institut Curie) 
 
 ---
 
