@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About | Jacques Fattaccioli"
+title: "About"
 description: "Jacques Fattaccioli is an Associate Professor in Chemistry. He is part of the MesoBioLab team at the CPCV Laboratory (ENS, Department of Chemistry, Paris). Research in microfluidics, droplets, soft matter, biophysics and immunology; teaching in Python for science, image analysis, microscopy, and microfluidics."
 ---
 
