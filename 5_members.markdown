@@ -7,24 +7,15 @@ permalink: /members/
 
 # Members
 
-## Members at a glance
+## Team and environment
 
-**Team**  
-MesoBioLab — CPCV Laboratory, ENS (Department of Chemistry)
+Our group combines **microfluidics and microfabrication**, **droplet and interface engineering**, **microscopy**, and **quantitative analysis** to address questions at the interface of **physical chemistry and biology**.
 
-**Research themes**  
-Microfluidics · Droplets · Soft matter · Biophysics · Immunology
-
-**Training environment**  
-PhD · Postdoctoral research · Engineers · Master and undergraduate projects
+Our team structure integrates complementary profiles (PhD students, postdoctoral researchers, engineers, and trainees) and relies on interactions with local scientific infrastructures and partner groups. This environment supports both **method development** (microfluidic platforms, measurement strategies) and **application-driven projects** (biomedical and analytical microdevices), and provides a training framework for students from interdisciplinary backgrounds.
 
 ---
 
-The group brings together **researchers, PhD students, postdoctoral fellows, engineers, and students** working on interdisciplinary projects in **microfluidics, soft matter, and biophysics**, with applications ranging from fundamental studies to biomedical and analytical systems.
-
----
-
-## Group lead
+## Group leader
 
 ### Jacques Fattaccioli
 
@@ -85,7 +76,7 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ## Alumni
 
-<details open>
+<details>
 <summary><strong>Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
 
@@ -139,7 +130,7 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ---
 
-<details open>
+<details>
 <summary><strong>Former interns and undergraduate students</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
 
@@ -176,13 +167,6 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ---
 
-## Team and environment
-
-The **MesoBioLab** team is hosted within the **CPCV Laboratory** at **École Normale Supérieure (ENS-PSL, Department of Chemistry)**. The group combines **microfluidics and microfabrication**, **droplet and interface engineering**, **microscopy**, and **quantitative analysis** to address questions at the interface of **physical chemistry and immunology**.
-
-Our team structure integrates complementary profiles (PhD students, postdoctoral researchers, engineers, and trainees) and relies on interactions with local scientific infrastructures and partner groups. This environment supports both **method development** (microfluidic platforms, measurement strategies) and **application-driven projects** (biomedical and analytical microdevices), and provides a training framework for students from interdisciplinary backgrounds.
-
----
 
 ## Join the lab
 
