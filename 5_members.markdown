@@ -71,7 +71,7 @@ Primary supervisor : Feng-Ching Tsai (Institut Curie)
 ## Alumni
 
 <details>
-<summary><strong>Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}
+<summary><strong>:arrow_down: Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
 
 - **Estelle Lu** (2022–2025)  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/)
