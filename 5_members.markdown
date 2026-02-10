@@ -74,15 +74,12 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ### PhD students
 
-- **Alexandre Chargueraud** — PhD student  
-  [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)
+- **Alexandre Chargueraud** — PhD student [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)
 
 - **Chiara Pompili** — PhD student  
-  Primary supervisor: F. Niedergang (Institut Cochin)  
-  [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)
+  Primary supervisor: F. Niedergang (Institut Cochin) [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)
 
-- **Héloïse Uhl** — PhD student  
-  [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)
+- **Héloïse Uhl** — PhD student [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)
 
 ---
 
@@ -142,10 +139,10 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ---
 
-<details>
-<summary><strong>Former interns and undergraduate students</strong>{: style="display: inline;"}</summary>{: style="display: inline;"}
+<details open>
+<summary><strong>Former interns and undergraduate students</strong>{: style="display: inline;"}
+</summary>{: style="display: inline;"}
 
-<br>
 
 - Juliette Mérigot--Lombard (2024) — Intern (M2 Microfluidics)
 - François Lambeaux (2024) — Intern (M2 Microfluidics)
