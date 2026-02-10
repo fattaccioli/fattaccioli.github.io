@@ -43,11 +43,10 @@ plugins:
 header_pages:
   - 1_about.markdown
   - 2_research.markdown
-  - 3_publications.markdown
-  - 4_members.markdown
-  - 5_startup.markdown
-  - 6_softwares.markdown
-  - 7_positions.markdown
+  - 3_teaching.markdown
+  - 4_publications.markdown
+  - 5_members.markdown
+  - 6_positions.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

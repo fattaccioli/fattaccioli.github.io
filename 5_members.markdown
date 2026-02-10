@@ -1,102 +1,210 @@
 ---
 layout: page
 title: Members
-description: "Research group members in Jacques Fattaccioli's laboratory at Sorbonne Université and ENS-PSL."
-
+description: "Members of the MesoBioLab team at the CPCV Laboratory (ENS-PSL), working on microfluidics, droplets, soft matter, and biophysics."
 permalink: /members/
 ---
-My group brings together researchers, PhD students, postdocs, and engineers working on projects in microfluidics, soft matter, and biophysics.
 
-### Jacques Fattaccioli - Short bio
+# Members
 
-![image](/assets/images/Face_Jacques.jpg){: style="float: left; margin-right: 20px" width="100px"}
+## Members at a glance
 
-Links : [Linktree](https://linktr.ee/fattaccioli) - [ORCID](https://orcid.org/0000-0002-0095-2576) - [LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)
+**Team**  
+MesoBioLab — CPCV Laboratory, ENS (Department of Chemistry)
 
-Schedule : [Calendly](https://calendly.com/fattaccioli/30min)
+**Research themes**  
+Microfluidics · Droplets · Soft matter · Biophysics · Immunology
+
+**Training environment**  
+PhD · Postdoctoral research · Engineers · Master and undergraduate projects
+
+---
+
+The group brings together **researchers, PhD students, postdoctoral fellows, engineers, and students** working on interdisciplinary projects in **microfluidics, soft matter, and biophysics**, with applications ranging from fundamental studies to biomedical and analytical systems.
+
+---
+
+## Group lead
+
+### Jacques Fattaccioli
+
+![Jacques Fattaccioli](/assets/images/Face_Jacques.jpg){: style="float: left; margin-right: 20px" width="120px"}
+
+Associate Professor in Chemistry  
+Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
+
+**Links**  
+[Linktree](https://linktr.ee/fattaccioli) ·
+[ORCID](https://orcid.org/0000-0002-0095-2576) ·
+[LinkedIn](https://www.linkedin.com/in/jacquesfattaccioli/)
+
+**Meetings**  
+[Schedule a meeting (Calendly)](https://calendly.com/fattaccioli/30min)
+
+<br style="clear: both"/>
+
+### Current positions
+
+- **Head of the Master 2 Microfluidics Program** (2018–present)  
+  https://microfluidics-master.fr/
+- **Team leader**, Institut Pierre-Gilles de Gennes (2015–present)  
+  http://www.institut-pgg.fr
+- **Member**, Pôle NBMS, PASTEUR Laboratory (UMR 8640), ENS-PSL (2009–present)  
+  http://www.chimie.ens.psl.eu
+- **Maître de Conférences / Associate Professor**, Sorbonne Université (2009–present)  
+  http://www.sorbonne-universite.fr/
+
+### Academic positions and training
+
+- **Fulbright Scholar**, Invited Professor, CSMR, NYU (2023)  
+  https://as.nyu.edu/research-centers/csmr.html
+- **EELISA Dean of Studies** (2020)
+- **Habilitation à diriger des recherches**, Sorbonne Université (2017)
+- **Postdoctoral researcher**, LIMMS (B.J. Kim Lab), IIS, University of Tokyo (2006–2009)  
+  http://limmshp.iis.u-tokyo.ac.jp/ · http://iis.u-tokyo.ac.jp/
+- **PhD in Chemistry**, UPMC (2002–2006) — Advisor: Pr. J. Bibette (LCMD, ESPCI)  
+  https://www.lcmd.espci.fr/
+- **MSc in Soft Matter Science**, UPMC (2001–2002)
+- **Engineering degree in Physics and Chemistry**, ESPCI (1998–2002)  
+  http://www.espci.fr/
+
+---
+
+## Current members
+
+### PhD students
+
+- **Alexandre Chargueraud** — PhD student  
+  [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)
+
+- **Chiara Pompili** — PhD student  
+  Primary supervisor: F. Niedergang (Institut Cochin)  
+  [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)
+
+- **Héloïse Uhl** — PhD student  
+  [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)
+
+---
+
+## Alumni
+
+<details open>
+<summary><strong>Former PhD students, postdoctoral researchers, and engineers</strong></summary>
 
 <br>
+
+- **Estelle Lu** (2022–2025)  
+  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/)
+
+- **Mathieu Goncalves-Venturelli** — Postdoctoral researcher (2024–2025)  
+  [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr)
+
+- **Aurélien Lepoëtre** — Postdoctoral researcher (2023–2025)  
+  [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/)
+
+- **Charles Cavaniol** — Postdoctoral researcher (2023–2024)  
+  [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/)
+
+- **Martin Coux** — Postdoctoral researcher (2023–)  
+  [LinkedIn](https://www.linkedin.com/in/martin-coux/)
+
+- **Wafa Hechiche** — PhD student (2019–2023)  
+  Primary supervisor: J. Vinh (ESPCI)
+
+- **Chaohe Hu** — PhD student (2019–2023, CSC Grant)
+
+- **Gabriel Fina** — Research engineer (2021–2022)  
+  [LinkedIn](https://www.linkedin.com/in/gabriel-fina-566839201/)
+
+- **Léa Pinon, PhD** — Postdoctoral researcher (2017–2021)  
+  [ORCID](https://orcid.org/0000-0002-8645-071X)
+
+- **Julie Signeux** — Research engineer (2020–2021)  
+  [LinkedIn](https://www.linkedin.com/in/julie-signeux-74b32413a/?originalSubdomain=fr)
+
+- **Kaori Sakai** — Engineer (2017–2019)  
+  [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/)
+
+- **Lorraine Montel** — Postdoctoral researcher (2016–2019)  
+  [ORCID](https://orcid.org/0000-0003-0545-6413)
+
+- **Olivier Mesdjian** — PhD student (2014–2017)  
+  [ORCID](https://orcid.org/0000-0003-4499-2040)
+
+- **Pascal Matton** — PhD student (2014–2017)  
+  Primary supervisor: J.-M. Mallet
+
+- **Sandrine Quignard** — Postdoctoral researcher (2013–2017)
+
+- **Diana Molino** — Postdoctoral researcher (2013–2016)  
+  [LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)
+
+- **Kalthoum Ben M'Barek** — PhD student (2011–2015)  
+  [LinkedIn](https://www.linkedin.com/in/kalthoumbenmbarek/?originalSubdomain=fr)
+
+</details>
+
+<details>
+<summary><strong>Former interns and undergraduate students</strong></summary>
+
 <br>
-<br>
-**Current positions**
 
-|From | To | |
-|2018 | Now| Head of the [Master 2 Microfluidics Program](https://microfluidics-master.fr/) |
-|2015 | Now| Team leader à l'[Institut Pierre-Gilles de Gennes](http://www.institut-pgg.fr)|
-|2009 | Now| Membre du Pôle NBMS du laboratoire PASTEUR (UMR 8640) du <br>[Département de Chimie](http://www.chimie.ens.psl.eu) de l'ENS-PSL |
-|2009 | Now| Maître de Conférences (Ass. Pr.) at [Sorbonne Université](http://www.sorbonne-universite.fr/) |
+- Juliette Mérigot--Lombard (2024) — Intern (M2 Microfluidics)
+- François Lambeaux (2024) — Intern (M2 Microfluidics)
+- Cylia Birba (2024) — L3 Pro, Sorbonne Université
+- Charlie Brunet (2023) — Intern (L3 Pro Formulation, Sorbonne Université)
+- Lina Ben Salem (2022) — Intern (L3 Pro Formulation, Sorbonne Université)
+- Romane Vinot (2021) — Intern (M2 Microfluidics)
+- Walid Bezaouch (2021) — L3 Pro, Sorbonne Université
+- Sarah Duclos-Iivetich (2020) — M1 Intern, PSL SGM Master
+- Romane Vinot (2020) — L3 Intern, ENS Paris-Saclay
+- Nawel Sebih (2020) — L3 Pro Formulation, Sorbonne Université
+- Flore Caré (2020) — Intern/Engineer (M2 Microfluidics, PSL SGM)
+- Lucie Lacour (2019) — Intern (M1 Chemistry, Sorbonne Université)
+- Léa Boudinet (2015) — Undergrad (ENS)
+- Margot Hily (2015) — Undergrad (U. Paris Sud)
+- Marius Hervé (2014) — Undergrad (ENS)
+- Gianmarco Nocera (2013) — Undergrad (UPMC)
+- Dario Bazzoli (2013) — Undergrad (U. Milano)
+- Guillaume Fraux (2013) — Undergrad (ENS)
+- Amélie Nicolay (2013) — Undergrad (ENS)
+- Charlotte Quintana (2012) — Undergrad (UPMC)
+- Morgane Bontems-Van Heijenoort (2012) — Undergrad (UPMC)
+- Manon Quentrec (2012) — Undergrad (UPMC)
+- Marie Labeye (2011) — Undergrad (ENS)
+- Pauline Junquet (2011) — Undergrad (ENS)
+- Jeannette Chokki (2011) — Undergrad (UPMC)
+- Quentin Senez (2011) — Undergrad (UPMC)
+- Clothilde Longuet (2010) — MSc (UPMC)
 
-**Academic positions and studies**
+</details>
 
-| From | To | |
-|2023 | | Fulbright Scholar (May-July, Invited Professor) at the [CSMR](https://as.nyu.edu/research-centers/csmr.html) of [NYU](http://www.nyu.edu) |
-|2020 | | EELISA Dean of Studies |
-|2017 | | Habilitation à diriger les recherches, Sorbonne Université  |
-|2006 | 2009 | Postdoc at [LIMMS](http://limmshp.iis.u-tokyo.ac.jp/) ([B.J. Kim Lab.](http://www.kimlab.iis.u-tokyo.ac.jp/english/index.html)), [IIS](http://iis.u-tokyo.ac.jp/), U. Tokyo |
-|2002 | 2006 | PhD student (Chemistry, [UPMC](http://www.upmc.fr/)). Adv. : Pr. J. Bibette ([LCMD](https://www.lcmd.espci.fr/), [ESPCI](http://www.espci.fr/)) |
-|2001 | 2002 | M.Sc. in Soft Matter science ([UPMC](http://www.upmc.fr/)) |
-|1998 | 2002 | Master’s degree in engineering in Physics and Chemistry ([ESPCI](http://www.espci.fr/))|
+---
 
-### Current Members
+## Team and environment (ERC/ANR-style overview)
 
-| Name | Status | |
-|---|---|---|---|
-|Alexandre CHARGUERAUD| PhD student  | [LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)|
-|---|---|---|---|
-| Chiara POMPILI | PhD student (Primary supervisor : F. Niedergang, Institut Cochin) | [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/) |
-| Héloïse UHL | PhD student | [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/) |
+The **MesoBioLab** team is hosted within the **CPCV Laboratory** at **École Normale Supérieure (ENS-PSL, Department of Chemistry)**. The group combines **microfluidics and microfabrication**, **droplet and interface engineering**, **microscopy**, and **quantitative analysis** to address questions at the interface of **physical chemistry and immunology**.
 
+Our team structure integrates complementary profiles (PhD students, postdoctoral researchers, engineers, and trainees) and relies on interactions with local scientific infrastructures and partner groups. This environment supports both **method development** (microfluidic platforms, measurement strategies) and **application-driven projects** (biomedical and analytical microdevices), and provides a training framework for students from interdisciplinary backgrounds.
 
-### Former Graduate Students, Postdocs and Engineers
+---
 
-| Start | End | Name | Status | |
-|---|---|---|---|---|
-|2022|2025| Estelle LU | - |  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/) |
-|2024|2025|Mathieu GONCALVES-VENTURELLI | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/mathieu-goncalves-venturelli/?originalSubdomain=fr) |
-|2023|2025|Aurélien LEPOËTRE | Postdoctoral researcher | [LinkedIn](https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/) |
-| 2023 | 2024 | Charles CAVANIOL | Postdoc | [LinkedIn](https://www.linkedin.com/in/charles-cavaniol-928268130/?originalSubdomain=fr/) |
-| 2023 || Martin COUX | Postdoc | [LinkedIn](https://www.linkedin.com/in/martin-coux/) |
-| 2019 | 2023 |  Wafa HECHICHE | PhD student (Primary supervisor : J. Vinh, ESPCI) | [LinkedIn] |
-| 2019 | 2023 |  Chaohe HU | PhD student (CSC Grant)  ||
-| 2021 | 2022 |  Gabriel FINA | Research engineer  | [LinkedIn](https://www.linkedin.com/in/gabriel-fina-566839201/) |
-| 2017 | 2021 | Lea PINON, PhD | Postdoc | [ORCID](https://orcid.org/0000-0002-8645-071X)  |
-| 2020 | 2021 |  Julie SIGNEUX| Research engineer  | [LinkedIn](https://www.linkedin.com/in/julie-signeux-74b32413a/?originalSubdomain=fr) |
-| 2017 | 2019 |  Kaori SAKAI| Engineer  | [LinkedIn](https://www.linkedin.com/in/kaori-sakai-34298a46/) |
-| 2016 | 2019 |  Lorraine MONTEL| Post-doc | [ORCID](https://orcid.org/0000-0003-0545-6413)  |
-| 2014 | 2017 |  Olivier MESDJIAN | PhD student | [ORCID](https://orcid.org/0000-0003-4499-2040)|
-| 2014 | 2017 |  Pascal MATTON| PhD student (Primary supervisor : J.M. Mallet)  ||
-| 2013 | 2017 |  Sandrine QUIGNARD| Post-doc (Ag.Pr.)  ||
-| 2013 | 2016 |  Diana MOLINO | Postdoc |[LinkedIn](https://www.linkedin.com/in/diana-molino-6122a995/?originalSubdomain=fr)  |
-| 2011 | 2015 |  Kalthoum BEN M'BAREK | PhD student – Grad. on Feb. 19th, 2015 | [LinkedIn](https://www.linkedin.com/in/kalthoumbenmbarek/?originalSubdomain=fr)|
+## Join the lab
 
-### Former Interns
+We welcome applications from motivated students and researchers interested in **microfluidics, droplet-based systems, soft matter, biophysics, and immunology**, with a strong emphasis on **quantitative experimentation and data-driven analysis**.
 
-| Start - End | Name | Status | |
-|---|---|---|---|
-| 2024 |  Juliette MERIGOT--LOMBARD | Intern (M2 Microfluidics)  ||
-| 2024 |  François LAMBEAUX | Intern (M2 Microfluidics)  ||
-| 2024 |  Cylia BIRBA | (L3 Pro, Sorbonne Université)  ||
-| 2023 | Charlie BRUNET | Intern (L3 Pro Formulation, Sorbonne Université) ||
-| 2022 |  Lina BEN SALEM | Intern (L3 Pro Formulation, Sorbonne Université)  ||
-| 2021 |  Romane VINOT | Intern (M2 Microfluidics)  ||
-| 2021 |  Walid BEZAOUCH |(L3 Pro, Sorbonne Université)  ||
-| 2020 |  Sarah DUCLOS-IIVETICH | (M1 Intern, PSL SGM Master)  ||
-| 2020 |  Romane VINOT |(L3 Intern, ENS Paris Saclay)  ||
-| 2020 |  Nawel Sebih |(L3 Pro Formulation, Sorbonne Université)  ||
-| 2020 |  Flore Caré| Intern/Engineer (M2 Microfluidics, PSL SGM)  ||
-| 2019 |  Lucie Lacour| Intern (M1 Chemistry, Sorbonne Université)  ||
-| 2015 |  Léa Boudinet | Undergrad (ENS) |[CV]  |
-| 2015 |  Margot Hily. |Undergrad (U. Paris Sud) | [CV]  |
-| 2014 | Marius Hervé |Undergrad (ENS) ||
-| 2013 |  Gianmarco Nocera | Undergrad (UPMC)  ||
-| 2013 | Dario Bazzoli | Undergrad (U. Milano)  ||
-| 2013 |  Guillaume Fraux | Undergrad (ENS)  ||
-| 2013 | Amélie Nicolay | Undergrad (ENS)  ||
-| 2012 |  Charlotte Quintana | Undergrad (UPMC)  ||
-| 2012 |  Morgane Bontems-Van Heijenoort | Undergrad (UPMC)  ||
-| 2012 |  Manon Quentrec | Undergrad (UPMC)  ||
-| 2011 |  Marie Labeye | Undergrad (ENS)  ||
-| 2011 |  Pauline Junquet | Undergrad (ENS)  | |
-| 2011 |  Jeannette Chokki | Undergrad (UPMC)  | |
-| 2011 |  Quentin Senez | Undergrad (UPMC)  | |
-| 2010 |  Clothilde Longuet | MSc (UPMC)  | |
+**Opportunities** may include:
+- **Master internships** (M1/M2) and research projects
+- **PhD positions** (depending on funding calls)
+- **Postdoctoral positions** (project-based opportunities)
+- **Research engineer** collaborations (platforms and instrumentation)
+
+**MSCA Postdoctoral Fellowships:** we are happy to **host and support MSCA-PF applications**, including project definition, positioning, and proposal preparation.
+
+If you are interested, please contact **Jacques Fattaccioli** with:
+- a short CV,
+- a brief description of your interests (2–5 lines),
+- and (optionally) links to publications, GitHub, or previous projects.
+
+Contact: **jacques.fattaccioli at ens.psl.eu**  
+See also: [Open positions](/positions/)
