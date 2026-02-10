@@ -145,7 +145,8 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 </details>
 
 <details>
-<summary><strong>Former interns and undergraduate students</strong></summary>
+<summary><strong>Former interns and undergraduate students</strong>{: style="display: inline;"}
+</summary>{: style="display: inline;"}
 
 <br>
 
