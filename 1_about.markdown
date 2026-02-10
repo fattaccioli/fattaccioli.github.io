@@ -1,17 +1,33 @@
 ---
-layout: page
-title: About
-description: "Biography of Jacques Fattaccioli, Professor in Chemistry at Sorbonne Université. Specialist in microfluidics, biophysics, and soft matter."
-permalink: /about/
+layout: default
+title: "About | Jacques Fattaccioli"
+description: "Jacques Fattaccioli is an Associate Professor in Chemistry. He is part of the MesoBioLab team at the CPCV Laboratory (ENS, Department of Chemistry, Paris). Research in microfluidics, droplets, soft matter, biophysics and immunology; teaching in Python for science, image analysis, microscopy, and microfluidics."
 ---
 
-I am Jacques Fattaccioli, Associate Professor in Chemistry at Sorbonne Université and ENS - PSL, and member of the Institut Pierre-Gilles de Gennes.
-My teaching covers microfluidics, image analysis, and physical chemistry of soft matter, while my research focuses on how physics and chemistry intersect with biology.
-Beyond academia, I contribute to innovation through Quintessence Biotech, a startup created to address CGT manufacturing costs and efficiency.
+# About
 
-### Affiliations
+I am **Jacques Fattaccioli**, **Associate Professor in Chemistry**. I am part of the **MesoBioLab** team within the [**CPCV Laboratory**](https://cpcv-beta.vercel.app/) at [**École Normale Supérieure](https://www.ens.psl.eu/) (ENS-PSL), [Department of Chemistry](https://www.chimie.ens.fr/) (Paris, France)**. My work sits at the interface of **microfluidics, soft matter, biophysics, and immunology**, with a strong emphasis on **droplet-based microfluidic systems**. We design microfluidic platforms and surface/interface strategies to generate and functionalize droplets, control microscale environments, and build quantitative experiments that connect physico-chemical principles to biologically relevant questions.
 
-Our team belong to the [Pôle Microfluidique](http://www.chimie.ens.fr/?q=umr-8640/microfluidique "Pôle Microfluidique") of the [Chemistry Department](http://www.chimie.ens.fr/?q=accueil_departement "Département de Chimie") of the [ENS](http://www.ens.fr/ "ENS").
+## Research interests
+
+Our research focuses on **microfluidic engineering and droplet technologies** for quantitative bio-physical chemistry, including the controlled manipulation of **droplets, interfaces, particles, and cells**. A key direction is the development of microfluidic approaches for **immunology**, where droplet microcompartments and tailored surface chemistries enable precise control of biochemical conditions and cell–interface interactions for **single-cell and high-throughput assays**.
+
+## Teaching and training
+
+I teach at the **Bachelor and Master level** in chemistry and related disciplines, with a strong emphasis on hands-on quantitative skills:
+
+- **Python programming for science and chemistry**
+- **Image analysis** and quantitative data analysis
+- **Microscopy** (experimental practice and data extraction)
+- **Microfluidics and microfabrication** (Master level in Chemistry)
+
+I am in charge of the **Microfluidics and Miniaturization Master**: https://microfluidics-master.fr/
+
+In addition to university teaching, I develop and deliver **lifelong learning** and professional training programs in **microfluidics**, tailored to R&D teams.
+
+## Contact
+
+If you are interested in research collaborations, student projects, or professional training in microfluidics, feel free to get in touch : **jacques.fattaccioli at ens.psl.eu**
 
 ### Current address  
 Insitut Pierre-Gilles de Gennes  
