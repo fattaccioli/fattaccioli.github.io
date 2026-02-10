@@ -56,15 +56,20 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ### PhD students
 
-- **Alexandre Chargueraud** — PhD student (2022-2026)[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/)
+- **Alexandre Chargueraud** — PhD student (2022-2026)[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/) \
+Research : Immobilization and selection of microalgae using microfluidics
 
 - **Chiara Pompili** — PhD student  (2022-2026)
-  Primary supervisor: F. Niedergang (Institut Cochin) [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)
+  Primary supervisor: F. Niedergang (Institut Cochin) [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)\
+  Research : Phagocytosis by the Macrophage Mannose Receptor: Mechanistic Studies Using Functionalized Lipid Particles
 
-- **Héloïse Uhl** — PhD student (2022-2026) [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)
+- **Héloïse Uhl** — PhD student (2022-2026) [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)\
+Research : Mechanobiology of phagocytosis - Force mapping by image analysis
 
 - **Moein Derakshan** - PhD student (2026-2029)
-Primary supervisor : Feng-Ching Tsai (Institut Curie) 
+Primary supervisor : Feng-Ching Tsai (Institut Curie) [Github](https://github.com/moeinderakhshan)\
+Research : Migrating Droplets Driven by Actin-myosin I Motors
+
 
 ---
 
@@ -114,10 +119,10 @@ Primary supervisor : Feng-Ching Tsai (Institut Curie)
 
 
 <details>
-<summary><strong>Former interns and undergraduate students</strong>{: style="display: inline;"}
+<summary><strong>&#x2B07; Former interns and undergraduate students</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
 
-- Sihzm Guelai (2026) - Intern (M2 in Chemistry, Sorbonne Université)
+- Sihem Guelai (2026) - Intern (M2 in Chemistry, Sorbonne Université)
 - Juliette Mérigot--Lombard (2024) — Intern (M2 Microfluidics)
 - François Lambeaux (2024) — Intern (M2 Microfluidics)
 - Cylia Birba (2024) — L3 Pro, Sorbonne Université
