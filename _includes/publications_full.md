@@ -1,18 +1,26 @@
 
 **In Preparation**
 
-[44] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \ C. Pompili1, H. Uhl, S. Michelis, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang\* \
+
+[45] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \ C. Pompili1, H. Uhl, S. Michelis, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang\* \
  **Methods & Protocols Book – Exocytosis and Endocytosis** (2026)
 
-[43] *Lipid droplet–based passive tracking to probe tissue dynamics in lymph node slices* \
+[44] *Lipid droplet–based passive tracking to probe tissue dynamics in lymph node slices* \
 L. Bruno, H. Uhl, L. Vimeux, M. Karnat, J-F Rupprecht, E. Donnadieu, J. Fattaccioli and P. Pierobon \
 **Methods in Molecular Biology : Real-Time Imaging of Immune Cells** (2026)
+
+
+**2026**
+
+[43] *Spatiotemporal Light Modulation for Optical Sectioning, Diffusion Measurement and Parallelized Experiments with a Dual-DMD Microscope* \
+I. Coghill, F. Pham, M. Mandal, A. Lahlou, Y. Shpinov, J. Fattaccioli, T. Le Saux, L.Jullien*\
+Preprint - **Optica Open** (130871)
 
 **2025**
 
 [42] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \
 S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\* \
-**BioRxiv** (2025) [doi](https://doi.org/10.1101/2025.11.20.685382){:target="_blank"} \
+**BioRxiv** (2025) [doi](https://doi.org/10.1101/2025.11.20.685382){:target="_blank"} 
 
 [41] A. Chargueraud, L. Kool, J. Fattaccioli\*. \
 *Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles* \
