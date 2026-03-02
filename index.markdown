@@ -6,7 +6,6 @@ layout: page #home
 description: "Official website of Jacques Fattaccioli, Professor in Chemistry at Sorbonne Université. Research in microfluidics, soft matter, biophysics, and biotech innovation."
 ---
 
-```markdown
 # Welcome
 
 I am Jacques Fattaccioli, Associate Professor in Chemistry at [École Normale Supérieure](https://www.ens.psl.eu/) (ENS-PSL), part of the MesoBioLab team within the CPCV Laboratory (Paris, France). 
@@ -25,7 +24,6 @@ We also develop **microfluidic platforms for quantitative cell biology**, combin
 A third axis extends microfluidic approaches to **plant and environmental biology**: from the spatio-temporal study of moss development and microalgae phenotyping, to the dynamics of hydrocarbon-degrading bacterial biofilms at oil-water interfaces.
 
 Feel free to contact us for any questions about our [research](/research/), [open positions](/positions/), or potential collaborations.
-```
 
 
 
