@@ -59,10 +59,6 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 - **Alexandre Chargueraud** — PhD student (2022-2026)[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/) \
 Research : Immobilization and selection of microalgae using microfluidics
 
-- **Chiara Pompili** — PhD student  (2022-2026)
-  Primary supervisor: F. Niedergang (Institut Cochin) [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)\
-  Research : Phagocytosis by the Macrophage Mannose Receptor: Mechanistic Studies Using Functionalized Lipid Particles
-
 - **Héloïse Uhl** — PhD student (2022-2026) [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)\
 Research : Mechanobiology of phagocytosis - Force mapping by image analysis
 
@@ -70,6 +66,9 @@ Research : Mechanobiology of phagocytosis - Force mapping by image analysis
 Primary supervisor : Feng-Ching Tsai (Institut Curie) [Github](https://github.com/moeinderakhshan)\
 Research : Migrating Droplets Driven by Actin-myosin I Motors
 
+### Interns
+
+- **Sihem Guelai** (2026) - Intern (M2 in Chemistry, Sorbonne Université)
 
 ---
 
@@ -78,6 +77,10 @@ Research : Migrating Droplets Driven by Actin-myosin I Motors
 <details>
 <summary><strong>&#x2B07; Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
+
+- **Chiara Pompili** — PhD student  (2022-2026)
+  Primary supervisor: F. Niedergang (Institut Cochin) [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)\
+  Research : Phagocytosis by the Macrophage Mannose Receptor: Mechanistic Studies Using Functionalized Lipid Particles
 
 - **Estelle Lu** (2022–2025)  [LinkedIn](https://www.linkedin.com/in/estelle-lu-099264201/)
 
@@ -122,7 +125,6 @@ Research : Migrating Droplets Driven by Actin-myosin I Motors
 <summary><strong>&#x2B07; Former interns and undergraduate students</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
 
-- Sihem Guelai (2026) - Intern (M2 in Chemistry, Sorbonne Université)
 - Juliette Mérigot--Lombard (2024) — Intern (M2 Microfluidics)
 - François Lambeaux (2024) — Intern (M2 Microfluidics)
 - Cylia Birba (2024) — L3 Pro, Sorbonne Université
