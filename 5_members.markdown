@@ -70,6 +70,8 @@ Research : Migrating Droplets Driven by Actin-myosin I Motors
 
 - **Sihem Guelai** (2026) - Intern (M2 in Chemistry, Sorbonne Université)
 
+- **Mame Penda MBODJI** (2026) - Intern (M1 in Chemistry and Biology, Sorbonne Université)
+
 ---
 
 ## Alumni
