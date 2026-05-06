@@ -31,15 +31,6 @@ In case you consider applying to the PhD scholarship, please send me an email wi
 3. Have you used microfluidic devices or a fluorescence microscope in an experimental setting? If so, briefly describe the device or setup, the observable you quantified, and the image processing or data analysis workflow you implemented — including the programming language(s) used.
 4. What is your current use of the following tools, and in what context: generative AI? Git/GitHub or equivalent? What is your level of experience in Python development?
 
-**Funding #2 : We have a funding from CNRS 80|Prime for a PhD student (3 years)** : 
-[Link on ABG](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/137547/job/deciphering-phagosome-resolution-using-versatile-particles)
+**Funding #2 : CIFRE Funding (Michelin) with S. Aime (C3M, ESPCI)**
 
-The Phd supervision will be between F. Niedergang (Institut Cochin), JM Mallet, B. Dumat and me (ENS / IPGG).
-
-In case you consider applying to the PhD scholarship, please send me an email with a cv, a cover letter, the name and contact details of 2 references, and answers to the following questions : 
-
-1. Phagocytosis can be triggered by distinct receptor classes (e.g. FcγR, CR3, TIM-4). Do you expect phagosome resolution to differ depending on which receptor is engaged? Justify your reasoning.
-
-2. Do you have hands-on experience with any of the following: live-cell fluorescence microscopy, lipid-based systems (liposomes, emulsions, supported bilayers), or quantitative image analysis? Describe briefly one concrete experiment or analysis you performed, the system involved, and a specific technical difficulty you encountered.
-
-3. Which aspect of the project represents the steepest learning curve for you, and how would you plan to address it? Be specific.
+[Link on ABG](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/138883/job/proprietes-interfaciales-et-viscoelastiques-du-latex-naturel-de-la-caracterisation-microfluidique-aux-outils-de-mesure-embarques)
