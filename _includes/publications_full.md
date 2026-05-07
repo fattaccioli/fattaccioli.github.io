@@ -4,6 +4,10 @@
 
 **2026**
 
+[46] *Phagocytosis by the Macrophage Mannose Receptor relies on AMPK to control microtubules and actin dynamics* \
+C. Pompili; M. Depierre; S. Debrais; H. MC von Giesen; H. Uhl; V. Mignon; B. Saubamea; M. Foretz; B. Viollet; B. Dumat; J.-M. Mallet; J. Fattaccioli; F. Niedergang \
+**Under review**
+
 [45] *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*. \ C. Pompili1, H. Uhl, S. Michelis, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang\* \
  **Methods & Protocols Book – Exocytosis and Endocytosis** (2026, In Press)
 
