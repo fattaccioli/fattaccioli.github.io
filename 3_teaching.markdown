@@ -42,9 +42,11 @@ Teaching is provided by faculty from ENS, Sorbonne Université, and partner inst
  
 ## Online courses and professional training
  
-In addition to university teaching, I offer online training in microfluidics for researchers, R&D engineers, and technical staff looking to build or consolidate expertise in the field.
+In addition to university teaching, I offer **in person** and **online** training in microfluidics for researchers, R&D engineers, and technical staff looking to build or consolidate expertise in the field.
  
-Sessions are delivered in small groups via video conferencing, allowing for direct interaction, targeted Q&A, and adaptation to participants' backgrounds and objectives. Training can be organised as standalone workshops or multi-session programs.
+Sessions are delivered in small groups via video conferencing or in person, allowing for direct interaction, targeted Q&A, and adaptation to participants' backgrounds and objectives. 
+
+Training can be organised as standalone workshops or multi-session programs.
  
 **Who is this for?** R&D engineers, PhD students, postdoctoral researchers, and technical staff in chemistry, physics, biology, or engineering — whether entering the field or looking to extend their practical knowledge of microfluidic systems.
  
