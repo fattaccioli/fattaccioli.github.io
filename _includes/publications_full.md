@@ -36,61 +36,61 @@ influence of target size on phagocytic uptake*
 
 **2026**
 
-[43] C. Pompili, M. Depierre, S. Debrais, H. MC von Giesen, H. Uhl, V. Mignon, B. Saubamea, M. Foretz, B. Viollet, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang.  
+[40] C. Pompili, M. Depierre, S. Debrais, H. MC von Giesen, H. Uhl, V. Mignon, B. Saubamea, M. Foretz, B. Viollet, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang.  
 *Phagocytosis by the Macrophage Mannose Receptor relies on AMPK to control microtubules and actin dynamics*  
 **Under review**
 
-[42] I. Coghill, F. Pham, M. Mandal, A. Lahlou, Y. Shpinov, J. Fattaccioli, T. Le Saux, L. Jullien.  
+[39] I. Coghill, F. Pham, M. Mandal, A. Lahlou, Y. Shpinov, J. Fattaccioli, T. Le Saux, L. Jullien.  
 *Spatiotemporal Light Modulation for Optical Sectioning, Diffusion Measurement and Parallelized Experiments with a Dual-DMD Microscope*  
 Preprint — **Optica Open** (130871)
 
 **2025**
 
-[41] S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\*.  
+[38] S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\*.  
 *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*  
 **BioRxiv** (2025) [[doi](https://doi.org/10.1101/2025.11.20.685382)]
 
-[40] A. Chargueraud, L. Kool, J. Fattaccioli\*.  
+[37] A. Chargueraud, L. Kool, J. Fattaccioli\*.  
 *Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles*  
 **Micro and Nano Engineering**, In Press (2025) [[doi](https://doi.org/10.1016/j.mne.2025.100332)]
 
-[39] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo.  
+[36] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo.  
 *A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains*  
 **Small Science** (2025) [[doi](https://doi.org/10.1002/smsc.202500210)]
 
-[38] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger.  
+[35] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger.  
 *The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions*  
 **Plant Direct**, In Press (2025) [[doi](http://dx.doi.org/10.1002/pld3.70090)]
 
-[37] E. Lu, W. Flores Cisternas, H. Uhl, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli\*.  
+[34] E. Lu, W. Flores Cisternas, H. Uhl, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli\*.  
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid*  
 **Micro and Nano Engineering**, 100298 (2025) [[doi](https://doi.org/10.1016/j.mne.2025.100298)]
 
-[36] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli.  
+[33] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli.  
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  
 **Computers & Fluids**, 106643 (2025) [[doi](https://doi.org/10.1016/j.compfluid.2025.106643)]
 
 **2024**
 
-[35] C. Hu, E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli.  
+[32] C. Hu, E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli.  
 *Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils*  
 **ChemRxiv** (2024) [[doi](https://doi.org/10.26434/chemrxiv-2024-3c42z)]
 
-[34] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\*.  
+[31] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\*.  
 *Functionalization of microbubbles in a microfluidic chip for biosensing applications*  
 **Biomedical Microdevices** 26, 39 (2024) [[doi](https://doi.org/10.1007/s10544-024-00721-2)]
 
-[33] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo, Y. Zarrouk, J. Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu.  
+[30] B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo, Y. Zarrouk, J. Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu.  
 *IpaA reveals distinct modes of vinculin activation during Shigella invasion and cell-matrix adhesion*  
 **Life Science Alliance** 7 (8) e202302418 (2024) [[doi](https://doi.org/10.26508/lsa.202302418/)]
 
-[32] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.  
+[29] S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet.  
 *FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids*  
 **ACS Applied Bio Materials** (2024) [[doi](https://pubs.acs.org/doi/10.1021/acsami.3c15067)]
 
 **2023**
 
-[31] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht\*, J. Fattaccioli\*, A. S. Utada\*.  
+[28] M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht\*, J. Fattaccioli\*, A. S. Utada\*.  
 *Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation*  
 **Science** 381, 748–753 (2023) [[doi](https://doi.org/10.1126/science.adf3345)]  
 **Perspective**: *Bacteria stretch and bend oil to feed their appetite*, T. McGenity and P.-P. Laissue [[url](https://www.science.org/doi/full/10.1126/science.adj4430)]  
@@ -98,135 +98,135 @@ Preprint — **Optica Open** (130871)
 
 **2022**
 
-[30] L. Pinon, N. Ruyssen, J. Pineau, O. Mesdjian, D. Cuvelier, R. Allena, S. Asnacios, A. Asnacios, P. Pierobon\*, J. Fattaccioli\*.  
+[27] L. Pinon, N. Ruyssen, J. Pineau, O. Mesdjian, D. Cuvelier, R. Allena, S. Asnacios, A. Asnacios, P. Pierobon\*, J. Fattaccioli\*.  
 *Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet–Cell Pairing Microfluidic Platform*  
 **Cell Reports Methods** (2022) [[doi](https://doi.org/10.1016/j.crmeth.2022.100335)]
 
-[29] J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon\*.  
+[26] J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon\*.  
 *Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes*  
 **eLife** (2022) [[doi](https://elifesciences.org/articles/78330)]
 
 **2021**
 
-[28] O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli\*.  
+[25] O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli\*.  
 *Enhancing the capture efficiency and homogeneity of single-layer flow-through trapping microfluidic devices using oblique hydrodynamic streams*  
 **Microfluidics and Nanofluidics** 25, 91 (2021) [[doi](https://doi.org/10.1007/s10404-021-02492-1)]  
 ‡: equal contribution
 
 **2019**
 
-[27] B. Dumat‡, L. Montel‡, P. Matton, L. Pinon, L. Cattiaux, J. Fattaccioli\*, J.M. Mallet\*.  
+[24] B. Dumat‡, L. Montel‡, P. Matton, L. Pinon, L. Cattiaux, J. Fattaccioli\*, J.M. Mallet\*.  
 *Mannose-coated fluorescent emulsion droplets: specific biosensors for Mannose Receptor-induced phagocytosis*  
 **ACS Applied Bio Materials** 2, 11, 5118–5126 (2019) [[doi](https://doi.org/10.1021/acsabm.9b00793)]  
 ‡: equal contribution
 
-[26] K. Sakai, F. Charlot, T. Le Saux, S. Bonhomme, F. Nogué, J.C. Palauqui\*, J. Fattaccioli\*.  
+[23] K. Sakai, F. Charlot, T. Le Saux, S. Bonhomme, F. Nogué, J.C. Palauqui\*, J. Fattaccioli\*.  
 *Design of a microfluidic and microscopic toolbox for the ultra-wide spatio-temporal study of plant protoplast development and physiology*  
 **Plant Methods** 15, 19 (2019) [[doi](https://doi.org/10.1186/s13007-019-0459-z)]  
 Highlighted in **La Recherche** (Nov. 2019) [[url](https://www.larecherche.fr/la-microfluidique-sint%C3%A9resse-aux-plantes)]
 
-[25] L. Montel, L. Pinon, J. Fattaccioli\*.  
+[22] L. Montel, L. Pinon, J. Fattaccioli\*.  
 *A multiparametric, quantitative and high-throughput assay to determine the influence of target size on phagocytic uptake*  
 **Biophysical Journal** 117 (3), 408–419 (2019) [[doi](https://doi.org/10.1016/j.bpj.2019.06.021)]
 
-[24] C. Vié, J. Fattaccioli\*, P. Jacq\*.  
+[21] C. Vié, J. Fattaccioli\*, P. Jacq\*.  
 *Introducing digital microfluidics concepts in chemistry using a macroscopic droplet generator*  
 **Journal of Chemical Education** 96 (4), 797–800 (2019) [[doi](http://dx.doi.org/10.1021/acs.jchemed.8b00876)]
 
-[23] M. Prasad, N. Obana, K. Sakai, Y. Nakayama, S. Miyazaki, M. Toyofuku, J. Fattaccioli, N. Nomura, A.S. Utada\*.  
+[20] M. Prasad, N. Obana, K. Sakai, Y. Nakayama, S. Miyazaki, M. Toyofuku, J. Fattaccioli, N. Nomura, A.S. Utada\*.  
 *Point mutations lead to increased levels of c-di-GMP and phenotypic changes to colony biofilm morphology in Alcanivorax borkumensis SK2*  
 **Microbes and Environments** 34 (1), 104–107 (2019) [[doi](https://doi.org/10.1264/jsme2.ME18151)]
 
 **2018**
 
-[22] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli\*.  
+[19] L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli\*.  
 *Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets*  
 **Langmuir** 34 (50), 15319–15326 (2018) [[doi](http://dx.doi.org/10.1021/acs.langmuir.8b02721)]
 
-[21] F.M. Allioux\*, P. Kapruwan, N. Milne, L. Kong, J. Fattaccioli, Y. Chen, L.F. Dumée\*.  
+[18] F.M. Allioux\*, P. Kapruwan, N. Milne, L. Kong, J. Fattaccioli, Y. Chen, L.F. Dumée\*.  
 *Electro-capture of heavy metal ions with carbon cloth integrated microfluidic devices*  
 **Separation and Purification Technology** 194, 26–32 (2018) [[doi](https://doi.org/10.1016/j.seppur.2017.10.064)]
 
 **2016**
 
-[20] S. Quignard\*, G. Frébourg, Y. Chen, J. Fattaccioli\*.  
+[17] S. Quignard\*, G. Frébourg, Y. Chen, J. Fattaccioli\*.  
 *Nanometric emulsions encapsulating solid particles as alternative carriers for intracellular delivery*  
 **Nanomedicine** 11 (16), 2059–2072 (2016) [[pdf](https://fattacciolilab.files.wordpress.com/2016/08/2016-nanometricemulsions.pdf)]
 
-[19] D. Molino, S. Quignard, C. Gruget, F. Pincet, Y. Chen, M. Piel, J. Fattaccioli\*.  
+[16] D. Molino, S. Quignard, C. Gruget, F. Pincet, Y. Chen, M. Piel, J. Fattaccioli\*.  
 *On-chip quantitative measurement of mechanical stresses during cell migration with emulsion droplets*  
 **Scientific Reports** 6, 29113 (2016) [[doi](http://dx.doi.org/10.1038/srep29113)]
 
-[18] O. Mesdjian, Y. Chen, J. Fattaccioli\*.  
+[15] O. Mesdjian, Y. Chen, J. Fattaccioli\*.  
 *Luminescent and absorptive metal-coated emulsions for micro-velocimetry*  
 **Microelectronic Engineering** 158, 69–74 (2016) [[doi](http://dx.doi.org/10.1016/j.mee.2016.03.028)]
 
 **2015**
 
-[17] K. Ben M'Barek, D. Molino, S. Quignard, Y. Chen, P. Chavrier, J. Fattaccioli\*.  
+[14] K. Ben M'Barek, D. Molino, S. Quignard, Y. Chen, P. Chavrier, J. Fattaccioli\*.  
 *Phagocytosis of immunoglobulin-coated emulsion droplets*  
 **Biomaterials** 51, 270–277 (2015) [[doi](http://dx.doi.org/10.1016/j.biomaterials.2015.02.030)]
 
 **2014**
 
-[16] S. Quignard, Y. Chen, M. d'Ischia, J. Fattaccioli\*.  
+[13] S. Quignard, Y. Chen, M. d'Ischia, J. Fattaccioli\*.  
 *UV-induced fluorescence of polydopamine-coated emulsion droplets*  
 **ChemPlusChem** 79 (9), 1254–1257 (2014) [[doi](http://dx.doi.org/10.1002/cplu.201402157)]  
 Highlighted in Wiley-VCH Hot Topics – Surfaces and Interfaces
 
-[15] G.M. Nocera, K. Ben M'Barek, D.G. Bazzoli, G. Fraux, M. Bontems-Van Heijenoort, J. Chokki, S. Georgeault, Y. Chen, J. Fattaccioli\*.  
+[12] G.M. Nocera, K. Ben M'Barek, D.G. Bazzoli, G. Fraux, M. Bontems-Van Heijenoort, J. Chokki, S. Georgeault, Y. Chen, J. Fattaccioli\*.  
 *Fluorescent microparticles fabrication through chemical coating of O/W emulsion droplets with a thin metallic film*  
 **RSC Advances** 4 (23), 11564–11568 (2014) [[doi](http://dx.doi.org/10.1039/C3RA47063F)]
 
-[14] C. Longuet, A. Yamada, Y. Chen, D. Baigl, J. Fattaccioli\*.  
+[11] C. Longuet, A. Yamada, Y. Chen, D. Baigl, J. Fattaccioli\*.  
 *Spatially-controlled crystallization in microfluidics chambers*  
 **Journal of Crystal Growth** 386, 179–182 (2014) [[doi](http://dx.doi.org/10.1016/j.jcrysgro.2013.10.011)]
 
 **2012**
 
-[13] J.H. Park, J. Fattaccioli, H. Fujita, B.J. Kim.  
+[10] J.H. Park, J. Fattaccioli, H. Fujita, B.J. Kim.  
 *Fabrication of aluminum/alumina patterns using localized anodization of aluminum*  
 **International Journal of Precision Engineering and Manufacturing** 13 (5), 765–770 (2012) [[doi](http://dx.doi.org/10.1007/s12541-012-0100-9)]
 
 **2009**
 
-[12] C. Bottier, J. Fattaccioli, M.C. Tahran, R. Yokokawa, F.O. Morin, D. Collard, H. Fujita.  
+[9] C. Bottier, J. Fattaccioli, M.C. Tahran, R. Yokokawa, F.O. Morin, D. Collard, H. Fujita.  
 *Active transport of oil droplets along oriented microtubules by kinesin molecular motors*  
 **Lab on a Chip** 9, 1694–1700 (2009) [[doi](http://dx.doi.org/10.1039/b822519b)]
 
-[11] J.H. Park, J. Fattaccioli, N. Takama, H. Fujita, B.J. Kim.  
+[8] J.H. Park, J. Fattaccioli, N. Takama, H. Fujita, B.J. Kim.  
 *Localized anodization of aluminum for the formation of high aspect ratio aluminum/alumina patterns*  
 **ASPEN'2009** — Asian Society for Precision Engineering and Nanotechnology Conference [[pdf](https://fattacciolilab.files.wordpress.com/2008/11/69_aspen_2p6-5p.pdf)]
 
-[10] J. Fattaccioli, A. Ikeda, J.G. Kim, N. Takama, B.J. Kim.  
+[7] J. Fattaccioli, A. Ikeda, J.G. Kim, N. Takama, B.J. Kim.  
 *Visual observation of a PDMS tip in liquid microcontact printing*  
 **IEEE MEMS'2009** Conference Proceedings, pp. 681–684 [[doi](http://dx.doi.org/10.1109/MEMSYS.2009.4805474)]
 
-[9] S. Akiyama, Y.T. Cheng, J. Fattaccioli, N. Takama, P. Löw, C. Bergaud, B.J. Kim.  
+[6] S. Akiyama, Y.T. Cheng, J. Fattaccioli, N. Takama, P. Löw, C. Bergaud, B.J. Kim.  
 *Surface-temperature control of silicon nanowires in dry and liquid conditions*  
 **IEEE MEMS'2009** Conference Proceedings, pp. 567–570 [[doi](http://dx.doi.org/10.1109/MEMSYS.2009.4805445)]
 
 **2008**
 
-[8] J. Fattaccioli\*, J. Baudry, E. Bertrand, C. Goubault, N. Henry, J. Bibette.  
+[5] J. Fattaccioli\*, J. Baudry, E. Bertrand, C. Goubault, N. Henry, J. Bibette.  
 *Size and fluorescence measurements of individual droplets by flow cytometry*  
 **Soft Matter** 5, 2232–2238 (2008) [[doi](http://dx.doi.org/10.1039/b814954b)]
 
-[7] J. Fattaccioli\*, J. Baudry, F. Brochard-Wyart, N. Henry, J. Bibette.  
+[4] J. Fattaccioli\*, J. Baudry, F. Brochard-Wyart, N. Henry, J. Bibette.  
 *Specific wetting probed with biomimetic droplets*  
 **Soft Matter** 4, 2434–2440 (2008) [[doi](http://dx.doi.org/10.1039/b806635c)]
 
-[6] Y.T. Cheng, J. Fattaccioli, S. Akiyama, N. Takama, Y. Akagi, S.J. Cho, B.J. Kim.  
+[3] Y.T. Cheng, J. Fattaccioli, S. Akiyama, N. Takama, Y. Akagi, S.J. Cho, B.J. Kim.  
 *Surface-temperature mapping on suspended silicon nanowire using fluorescent thermometry under dry and liquid conditions*  
 **MNE 2008** — Micro and Nano Engineering Conference [[pdf](https://fattacciolilab.files.wordpress.com/2008/11/2008mne_abstractcheng3fin.pdf)]
 
-[5] C. Bottier, M.C. Tahran, J. Fattaccioli, F.O. Morin, B.J. Kim, H. Fujita.  
+[2] C. Bottier, M.C. Tahran, J. Fattaccioli, F.O. Morin, B.J. Kim, H. Fujita.  
 *Direct transportation and electrofusion of oil droplets in a microfluidic device*  
 **IEEE MEMS'2008** Conference Proceedings, pp. 563–566 [[doi](http://dx.doi.org/10.1109/MEMSYS.2008.4443718)]
 
 **2005**
 
-[4] S.K. Mandal, N. Lequeux, B. Rotenberg, M. Tramier, J. Fattaccioli, J. Bibette, B. Dubertret.  
+[1] S.K. Mandal, N. Lequeux, B. Rotenberg, M. Tramier, J. Fattaccioli, J. Bibette, B. Dubertret.  
 *Encapsulation of magnetic and fluorescent nanoparticles in emulsion droplets*  
 **Langmuir** 21, 4175–4179 (2005) [[doi](http://dx.doi.org/10.1021/la047025m)]
 
