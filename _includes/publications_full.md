@@ -44,11 +44,11 @@ influence of target size on phagocytic uptake*
 *Spatiotemporal Light Modulation for Optical Sectioning, Diffusion Measurement and Parallelized Experiments with a Dual-DMD Microscope*  
 Preprint — **Optica Open** (130871)
 
-**2025**
-
 [38] S. Michelis, H. Uhl, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\*.  
 *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*  
 **BioRxiv** (2025) [[doi](https://doi.org/10.1101/2025.11.20.685382)]
+
+**2025**
 
 [37] A. Chargueraud, L. Kool, J. Fattaccioli\*.  
 *Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles*  
