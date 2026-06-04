@@ -5,38 +5,6 @@ description: "Scientific publications and research software developed by Jacques
 permalink: /publications/
 ---
 
-This page presents the main **research outputs** of the group, including
-peer-reviewed [**scientific publications**](#publications) and [**research software**](#research-software-and-open-tools) developed
-in close connection with our experimental and methodological work.
-Together, these outputs reflect our commitment to **quantitative science,
-reproducibility, and open research practices** in microfluidics, droplets,
-and immunology.
-
-
----
-
-## Featured publications
-
-A short selection of publications representative of our core research directions
-in **microfluidics, droplet-based systems, biophysics and immunology**:
-
-- *Alcanivorax borkumensis biofilms enhance oil degradation by interfacial tubulation*  
-  **Science** (2023)
-
-- *Phenotyping polarization dynamics of immune cells using a lipid droplet–cell
-  pairing microfluidic platform*  
-  **Cell Reports Methods** (2022)
-
-- *A multiparametric, quantitative and high-throughput assay to determine the
-  influence of target size on phagocytic uptake*  
-  **Biophysical Journal** (2019)
-
-- *Design of a microfluidic and microscopic toolbox for the ultra-wide spatio-temporal study of plant protoplast development and physiology.*  
-**Plant Methods** (2019)
-
-(See full publication list below.)
-
----
 
 ## Publications
 
