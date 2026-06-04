@@ -1,13 +1,3 @@
-# Publications and Software
-
-This page presents the main **research outputs** of the group, including
-peer-reviewed [**scientific publications**](#publications), [**patents**](#patents) and [**research software**](#research-software-and-open-tools) developed
-in close connection with our experimental and methodological work.
-Together, these outputs reflect our commitment to **quantitative science,
-reproducibility, and open research practices** in microfluidics, droplets,
-and immunology.
-
----
 
 ## Featured publications
 
