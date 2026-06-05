@@ -35,10 +35,10 @@ influence of target size on phagocytic uptake*
 Preprint — **Optica Open** (130871)
 
 [38] S. Michelis‡, H. Uhl‡, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\*.  
-*Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH*  
-**Chemistry - A European Journal** (Accepted for publication, 2026)\  
-**BioRxiv** (2025) [[doi](https://doi.org/10.1101/2025.11.20.685382)]
-‡: equal contribution
+*Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH* \
+‡: equal contribution \
+**Chemistry - A European Journal**, 2026; 0:e71237 [[doi](https://doi.org/10.1002/chem.71237)] 
+
 
 **2025**
 
