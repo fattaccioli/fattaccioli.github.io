@@ -22,6 +22,11 @@ influence of target size on phagocytic uptake*
 
 ---
 
+## In preparation
+
+H. Uhl, J. Fattaccioli
+*More Than a Drop: Programming the Emulsion Interface to Build, Mimic, and Sense*
+
 ## Articles and Proceedings
 
 **2026**
