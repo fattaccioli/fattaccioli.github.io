@@ -54,13 +54,15 @@ Group leader, **MesoBioLab** (CPCV Laboratory, ENS-PSL)
 
 ## Current members
 
+### Postdocs
+
+- **Héloïse Uhl** — Post-doctoral researcher (Sep - Dec. 2026) [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)\
+Research : Mechanobiology of phagocytosis - Force mapping by image analysis
+
 ### PhD students
 
 - **Alexandre Chargueraud** — PhD student (2022-2026)[LinkedIn](https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/) \
 Research : Immobilization and selection of microalgae using microfluidics
-
-- **Héloïse Uhl** — PhD student (2022-2026) [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)\
-Research : Mechanobiology of phagocytosis - Force mapping by image analysis
 
 - **Moein Derakshan** - PhD student (2026-2029)
 Primary supervisor : Feng-Ching Tsai (Institut Curie) [Github](https://github.com/moeinderakhshan)\
@@ -79,6 +81,9 @@ Research : Migrating Droplets Driven by Actin-myosin I Motors
 <details>
 <summary><strong>&#x2B07; Former PhD students, postdoctoral researchers, and engineers</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
+
+- **Héloïse Uhl** — PhD student (2022-2026) [LinkedIn](https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/)\
+Research : Mechanobiology of phagocytosis - Force mapping by image analysis
 
 - **Chiara Pompili** — PhD student  (2022-2026)
   Primary supervisor: F. Niedergang (Institut Cochin) [LinkedIn](https://www.linkedin.com/in/chiara-pompili-855320230/)\
@@ -126,34 +131,38 @@ Research : Migrating Droplets Driven by Actin-myosin I Motors
 <details>
 <summary><strong>&#x2B07; Former interns and undergraduate students</strong>{: style="display: inline;"}
 </summary>{: style="display: inline;"}
-
-- Juliette Mérigot--Lombard (2024) — Intern (M2 Microfluidics)
-- François Lambeaux (2024) — Intern (M2 Microfluidics)
-- Cylia Birba (2024) — L3 Pro, Sorbonne Université
-- Charlie Brunet (2023) — Intern (L3 Pro Formulation, Sorbonne Université)
-- Lina Ben Salem (2022) — Intern (L3 Pro Formulation, Sorbonne Université)
-- Romane Vinot (2021) — Intern (M2 Microfluidics)
-- Walid Bezaouch (2021) — L3 Pro, Sorbonne Université
-- Sarah Duclos-Iivetich (2020) — M1 Intern, PSL SGM Master
-- Romane Vinot (2020) — L3 Intern, ENS Paris-Saclay
+- [Capucine Zimmer](https://www.linkedin.com/in/capucine-zimmer) (2026) - Intern (ESPCI, 1st year)
+- [Lamia Taheraly](https://www.linkedin.com/in/lamia-taheraly-8b4a14277/) (2026) - Intern (ENSMAC Bordeaux, 3 months)
+- [Mame-Penda Mbodji](https://www.linkedin.com/in/mame-penda-mbodji-833204345/) (2026) - Intern (M1 Chemistry and Biology, Sorbonne Université)
+- [Lina Bergounioux](https://www.linkedin.com/in/lina-bergounioux-76a579381/) (2026) - Intern (Chimie Paris, 1A)
+- [Elise Cao](https://www.linkedin.com/in/elise-cao/) (2025) - Intern (ESPCI, 1s year)
+- [Juliette Mérigot--Lombard](https://www.linkedin.com/in/juliette-merigotlombard) (2024) — Intern (M2 Microfluidics)
+- [François Lambeaux](https://www.laas.fr/fr/annuaire/1926) (2024) — Intern (M2 Microfluidics)
+- [Cylia Birba](https://www.linkedin.com/in/cylia-birba-572533187) (2024) — L3 Pro, Sorbonne Université
+- [Charlie Brunet](https://www.linkedin.com/in/charlie-brunet-6bb799220/) (2023) — Intern (L3 Pro Formulation, Sorbonne Université)
+- [Lina Ben Salem](https://www.linkedin.com/in/lben-salem) (2022) — Intern (L3 Pro Formulation, Sorbonne Université)
+- [Romane Vinot](https://www.linkedin.com/in/romane-vinot-391bb9223) (2021) — Intern (M2 Microfluidics)
+- [Walid Bezaouch](https://www.linkedin.com/in/walid-bezaouch-b4a794180) (2021) — L3 Pro, Sorbonne Université
+- [Sarah Duclos-Iivetich](https://www.linkedin.com/in/sarah-duclos-ivetich-bb4ba2151/) (2020) — M1 Intern, PSL SGM Master
+- [Romane Vinot](https://www.linkedin.com/in/romane-vinot-391bb9223) (2020) — L3 Intern, ENS Paris-Saclay
 - Nawel Sebih (2020) — L3 Pro Formulation, Sorbonne Université
-- Flore Caré (2020) — Intern/Engineer (M2 Microfluidics, PSL SGM)
-- Lucie Lacour (2019) — Intern (M1 Chemistry, Sorbonne Université)
-- Léa Boudinet (2015) — Undergrad (ENS)
+- [Flore Caré](https://www.linkedin.com/in/flore-car%C3%A9-665505191) (2020) — Intern/Engineer (M2 Microfluidics, PSL SGM)
+- [Lucie Lacour](https://www.linkedin.com/in/lucie-lacour-08a02412b/) (2019) — Intern (M1 Chemistry, Sorbonne Université)
+- [Léa Boudinet](https://www.linkedin.com/in/leaboudinet) (2015) — Undergrad (ENS)
 - Margot Hily (2015) — Undergrad (U. Paris Sud)
-- Marius Hervé (2014) — Undergrad (ENS)
-- Gianmarco Nocera (2013) — Undergrad (UPMC)
-- Dario Bazzoli (2013) — Undergrad (U. Milano)
-- Guillaume Fraux (2013) — Undergrad (ENS)
-- Amélie Nicolay (2013) — Undergrad (ENS)
-- Charlotte Quintana (2012) — Undergrad (UPMC)
-- Morgane Bontems-Van Heijenoort (2012) — Undergrad (UPMC)
-- Manon Quentrec (2012) — Undergrad (UPMC)
-- Marie Labeye (2011) — Undergrad (ENS)
-- Pauline Junquet (2011) — Undergrad (ENS)
-- Jeannette Chokki (2011) — Undergrad (UPMC)
-- Quentin Senez (2011) — Undergrad (UPMC)
-- Clothilde Longuet (2010) — MSc (UPMC)
+- [Marius Hervé](https://scholar.google.com/citations?user=7qVZ5PYAAAAJ) (2014) — Undergrad (ENS)
+- [Gianmarco Nocera](https://www.linkedin.com/in/gianmarconocera/) (2013) — Undergrad (UPMC)
+- [Dario Bazzoli](https://www.linkedin.com/in/dario-bazzoli-80ba9b89) (2013) — Undergrad (U. Milano)
+- [Guillaume Fraux](https://www.linkedin.com/in/guillaume-fraux-bb68831b9) (2013) — Undergrad (ENS)
+- [Amélie Nicolay](https://www.linkedin.com/in/amnicolay/) (2013) — Undergrad (ENS)
+- [Charlotte Quintana](https://www.linkedin.com/in/charlottequintana/) (2012) — Undergrad (UPMC)
+- [Morgane Bontems-Van Heijenoort](https://www.linkedin.com/in/morgane-bontems-3bab9a104/) (2012) — Undergrad (UPMC)
+- [Manon Quentrec](https://www.linkedin.com/in/manon-quentrec-6a801ba3/) (2012) — Undergrad (UPMC)
+- [Marie Labeye](https://cpcv.chimie.ens.fr/people/labeye-marie) (2011) — Undergrad (ENS)
+- [Pauline Junquet](https://www.linkedin.com/in/pauline-junquet-1369a1187/) (2011) — Undergrad (ENS)
+- [Jeannette Chokki](https://www.linkedin.com/in/jeannette-chokki-b1b8a321) (2011) — Undergrad (UPMC)
+- [Quentin Senez](https://www.linkedin.com/in/quentin-senez-78263b189/) (2011) — Undergrad (UPMC)
+- [Clothilde Longuet](https://www.linkedin.com/in/clothilde-longuet-9998101b/) (2010) — MSc (UPMC)
 
 </details>
 
