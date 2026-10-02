@@ -22,24 +22,33 @@ influence of target size on phagocytic uptake*
 
 ---
 
-## In preparation
 
-H. Uhl, J. Fattaccioli
+## Preprints and/or under review
+
+[1] H. Uhl, J. Fattaccioli
 *More Than a Drop: Programming the Emulsion Interface to Build, Mimic, and Sense*
+**Current Opinion in Colloid & Interface Science** (Invited submission)
+Under review
+
+[2] C. Pompili, M. Depierre, S. Debrais, H. MC von Giesen, H. Uhl, V. Mignon, B. Saubamea, M. Foretz, B. Viollet, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang.  
+*Phagocytosis by the Macrophage Mannose Receptor relies on AMPK to control microtubules and actin dynamics*  
+**Journal of Cell Science**
+Under review
+
+[3] I. Coghill, F. Pham, M. Mandal, A. Lahlou, Y. Shpinov, J. Fattaccioli, T. Le Saux, L. Jullien.  
+*Spatiotemporal Light Modulation for Optical Sectioning, Diffusion Measurement and Parallelized Experiments with a Dual-DMD Microscope*  
+**Optica Open** [[doi](https://doi.org/10.1364/opticaopen.31398633)]
+Preprint
+
+[4] C. Hu, E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli.  
+*Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils*  
+**ChemRxiv** (2024) [[doi](https://doi.org/10.26434/chemrxiv-2024-3c42z)]
 
 ## Articles and Proceedings
 
 **2026**
 
-[40] C. Pompili, M. Depierre, S. Debrais, H. MC von Giesen, H. Uhl, V. Mignon, B. Saubamea, M. Foretz, B. Viollet, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang.  
-*Phagocytosis by the Macrophage Mannose Receptor relies on AMPK to control microtubules and actin dynamics*  
-**Under review**
-
-[39] I. Coghill, F. Pham, M. Mandal, A. Lahlou, Y. Shpinov, J. Fattaccioli, T. Le Saux, L. Jullien.  
-*Spatiotemporal Light Modulation for Optical Sectioning, Diffusion Measurement and Parallelized Experiments with a Dual-DMD Microscope*  
-Preprint — **Optica Open** (130871)
-
-[38] S. Michelis‡, H. Uhl‡, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\*.  
+[37] S. Michelis‡, H. Uhl‡, F. Niedergang, J. Fattaccioli, B. Dumat\*, J.-M. Mallet\*.  
 *Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH* \
 ‡: equal contribution \
 **Chemistry - A European Journal**, 2026; 0:e71237 [[doi](https://doi.org/10.1002/chem.71237)] 
@@ -47,31 +56,27 @@ Preprint — **Optica Open** (130871)
 
 **2025**
 
-[37] A. Chargueraud, L. Kool, J. Fattaccioli\*.  
+[36] A. Chargueraud, L. Kool, J. Fattaccioli\*.  
 *Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles*  
 **Micro and Nano Engineering**, In Press (2025) [[doi](https://doi.org/10.1016/j.mne.2025.100332)]
 
-[36] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo.  
+[35] L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo.  
 *A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains*  
 **Small Science** (2025) [[doi](https://doi.org/10.1002/smsc.202500210)]
 
-[35] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger.  
+[34] L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger.  
 *The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions*  
 **Plant Direct**, In Press (2025) [[doi](http://dx.doi.org/10.1002/pld3.70090)]
 
-[34] E. Lu, W. Flores Cisternas, H. Uhl, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli\*.  
+[33] E. Lu, W. Flores Cisternas, H. Uhl, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli\*.  
 *Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid*  
 **Micro and Nano Engineering**, 100298 (2025) [[doi](https://doi.org/10.1016/j.mne.2025.100298)]
 
-[33] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli.  
+[32] N. Ruyssen\*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli.  
 *Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays*  
 **Computers & Fluids**, 106643 (2025) [[doi](https://doi.org/10.1016/j.compfluid.2025.106643)]
 
 **2024**
-
-[32] C. Hu, E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli.  
-*Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils*  
-**ChemRxiv** (2024) [[doi](https://doi.org/10.26434/chemrxiv-2024-3c42z)]
 
 [31] M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet\*.  
 *Functionalization of microbubbles in a microfluidic chip for biosensing applications*  
