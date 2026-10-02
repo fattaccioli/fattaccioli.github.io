@@ -25,7 +25,7 @@ influence of target size on phagocytic uptake*
 
 ## Preprints and/or under review
 
-[1] H. Uhl, J. Fattaccioli
+[1] H. Uhl, J. Fattaccioli.
 *More Than a Drop: Programming the Emulsion Interface to Build, Mimic, and Sense*
 **Current Opinion in Colloid & Interface Science** (Invited submission)
 Under review
