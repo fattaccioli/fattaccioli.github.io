@@ -1,0 +1,108 @@
+# =====================================================================
+#  RESEARCH AXES AND TOPICS — rendered on the homepage and /research/
+# =====================================================================
+#  Each axis groups several topics. Each topic has:
+#    id       short key; publications tagged with it in publications.yml
+#             are listed automatically under "Related publications"
+#    title, image (path in /assets/images/), text (Markdown allowed)
+#    collaborators, funding (list of {name, url, role}) — optional
+# =====================================================================
+
+- id: droplets
+  title: Functional droplets and particles as biological tools
+  short: >-
+    Lipid droplets engineered as artificial antigen-presenting cells, degradable
+    microcapsules and surface-functionalised microparticles, used to probe immune
+    cell mechanics, phagocytosis and receptor–ligand interactions with controlled
+    interface chemistry.
+  topics:
+    - id: aapc
+      title: Functional lipid droplets as artificial antigen-presenting cells
+      image: /assets/images/macrophage.jpg
+      text: >-
+        Functional emulsion droplets with a fluid, deformable and chemically
+        controlled interface act as artificial antigen-presenting cells. They
+        enable force mapping during macrophage phagocytosis, quantitative
+        readouts of phagosomal maturation, and studies of B-cell activation by
+        reproducing the interactions that occur during cell encounter and uptake.
+      funding:
+        - name: ANR Phagochemiforce
+          url: https://anr.fr/Project-ANR-20-CE13-0017
+          role: with F. Niedergang (Institut Cochin, coordinator), J.-M. Mallet and B. Dumat (CPCV, ENS)
+        - name: ANR Imperis
+          url: https://anr.fr/Project-ANR-21-CE30-0062
+          role: with P. Pierobon (Institut Cochin, coordinator) and J.-F. Rupprecht (Centuri, Marseille)
+
+    - id: capsules
+      title: Degradable microcapsules from modified vegetable oils
+      image: /assets/images/AESO.png
+      text: >-
+        We design functional, degradable microparticles and microcapsules from
+        bio-sourced acrylated epoxidised soybean oil, using microfluidic
+        (double) emulsification followed by photo-crosslinking, and study their
+        shaping, degradation and drug-release properties.
+
+    - id: coatings
+      title: Polydopamine and metal-coated microparticles
+      image: /assets/images/Polydopamine.png
+      text: >-
+        Using emulsion droplets as templates, we showed that polydopamine
+        coatings become fluorescent under UV illumination, and developed
+        silver-coated liquid particles used as seeds for micro-velocimetry.
+
+- id: platforms
+  title: Microfluidic platforms for quantitative cell biology
+  short: >-
+    Hydrodynamic trapping arrays, droplet compartmentalisation and quantitative
+    fluorescence microscopy to follow single-cell dynamics, immune cell
+    polarisation and intracellular processes at high throughput.
+  topics:
+    - id: traps
+      title: Microfluidic hydrodynamic trapping arrays
+      image: /assets/images/MicrofluidicTrap.png
+      text: >-
+        Hydrodynamic trap arrays capture and position cells, droplets or
+        particles without mechanical contact. We optimise their capture
+        efficiency and homogeneity through flow design (oblique streams,
+        spanwise dispersion) and use them to pair immune cells with
+        functional droplets and image immune-synapse dynamics at the
+        single-cell level.
+
+- id: environment
+  title: Microfluidics for plant and environmental biology
+  short: >-
+    From the spatio-temporal study of moss development and microalgae
+    phenotyping to the dynamics of hydrocarbon-degrading bacterial biofilms at
+    oil–water interfaces.
+  topics:
+    - id: algae
+      title: Isolation and selection of individual microalgae
+      image: /assets/images/Chlamydomonas.png
+      text: >-
+        We develop automated microfluidic setups to immobilise, phenotype and
+        select single microalgae according to optical readouts such as
+        fluorescence, and to release them for downstream culture.
+      funding:
+        - name: ANR Phosphalgue (coordinator)
+          url: https://anr.fr/Project-ANR-21-CE43-0021
+          role: with L. Jullien (CPCV, ENS), A. Boulouis and S. Eberhard (IBPC), F. Guyot (MNHN), G. Charvin (IGBMC)
+
+    - id: biofilms
+      title: Oil-degrading bacterial biofilms
+      image: /assets/images/SnakeBacteria.jpg
+      text: >-
+        *Alcanivorax borkumensis* forms biofilms on oil droplets and degrades
+        hydrocarbons, a key process in bioremediation. With
+        [Andrew Utada](https://andrew-utada.com/) (University of Tsukuba) and
+        J.-F. Rupprecht (CPT, Marseille), we showed that these biofilms deform
+        the oil–water interface into tubes that enhance oil consumption.
+
+    - id: plants
+      title: Plant development on chip
+      image: /assets/images/Physco.gif
+      text: >-
+        With J.-C. Palauqui (IJPB, INRAE Versailles) we built a microfluidic and
+        microscopy toolbox to follow the development of the moss
+        *Physcomitrium patens* from single protoplasts to whole organisms,
+        from seconds to weeks. We contribute to quantitative pipelines for
+        protoplast culture with S. Verger (UPSC, Umeå).

@@ -1,0 +1,20 @@
+# Builds the site exactly as GitHub Pages does, on every push to a branch
+# other than master and on every pull request. A red cross on GitHub means
+# the site would fail to build: fix before merging into master.
+name: Check site build
+on:
+  push:
+    branches-ignore: [master]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Report pages built
+        run: find _site -name '*.html' | sort

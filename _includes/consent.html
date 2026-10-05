@@ -1,0 +1,11 @@
+{%- if site.analytics.ga4 and site.analytics.ga4 != "" -%}
+<div class="consent" id="consent" role="dialog" aria-live="polite" aria-label="Cookie consent" hidden>
+  <p>This site counts visits without cookies. May we also use <strong>Google Analytics</strong>
+  (cookies, 13 months) to better understand how visitors use it?</p>
+  <div class="consent-actions">
+    <button type="button" class="btn btn-ghost" data-consent="denied">Decline</button>
+    <button type="button" class="btn" data-consent="granted">Accept</button>
+  </div>
+</div>
+{%- endif %}
+<script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>

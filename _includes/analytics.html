@@ -1,9 +1,14 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ google_analytics }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '{{ google_analytics }}');
-</script>
+{%- comment -%}
+  Analytics — single place for all tracking. Active only on the live site
+  (GitHub Pages builds with JEKYLL_ENV=production).
+  * GoatCounter: cookieless, no personal data → no consent required (CNIL).
+  * GA4: loaded only after explicit consent from the banner (consent.html).
+{%- endcomment -%}
+{%- if jekyll.environment == "production" -%}
+{%- if site.analytics.goatcounter and site.analytics.goatcounter != "" %}
+<script data-goatcounter="https://{{ site.analytics.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+{%- endif -%}
+{%- if site.analytics.ga4 and site.analytics.ga4 != "" %}
+<script>window.SITE_GA4 = "{{ site.analytics.ga4 }}";</script>
+{%- endif -%}
+{%- endif %}

@@ -1,0 +1,551 @@
+# =====================================================================
+#  PUBLICATIONS — single source of truth for the whole site
+# =====================================================================
+#  To add a paper: copy an entry, paste it at the TOP of its type block,
+#  and edit the fields. Numbering, year headings, the homepage "Latest
+#  publications" and the per-topic lists on the Research page are all
+#  generated automatically.
+#
+#  Fields
+#    type      article | preprint | chapter | patent           (required)
+#    year      2026                                             (required)
+#    featured  true  -> shown in "Selected publications"        (optional)
+#    authors   "A. Author, J. Fattaccioli*"  (J. Fattaccioli is bolded automatically)
+#    title     paper title
+#    venue     journal / book / patent number (shown in bold)
+#    details   volume, pages, article number…                   (optional)
+#    status    "Under review", "In press"…                      (optional)
+#    equal_contribution: true  -> prints "‡ equal contribution" (optional)
+#    tags      research topics, used on the Research page:      (optional)
+#              aapc | capsules | coatings | traps | algae | biofilms | plants
+#    links     list of {label, url}  e.g. DOI, PDF, bioRxiv, Code
+#    notes     list of {text, url}   press coverage, highlights… (optional)
+#
+#  Keep entries in reverse chronological order inside each type.
+# =====================================================================
+
+- type: preprint
+  year: 2026
+  authors: H. Uhl, J. Fattaccioli
+  title: 'More Than a Drop: Programming the Emulsion Interface to Build, Mimic, and Sense'
+  venue: Current Opinion in Colloid & Interface Science
+  details: Invited review
+  status: Under review
+  tags: [aapc]
+
+- type: preprint
+  year: 2026
+  authors: C. Pompili, M. Depierre, S. Debrais, H. MC von Giesen, H. Uhl, V. Mignon, B. Saubamea, M. Foretz, B. Viollet, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang
+  title: Phagocytosis by the Macrophage Mannose Receptor relies on AMPK to control microtubules and actin dynamics
+  venue: Journal of Cell Science
+  status: Under review
+  tags: [aapc]
+
+- type: preprint
+  year: 2026
+  authors: I. Coghill, F. Pham, M. Mandal, A. Lahlou, Y. Shpinov, J. Fattaccioli, T. Le Saux, L. Jullien
+  title: Spatiotemporal Light Modulation for Optical Sectioning, Diffusion Measurement and Parallelized Experiments with a Dual-DMD Microscope
+  venue: Optica Open
+  status: Preprint
+  tags: [algae]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1364/opticaopen.31398633
+
+- type: preprint
+  year: 2024
+  authors: C. Hu, E. Lu, L. Lacour, N. Delsuc, B. Bresson, J.-M. Mallet, J. Fattaccioli
+  title: Shaping, Degradation And Drug Release Of Biosourced Particles Made From Acrylated Vegetable Oils
+  venue: ChemRxiv
+  tags: [capsules]
+  links:
+  - label: DOI
+    url: https://doi.org/10.26434/chemrxiv-2024-3c42z
+
+- type: article
+  year: 2026
+  authors: S. Michelis‡, H. Uhl‡, F. Niedergang, J. Fattaccioli, B. Dumat*, J.-M. Mallet*
+  title: Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH
+  venue: Chemistry – A European Journal
+  details: e71237 (2026)
+  equal_contribution: true
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1002/chem.71237
+
+- type: article
+  year: 2025
+  authors: A. Chargueraud, L. Kool, J. Fattaccioli*
+  title: Fully integrated automatic microfluidic setup for immobilization, analysis and non-selective release of particles
+  venue: Micro and Nano Engineering
+  details: In Press (2025)
+  tags: [traps, algae]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.mne.2025.100332
+
+- type: article
+  year: 2025
+  authors: L. Huang, R. Lopes Dos Santos, S. Labdi, G. Lamour, O. Maciejak, M. Malo, J. Fattaccioli, C. Campillo
+  title: A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains
+  venue: Small Science
+  details: 2500210 (2025)
+  tags: [traps]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1002/smsc.202500210
+
+- type: article
+  year: 2025
+  authors: L. Bogdziewiez, R. Froeling, P. Schoppl, J. Juquel, J. Antoniadi, V. Skalicky, A. Mathey, J. Fattaccioli, J. Sprakel, S. Verger
+  title: 'The Q-Warg Pipeline: A Robust and Versatile Workflow for Quantitative Analysis of Protoplast Culture Conditions'
+  venue: Plant Direct
+  details: 9 (7), e70090 (2025)
+  tags: [plants]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1002/pld3.70090
+
+- type: article
+  year: 2025
+  authors: E. Lu, W. Flores Cisternas, H. Uhl, A. Chargueraud, Q. Grimal, G. Renaud, J.-G. Minonzio, J. Fattaccioli*
+  title: Assessing ultrasonic and optical flow velocimetry in a millifluidic device using oil-in-water emulsions as blood mimicking fluid
+  venue: Micro and Nano Engineering
+  details: 100298 (2025)
+  tags: [coatings]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.mne.2025.100298
+
+- type: article
+  year: 2025
+  authors: N. Ruyssen*, G. Fina, R. Allena, M.C. Jullien, J. Fattaccioli
+  title: Spanwise dispersion optimizes the efficiency of dense microfluidic trap arrays
+  venue: Computers & Fluids
+  details: 106643 (2025)
+  tags: [traps]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.compfluid.2025.106643
+
+- type: article
+  year: 2024
+  authors: M. Prudhomme, C. Lakhdar, J. Fattaccioli, F. Chollet*
+  title: Functionalization of microbubbles in a microfluidic chip for biosensing applications
+  venue: Biomedical Microdevices
+  details: 26, 39 (2024)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s10544-024-00721-2
+
+- type: article
+  year: 2024
+  authors: B. Cocom-Chan, H. Khakzad, M. Konate, D. Isui-Aguilar, C. Bello, C. Valencia-Gallardo, Y. Zarrouk, J. Fattaccioli, A. Mauviel, D. Javelaud, G. Tran Van Nhieu
+  title: IpaA reveals distinct modes of vinculin activation during Shigella invasion and cell-matrix adhesion
+  venue: Life Science Alliance
+  details: 7 (8) e202302418 (2024)
+  links:
+  - label: DOI
+    url: https://doi.org/10.26508/lsa.202302418/
+
+- type: article
+  year: 2024
+  authors: S. Michelis, C. Pompili, B. Dumat, F. Niedergang, J. Fattaccioli, J.-M. Mallet
+  title: FRET-sensing of receptor binding at the interface of targeted biomimetic microparticles functionalized with tunable fluorescent lipids
+  venue: ACS Applied Bio Materials
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://pubs.acs.org/doi/10.1021/acsami.3c15067
+
+- type: article
+  year: 2023
+  featured: true
+  authors: M. Prasad, N. Obana, S.-Z. Lin, K. Sakai, C. Blanch-Mercader, J. Prost, N. Nomura, J.-F. Rupprecht*, J. Fattaccioli*, A. S. Utada*
+  title: Alcanivorax borkumensis Biofilms Enhance Oil Degradation By Interfacial Tubulation
+  venue: Science
+  details: 381, 748–753 (2023)
+  tags: [biofilms]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1126/science.adf3345
+  notes:
+  - text: 'Perspective: Bacteria stretch and bend oil to feed their appetite, T. McGenity and P.-P. Laissue'
+    url: https://www.science.org/doi/full/10.1126/science.adj4430
+  - text: 'News in Physics Today: How bacteria help clean up oil spills'
+    url: https://pubs.aip.org/physicstoday/online/42663/How-bacteria-help-clean-up-oil-spills
+
+- type: article
+  year: 2022
+  featured: true
+  authors: L. Pinon, N. Ruyssen, J. Pineau, O. Mesdjian, D. Cuvelier, R. Allena, S. Asnacios, A. Asnacios, P. Pierobon*, J. Fattaccioli*
+  title: Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet–Cell Pairing Microfluidic Platform
+  venue: Cell Reports Methods
+  details: (2022)
+  tags: [aapc, traps]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.crmeth.2022.100335
+
+- type: article
+  year: 2022
+  authors: J. Pineau, L. Pinon, O. Mesdjian, J. Fattaccioli, A.-M. Lennon-Duménil, P. Pierobon*
+  title: Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes
+  venue: eLife
+  details: (2022)
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://elifesciences.org/articles/78330
+
+- type: article
+  year: 2021
+  authors: O. Mesdjian‡, N. Ruyssen‡, M.-C. Jullien, R. Allena, J. Fattaccioli*
+  title: Enhancing the capture efficiency and homogeneity of single-layer flow-through trapping microfluidic devices using oblique hydrodynamic streams
+  venue: Microfluidics and Nanofluidics
+  details: 25, 91 (2021)
+  equal_contribution: true
+  tags: [traps]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s10404-021-02492-1
+
+- type: article
+  year: 2019
+  authors: B. Dumat‡, L. Montel‡, P. Matton, L. Pinon, L. Cattiaux, J. Fattaccioli*, J.M. Mallet*
+  title: 'Mannose-coated fluorescent emulsion droplets: specific biosensors for Mannose Receptor-induced phagocytosis'
+  venue: ACS Applied Bio Materials
+  details: 2, 11, 5118–5126 (2019)
+  equal_contribution: true
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1021/acsabm.9b00793
+
+- type: article
+  year: 2019
+  featured: true
+  authors: K. Sakai, F. Charlot, T. Le Saux, S. Bonhomme, F. Nogué, J.C. Palauqui*, J. Fattaccioli*
+  title: Design of a microfluidic and microscopic toolbox for the ultra-wide spatio-temporal study of plant protoplast development and physiology
+  venue: Plant Methods
+  details: 15, 19 (2019)
+  tags: [traps, plants]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1186/s13007-019-0459-z
+  notes:
+  - text: Highlighted in La Recherche (Nov. 2019)
+    url: https://www.larecherche.fr/la-microfluidique-sint%C3%A9resse-aux-plantes
+
+- type: article
+  year: 2019
+  featured: true
+  authors: L. Montel, L. Pinon, J. Fattaccioli*
+  title: A multiparametric, quantitative and high-throughput assay to determine the influence of target size on phagocytic uptake
+  venue: Biophysical Journal
+  details: 117 (3), 408–419 (2019)
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.bpj.2019.06.021
+
+- type: article
+  year: 2019
+  authors: C. Vié, J. Fattaccioli*, P. Jacq*
+  title: Introducing digital microfluidics concepts in chemistry using a macroscopic droplet generator
+  venue: Journal of Chemical Education
+  details: 96 (4), 797–800 (2019)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1021/acs.jchemed.8b00876
+
+- type: article
+  year: 2019
+  authors: M. Prasad, N. Obana, K. Sakai, Y. Nakayama, S. Miyazaki, M. Toyofuku, J. Fattaccioli, N. Nomura, A.S. Utada*
+  title: Point mutations lead to increased levels of c-di-GMP and phenotypic changes to colony biofilm morphology in Alcanivorax borkumensis SK2
+  venue: Microbes and Environments
+  details: 34 (1), 104–107 (2019)
+  tags: [biofilms]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1264/jsme2.ME18151
+
+- type: article
+  year: 2018
+  authors: L. Pinon, L. Montel, O. Mesdjian, M. Bernard, A. Michel, C. Ménager, J. Fattaccioli*
+  title: Kinetically-enhanced fabrication of homogeneous biomimetic and functional emulsion droplets
+  venue: Langmuir
+  details: 34 (50), 15319–15326 (2018)
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1021/acs.langmuir.8b02721
+
+- type: article
+  year: 2018
+  authors: F.M. Allioux*, P. Kapruwan, N. Milne, L. Kong, J. Fattaccioli, Y. Chen, L.F. Dumée*
+  title: Electro-capture of heavy metal ions with carbon cloth integrated microfluidic devices
+  venue: Separation and Purification Technology
+  details: 194, 26–32 (2018)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.seppur.2017.10.064
+
+- type: article
+  year: 2016
+  authors: S. Quignard*, G. Frébourg, Y. Chen, J. Fattaccioli*
+  title: Nanometric emulsions encapsulating solid particles as alternative carriers for intracellular delivery
+  venue: Nanomedicine
+  details: 11 (16), 2059–2072 (2016)
+  tags: [aapc]
+  links:
+  - label: PDF
+    url: https://fattacciolilab.files.wordpress.com/2016/08/2016-nanometricemulsions.pdf
+
+- type: article
+  year: 2016
+  authors: D. Molino, S. Quignard, C. Gruget, F. Pincet, Y. Chen, M. Piel, J. Fattaccioli*
+  title: On-chip quantitative measurement of mechanical stresses during cell migration with emulsion droplets
+  venue: Scientific Reports
+  details: 6, 29113 (2016)
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1038/srep29113
+
+- type: article
+  year: 2016
+  authors: O. Mesdjian, Y. Chen, J. Fattaccioli*
+  title: Luminescent and absorptive metal-coated emulsions for micro-velocimetry
+  venue: Microelectronic Engineering
+  details: 158, 69–74 (2016)
+  tags: [coatings]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.mee.2016.03.028
+
+- type: article
+  year: 2015
+  authors: K. Ben M'Barek, D. Molino, S. Quignard, Y. Chen, P. Chavrier, J. Fattaccioli*
+  title: Phagocytosis of immunoglobulin-coated emulsion droplets
+  venue: Biomaterials
+  details: 51, 270–277 (2015)
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.biomaterials.2015.02.030
+
+- type: article
+  year: 2014
+  authors: S. Quignard, Y. Chen, M. d'Ischia, J. Fattaccioli*
+  title: UV-induced fluorescence of polydopamine-coated emulsion droplets
+  venue: ChemPlusChem
+  details: 79 (9), 1254–1257 (2014)
+  tags: [coatings]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1002/cplu.201402157
+  notes:
+  - text: Highlighted in Wiley-VCH Hot Topics – Surfaces and Interfaces
+
+- type: article
+  year: 2014
+  authors: G.M. Nocera, K. Ben M'Barek, D.G. Bazzoli, G. Fraux, M. Bontems-Van Heijenoort, J. Chokki, S. Georgeault, Y. Chen, J. Fattaccioli*
+  title: Fluorescent microparticles fabrication through chemical coating of O/W emulsion droplets with a thin metallic film
+  venue: RSC Advances
+  details: 4 (23), 11564–11568 (2014)
+  tags: [coatings]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1039/C3RA47063F
+
+- type: article
+  year: 2014
+  authors: C. Longuet, A. Yamada, Y. Chen, D. Baigl, J. Fattaccioli*
+  title: Spatially-controlled crystallization in microfluidics chambers
+  venue: Journal of Crystal Growth
+  details: 386, 179–182 (2014)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.jcrysgro.2013.10.011
+
+- type: article
+  year: 2012
+  authors: J.H. Park, J. Fattaccioli, H. Fujita, B.J. Kim
+  title: Fabrication of aluminum/alumina patterns using localized anodization of aluminum
+  venue: International Journal of Precision Engineering and Manufacturing
+  details: 13 (5), 765–770 (2012)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s12541-012-0100-9
+
+- type: article
+  year: 2009
+  authors: C. Bottier, J. Fattaccioli, M.C. Tahran, R. Yokokawa, F.O. Morin, D. Collard, H. Fujita
+  title: Active transport of oil droplets along oriented microtubules by kinesin molecular motors
+  venue: Lab on a Chip
+  details: 9, 1694–1700 (2009)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1039/b822519b
+
+- type: article
+  year: 2009
+  authors: J.H. Park, J. Fattaccioli, N. Takama, H. Fujita, B.J. Kim
+  title: Localized anodization of aluminum for the formation of high aspect ratio aluminum/alumina patterns
+  venue: ASPEN'2009
+  details: — Asian Society for Precision Engineering and Nanotechnology Conference
+  links:
+  - label: PDF
+    url: https://fattacciolilab.files.wordpress.com/2008/11/69_aspen_2p6-5p.pdf
+
+- type: article
+  year: 2009
+  authors: J. Fattaccioli, A. Ikeda, J.G. Kim, N. Takama, B.J. Kim
+  title: Visual observation of a PDMS tip in liquid microcontact printing
+  venue: IEEE MEMS'2009
+  details: Conference Proceedings, pp. 681–684
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/MEMSYS.2009.4805474
+
+- type: article
+  year: 2009
+  authors: S. Akiyama, Y.T. Cheng, J. Fattaccioli, N. Takama, P. Löw, C. Bergaud, B.J. Kim
+  title: Surface-temperature control of silicon nanowires in dry and liquid conditions
+  venue: IEEE MEMS'2009
+  details: Conference Proceedings, pp. 567–570
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/MEMSYS.2009.4805445
+
+- type: article
+  year: 2008
+  authors: J. Fattaccioli*, J. Baudry, E. Bertrand, C. Goubault, N. Henry, J. Bibette
+  title: Size and fluorescence measurements of individual droplets by flow cytometry
+  venue: Soft Matter
+  details: 5, 2232–2238 (2008)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1039/b814954b
+
+- type: article
+  year: 2008
+  authors: J. Fattaccioli*, J. Baudry, F. Brochard-Wyart, N. Henry, J. Bibette
+  title: Specific wetting probed with biomimetic droplets
+  venue: Soft Matter
+  details: 4, 2434–2440 (2008)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1039/b806635c
+
+- type: article
+  year: 2008
+  authors: Y.T. Cheng, J. Fattaccioli, S. Akiyama, N. Takama, Y. Akagi, S.J. Cho, B.J. Kim
+  title: Surface-temperature mapping on suspended silicon nanowire using fluorescent thermometry under dry and liquid conditions
+  venue: MNE 2008
+  details: — Micro and Nano Engineering Conference
+  links:
+  - label: PDF
+    url: https://fattacciolilab.files.wordpress.com/2008/11/2008mne_abstractcheng3fin.pdf
+
+- type: article
+  year: 2008
+  authors: C. Bottier, M.C. Tahran, J. Fattaccioli, F.O. Morin, B.J. Kim, H. Fujita
+  title: Direct transportation and electrofusion of oil droplets in a microfluidic device
+  venue: IEEE MEMS'2008
+  details: Conference Proceedings, pp. 563–566
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/MEMSYS.2008.4443718
+
+- type: article
+  year: 2005
+  authors: S.K. Mandal, N. Lequeux, B. Rotenberg, M. Tramier, J. Fattaccioli, J. Bibette, B. Dubertret
+  title: Encapsulation of magnetic and fluorescent nanoparticles in emulsion droplets
+  venue: Langmuir
+  details: 21, 4175–4179 (2005)
+  links:
+  - label: DOI
+    url: https://doi.org/10.1021/la047025m
+
+- type: chapter
+  year: 2026
+  authors: C. Pompili, H. Uhl, S. Michelis, B. Dumat, J.-M. Mallet, J. Fattaccioli, F. Niedergang
+  title: Targeted fluorescent lipid microparticles for quantitative measurement of phagosomal pH
+  venue: Methods & Protocols — Exocytosis and Endocytosis
+  details: (2026, In Press)
+  tags: [aapc]
+
+- type: chapter
+  year: 2026
+  authors: L. Bruno, H. Uhl, L. Vimeux, M. Karnat, J.-F. Rupprecht, E. Donnadieu, J. Fattaccioli, P. Pierobon
+  title: Lipid droplet–based passive tracking to probe tissue dynamics in lymph node slices
+  venue: 'Methods in Molecular Biology: Real-Time Imaging of Immune Cells'
+  details: (2026, In Press)
+  tags: [aapc]
+
+- type: chapter
+  year: 2023
+  authors: J. Pineau, L. Pinon, J. Fattaccioli*, P. Pierobon*
+  title: Functionalized lipid droplets and microfluidics approach to study immune cell polarity in vitro
+  venue: The Immune Synapse (C.T. Baldari, M.L. Dustin, eds.)
+  details: Methods in Molecular Biology, vol. 2654, Humana, New York (2023)
+  tags: [aapc]
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-1-0716-3135-5_22
+
+- type: patent
+  year: 2023
+  authors: J. Fattaccioli, C. Hu
+  title: Method for manufacturing acrylated epoxidized plant oil particles
+  venue: WO2023237670A1
+  details: (PCT/EP2023/065379, 2023) — EP4536788A1 pending
+  tags: [capsules]
+  links:
+  - label: Espacenet
+    url: https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2023237670A1
+
+- type: patent
+  year: 2018
+  authors: J. Fattaccioli, L. Pinon, L. Montel
+  title: Colloidal particles homogeneously functionalized by biomolecules
+  venue: EP4344770A2
+  details: (EP24157456.5A, priorité 2018, publication 2024) — Pending
+  tags: [aapc]
+  links:
+  - label: Espacenet
+    url: https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=4344770A2&KC=A2&FT=D
+
+- type: patent
+  year: 2014
+  authors: J. Fattaccioli
+  title: Méthode de dépôt de polymère sur des particules liquides
+  venue: PCT/FR2014/050461
+  details: — WO2014132012A1 (2013)
+  tags: [coatings]
+  links:
+  - label: Espacenet
+    url: http://worldwide.espacenet.com/publicationDetails/biblio?DB=worldwide.espacenet.com&II=0&ND=3&adjacent=true&locale=fr_EP&FT=D&date=20140904&CC=WO&NR=2014132012A1&KC=A1
+
+- type: patent
+  year: 2008
+  authors: M. Goutayer, I. Texier-Nogues, J. Fattaccioli, J. Bibette
+  title: Émulsions fluorescentes pour l'imagerie optique
+  venue: WO2008125747A2
+  details: (2008)
+  links:
+  - label: PDF
+    url: https://fattacciolilab.files.wordpress.com/2008/11/fattaccioli-emulsions.pdf
+
+- type: patent
+  year: 2009
+  authors: K. Nakamura, T. Sonobe, H. Fujita, B.J. Kim, J. Fattaccioli
+  title: Cylindrical coil, cylindrical micromotor and production method of cylindrical coil
+  venue: JP2009247191A
+  details: (2009)
+  links:
+  - label: PDF
+    url: https://fattacciolilab.files.wordpress.com/2008/11/fattaccioli-namikipatent.pdf

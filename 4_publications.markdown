@@ -1,43 +1,63 @@
 ---
 layout: page
-title: Publications and Software
-description: "Scientific publications and research software developed by Jacques Fattaccioli and the MesoBioLab team (CPCV, ENS). Research outputs in microfluidics, droplet-based systems, immunology, image analysis, and biophysics."
+title: Publications
+nav_title: Publications
 permalink: /publications/
+description: "Publications, patents and research software of Jacques Fattaccioli and the MesoBioLab team: droplet microfluidics, functional emulsions, biophysics and immunology."
+lead: "Peer-reviewed articles, preprints, book chapters, patents and open-source software. The list is generated from a single data file (_data/publications.yml)."
 ---
+{%- assign pubs = site.data.publications -%}
+{%- assign arts = pubs | where: "type", "article" -%}
+{%- assign pre = pubs | where: "type", "preprint" -%}
+{%- assign chap = pubs | where: "type", "chapter" -%}
+{%- assign pat = pubs | where: "type", "patent" -%}
+{%- assign feat = arts | where: "featured", true -%}
 
-This page presents the main **research outputs** of the group, including
-peer-reviewed [**scientific publications**](#publications), [**patents**](#patents) and [**research software**](#research-software-and-open-tools) developed
-in close connection with our experimental and methodological work.
-Together, these outputs reflect our commitment to **quantitative science,
-reproducibility, and open research practices** in microfluidics, droplets,
-and immunology.
+<nav class="toc" markdown="0">
+  <a href="#selected">Selected</a>
+  <a href="#preprints">Preprints ({{ pre.size }})</a>
+  <a href="#articles">Articles ({{ arts.size }})</a>
+  <a href="#chapters">Chapters ({{ chap.size }})</a>
+  <a href="#patents">Patents ({{ pat.size }})</a>
+  <a href="#software">Software</a>
+</nav>
 
-The complete and up-to-date list of publications is maintained below.
+<p class="muted" markdown="0">Profiles: <a href="{{ site.profiles.orcid }}">ORCID</a> · * corresponding author</p>
 
-{% include publications_full.md %}
+<h2 id="selected">Selected publications</h2>
+<ul class="pubs" markdown="0">
+{%- for p in feat %}{% include publication.html pub=p %}{% endfor %}
+</ul>
 
----
+<h2 id="preprints">Preprints and articles under review</h2>
+<ul class="pubs" markdown="0">
+{%- for p in pre %}{% include publication.html pub=p %}{% endfor %}
+</ul>
 
-## Research Software and Open Tools
+<h2 id="articles">Articles and proceedings</h2>
+{%- assign n = arts.size -%}
+{%- assign years = arts | group_by: "year" -%}
+{%- for y in years %}
+<h3 class="year">{{ y.name }}</h3>
+<ul class="pubs" markdown="0">
+{%- for p in y.items %}{% include publication.html pub=p label=n %}{% assign n = n | minus: 1 %}{% endfor %}
+</ul>
+{%- endfor %}
 
-We develop **open-source and custom software tools** in direct support of our
-research activities in **image analysis, microfluidics, and data science**.
-These tools are designed to enable **quantitative analysis**, facilitate
-**reproducibility**, and support both research and training activities.
+<h2 id="chapters">Book chapters and methods</h2>
+{%- assign n = chap.size -%}
+<ul class="pubs" markdown="0">
+{%- for p in chap %}{% assign l = n | prepend: "B" %}{% include publication.html pub=p label=l %}{% assign n = n | minus: 1 %}{% endfor %}
+</ul>
 
-You can find most of the codes developed or and used in publications on our [Github account](https://github.com/fattacciolilab){:target="_blank"}
+<h2 id="patents">Patents</h2>
+{%- assign n = pat.size -%}
+<ul class="pubs" markdown="0">
+{%- for p in pat %}{% assign l = n | prepend: "P" %}{% include publication.html pub=p label=l %}{% assign n = n | minus: 1 %}{% endfor %}
+</ul>
 
+<h2 id="software">Research software and open tools</h2>
 
-### Background removal from time-lapse image stacks: 
+We develop open-source tools for **image analysis, microfluidics and data science** in direct support of our experiments, to make analyses quantitative and reproducible. Most code used in our publications is on the lab's [GitHub organisation](https://github.com/fattacciolilab).
 
-Novikova, A., Sima, D., Laïmouche, L., & Fattaccioli, J. (2024). \
-Zenodo. [https://doi.org/10.5281/zenodo.10626975](https://doi.org/10.5281/zenodo.10626975){:target="_blank"}
-
-Github repo : [https://github.com/FattaccioliLab/Background-Removal-Plugin---ImageJ](https://github.com/FattaccioliLab/Background-Removal-Plugin---ImageJ){:target="_blank"}
-
-
-### Open science and reuse
-
-Whenever possible, software tools, scripts, and notebooks are shared through
-open repositories or teaching material. This approach supports **open science**,
-**method sharing**, and **lifelong learning programs in microfluidics**.
+**Background removal from time-lapse image stacks** (ImageJ plugin) — A. Novikova, D. Sima, L. Laïmouche, J. Fattaccioli (2024). [Zenodo DOI](https://doi.org/10.5281/zenodo.10626975) · [GitHub](https://github.com/FattaccioliLab/Background-Removal-Plugin---ImageJ)

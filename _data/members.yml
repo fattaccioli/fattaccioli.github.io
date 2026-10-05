@@ -1,0 +1,249 @@
+# =====================================================================
+#  TEAM MEMBERS — rendered on /members/
+# =====================================================================
+#  current:  people in the lab now. group = postdoc | phd | engineer | intern
+#  alumni:   former PhD students, postdocs and engineers (most recent first)
+#  former_interns: short-term students (most recent first)
+#
+#  When someone leaves: cut their entry from `current`, paste it at the top
+#  of `alumni` (or `former_interns`), and update `years`.
+#
+#  Optional fields: project, cosupervision, funding, details,
+#                   linkedin, orcid, github, web
+# =====================================================================
+
+current:
+- name: Héloïse Uhl
+  role: Postdoctoral researcher
+  group: postdoc
+  years: '2026'
+  project: Mechanobiology of phagocytosis — force mapping by image analysis
+  linkedin: https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/
+- name: Alexandre Chargueraud
+  role: PhD student
+  group: phd
+  years: 2022–2026
+  project: Immobilization and selection of microalgae using microfluidics
+  linkedin: https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/
+- name: Moein Derakhshan
+  role: PhD student
+  group: phd
+  years: 2026–2029
+  project: Migrating droplets driven by actin–myosin I motors
+  cosupervision: F.-C. Tsai (Institut Curie, primary supervisor)
+  github: https://github.com/moeinderakhshan
+- name: Sihem Guelai
+  role: Intern
+  group: intern
+  years: '2026'
+  details: M2 Chemistry, Sorbonne Université
+- name: Mame-Penda Mbodji
+  role: Intern
+  group: intern
+  years: '2026'
+  details: M1 Chemistry and Biology, Sorbonne Université
+  linkedin: https://www.linkedin.com/in/mame-penda-mbodji-833204345/
+
+alumni:
+- name: Héloïse Uhl
+  role: PhD student
+  years: 2022–2026
+  project: Mechanobiology of phagocytosis - Force mapping by image analysis
+  linkedin: https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/
+- name: Chiara Pompili
+  role: PhD student
+  years: 2022–2026
+  cosupervision: F. Niedergang (Institut Cochin)
+  project: 'Phagocytosis by the Macrophage Mannose Receptor: Mechanistic Studies Using Functionalized Lipid Particles'
+  linkedin: https://www.linkedin.com/in/chiara-pompili-855320230/
+- name: Estelle Lu
+  years: 2022–2025
+  linkedin: https://www.linkedin.com/in/estelle-lu-099264201/
+  role: PhD student
+- name: Mathieu Goncalves-Venturelli
+  role: Postdoctoral researcher
+  years: 2024–2025
+  linkedin: https://www.linkedin.com/in/mathieu-goncalves-venturelli
+- name: Aurélien Lepoëtre
+  role: Postdoctoral researcher
+  years: 2023–2025
+  linkedin: https://www.linkedin.com/in/aurelien-lepoetre-microfluidics/
+- name: Charles Cavaniol
+  role: Postdoctoral researcher
+  years: 2023–2024
+  linkedin: https://www.linkedin.com/in/charles-cavaniol-928268130
+- name: Martin Coux
+  role: Postdoctoral researcher
+  years: 2023–2024
+  linkedin: https://www.linkedin.com/in/martin-coux/
+- name: Wafa Hechiche
+  role: PhD student
+  years: 2019–2023
+  cosupervision: J. Vinh (ESPCI)
+- name: Chaohe Hu
+  role: PhD student
+  years: 2019–2023
+  funding: CSC grant
+- name: Gabriel Fina
+  role: Research engineer
+  years: 2021–2022
+  linkedin: https://www.linkedin.com/in/gabriel-fina-566839201/
+- name: Léa Pinon
+  role: Postdoctoral researcher
+  years: 2017–2021
+  orcid: https://orcid.org/0000-0002-8645-071X
+- name: Julie Signeux
+  role: Research engineer
+  years: 2020–2021
+  linkedin: https://www.linkedin.com/in/julie-signeux-74b32413a
+- name: Kaori Sakai
+  role: Engineer
+  years: 2017–2019
+  linkedin: https://www.linkedin.com/in/kaori-sakai-34298a46/
+- name: Lorraine Montel
+  role: Postdoctoral researcher
+  years: 2016–2019
+  orcid: https://orcid.org/0000-0003-0545-6413
+- name: Olivier Mesdjian
+  role: PhD student
+  years: 2014–2017
+  orcid: https://orcid.org/0000-0003-4499-2040
+- name: Pascal Matton
+  role: PhD student
+  years: 2014–2017
+  cosupervision: J.-M. Mallet
+- name: Sandrine Quignard
+  role: Postdoctoral researcher
+  years: 2013–2017
+- name: Diana Molino
+  role: Postdoctoral researcher
+  years: 2013–2016
+  linkedin: https://www.linkedin.com/in/diana-molino-6122a995
+- name: Kalthoum Ben M'Barek
+  role: PhD student
+  years: 2011–2015
+  linkedin: https://www.linkedin.com/in/kalthoumbenmbarek
+
+former_interns:
+- name: Capucine Zimmer
+  year: 2026
+  details: Intern (ESPCI, 1st year)
+  linkedin: https://www.linkedin.com/in/capucine-zimmer
+- name: Lamia Taheraly
+  year: 2026
+  details: Intern (ENSMAC Bordeaux, 3 months)
+  linkedin: https://www.linkedin.com/in/lamia-taheraly-8b4a14277/
+- name: Lina Bergounioux
+  year: 2026
+  details: Intern (Chimie Paris, 1A)
+  linkedin: https://www.linkedin.com/in/lina-bergounioux-76a579381/
+- name: Elise Cao
+  year: 2025
+  details: Intern (ESPCI, 1st year)
+  linkedin: https://www.linkedin.com/in/elise-cao/
+- name: Juliette Mérigot--Lombard
+  year: 2024
+  details: Intern (M2 Microfluidics)
+  linkedin: https://www.linkedin.com/in/juliette-merigotlombard
+- name: François Lambeaux
+  year: 2024
+  details: Intern (M2 Microfluidics)
+  web: https://www.laas.fr/fr/annuaire/1926
+- name: Cylia Birba
+  year: 2024
+  details: L3 Pro, Sorbonne Université
+  linkedin: https://www.linkedin.com/in/cylia-birba-572533187
+- name: Charlie Brunet
+  year: 2023
+  details: Intern (L3 Pro Formulation, Sorbonne Université)
+  linkedin: https://www.linkedin.com/in/charlie-brunet-6bb799220/
+- name: Lina Ben Salem
+  year: 2022
+  details: Intern (L3 Pro Formulation, Sorbonne Université)
+  linkedin: https://www.linkedin.com/in/lben-salem
+- name: Romane Vinot
+  year: 2021
+  details: Intern (M2 Microfluidics)
+  linkedin: https://www.linkedin.com/in/romane-vinot-391bb9223
+- name: Walid Bezaouch
+  year: 2021
+  details: L3 Pro, Sorbonne Université
+  linkedin: https://www.linkedin.com/in/walid-bezaouch-b4a794180
+- name: Sarah Duclos-Ivetich
+  year: 2020
+  details: M1 Intern, PSL SGM Master
+  linkedin: https://www.linkedin.com/in/sarah-duclos-ivetich-bb4ba2151/
+- name: Romane Vinot
+  year: 2020
+  details: L3 Intern, ENS Paris-Saclay
+  linkedin: https://www.linkedin.com/in/romane-vinot-391bb9223
+- name: Nawel Sebih
+  year: 2020
+  details: L3 Pro Formulation, Sorbonne Université
+- name: Flore Caré
+  year: 2020
+  details: Intern/Engineer (M2 Microfluidics, PSL SGM)
+  linkedin: https://www.linkedin.com/in/flore-car%C3%A9-665505191
+- name: Lucie Lacour
+  year: 2019
+  details: Intern (M1 Chemistry, Sorbonne Université)
+  linkedin: https://www.linkedin.com/in/lucie-lacour-08a02412b/
+- name: Léa Boudinet
+  year: 2015
+  details: Undergrad (ENS)
+  linkedin: https://www.linkedin.com/in/leaboudinet
+- name: Margot Hily
+  year: 2015
+  details: Undergrad (U. Paris Sud)
+- name: Marius Hervé
+  year: 2014
+  details: Undergrad (ENS)
+  web: https://scholar.google.com/citations?user=7qVZ5PYAAAAJ
+- name: Gianmarco Nocera
+  year: 2013
+  details: Undergrad (UPMC)
+  linkedin: https://www.linkedin.com/in/gianmarconocera/
+- name: Dario Bazzoli
+  year: 2013
+  details: Undergrad (U. Milano)
+  linkedin: https://www.linkedin.com/in/dario-bazzoli-80ba9b89
+- name: Guillaume Fraux
+  year: 2013
+  details: Undergrad (ENS)
+  linkedin: https://www.linkedin.com/in/guillaume-fraux-bb68831b9
+- name: Amélie Nicolay
+  year: 2013
+  details: Undergrad (ENS)
+  linkedin: https://www.linkedin.com/in/amnicolay/
+- name: Charlotte Quintana
+  year: 2012
+  details: Undergrad (UPMC)
+  linkedin: https://www.linkedin.com/in/charlottequintana/
+- name: Morgane Bontems-Van Heijenoort
+  year: 2012
+  details: Undergrad (UPMC)
+  linkedin: https://www.linkedin.com/in/morgane-bontems-3bab9a104/
+- name: Manon Quentrec
+  year: 2012
+  details: Undergrad (UPMC)
+  linkedin: https://www.linkedin.com/in/manon-quentrec-6a801ba3/
+- name: Marie Labeye
+  year: 2011
+  details: Undergrad (ENS)
+  web: https://cpcv.chimie.ens.fr/people/labeye-marie
+- name: Pauline Junquet
+  year: 2011
+  details: Undergrad (ENS)
+  linkedin: https://www.linkedin.com/in/pauline-junquet-1369a1187/
+- name: Jeannette Chokki
+  year: 2011
+  details: Undergrad (UPMC)
+  linkedin: https://www.linkedin.com/in/jeannette-chokki-b1b8a321
+- name: Quentin Senez
+  year: 2011
+  details: Undergrad (UPMC)
+  linkedin: https://www.linkedin.com/in/quentin-senez-78263b189/
+- name: Clothilde Longuet
+  year: 2010
+  details: MSc (UPMC)
+  linkedin: https://www.linkedin.com/in/clothilde-longuet-9998101b/

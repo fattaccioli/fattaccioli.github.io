@@ -1,14 +1,23 @@
 <footer class="site-footer">
-  <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
-
-  {% if site.ga_measurement_id %}
-  <!-- Google Analytics (GA4) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_measurement_id }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.ga_measurement_id }}');
-  </script>
-  {% endif %}
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-name">{{ site.author.name }}</p>
+      <p>MesoBioLab · CPCV (UMR 8228), ENS-PSL, Sorbonne Université, CNRS<br>
+      Institut Pierre-Gilles de Gennes, 6 rue Jean Calvin, 75005 Paris</p>
+    </div>
+    <div>
+      <p><span class="email">{{ site.author.email_display }}</span></p>
+      <p class="footer-links">
+        <a href="{{ site.profiles.orcid }}" data-track="out-orcid">ORCID</a> ·
+        <a href="{{ site.profiles.linkedin }}" data-track="out-linkedin">LinkedIn</a> ·
+        <a href="{{ site.profiles.github }}" data-track="out-github">GitHub</a> ·
+        <a href="{{ site.profiles.calendly }}" data-track="out-calendly">Book a meeting</a>
+      </p>
+    </div>
+  </div>
+  <div class="wrap footer-meta">
+    <span>© {{ site.time | date: "%Y" }} {{ site.author.name }} · Updated {{ site.time | date: "%B %Y" }}</span>
+    <button type="button" class="linklike" data-consent-open>Cookie settings</button>
+  </div>
 </footer>
+{%- include consent.html -%}

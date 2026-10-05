@@ -1,0 +1,71 @@
+---
+layout: default
+---
+{%- assign arts = site.data.publications | where: "type", "article" -%}
+<section class="hero">
+  <div class="wrap hero-inner">
+    <div class="hero-text">
+      <p class="eyebrow">{{ site.tagline }}</p>
+      <h1>{{ page.headline }}</h1>
+      <p class="lead">{{ page.intro }}</p>
+      <div class="hero-actions">
+        <a class="btn" href="{{ '/research/' | relative_url }}">Our research</a>
+        <a class="btn btn-ghost" href="{{ '/positions/' | relative_url }}" data-track="cta-positions">Join the team</a>
+      </div>
+    </div>
+    <figure class="hero-portrait">
+      <img src="{{ '/assets/images/Face_Jacques.jpg' | relative_url }}" alt="Portrait of Jacques Fattaccioli" width="283" height="377">
+      <figcaption>Jacques Fattaccioli</figcaption>
+    </figure>
+  </div>
+</section>
+
+<div class="hero-band">
+  <img src="{{ '/assets/images/cropped-img_0571.jpg' | relative_url }}" alt="A microfluidic chip with tubing on a microscope stage under blue illumination" width="1180" height="360">
+</div>
+
+<section class="wrap section">
+  <h2 class="section-title">Research axes</h2>
+  <div class="cards">
+    {%- for axis in site.data.research %}
+    <a class="card" href="{{ '/research/' | relative_url }}#{{ axis.id }}">
+      <span class="card-num">0{{ forloop.index }}</span>
+      <h3>{{ axis.title }}</h3>
+      <p>{{ axis.short }}</p>
+    </a>
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="wrap section">
+  <div class="prose">{{ content }}</div>
+</section>
+
+<section class="wrap section">
+  <h2 class="section-title">Work with us</h2>
+  <div class="cards">
+    <a class="card card-plain" href="{{ '/positions/' | relative_url }}" data-track="cta-positions">
+      <h3>Students &amp; postdocs</h3>
+      <p>Internships, PhD and postdoctoral projects, MSCA fellowship hosting. See current openings and how to apply.</p>
+      <span class="card-more">Open positions →</span>
+    </a>
+    <a class="card card-plain" href="{{ '/publications/' | relative_url }}">
+      <h3>Collaborators &amp; funders</h3>
+      <p>Droplet microfluidics, interface chemistry and quantitative imaging for immunology, cell and plant biology.</p>
+      <span class="card-more">Publications →</span>
+    </a>
+    <a class="card card-plain" href="{{ '/teaching/' | relative_url }}#training">
+      <h3>Industry &amp; training</h3>
+      <p>Tailored microfluidics training for R&amp;D teams, and technology transfer through Quintessence Biotech.</p>
+      <span class="card-more">Training →</span>
+    </a>
+  </div>
+</section>
+
+<section class="wrap section">
+  <h2 class="section-title">Latest publications</h2>
+  <ul class="pubs" >
+    {%- for p in arts limit: 3 %}{% include publication.html pub=p %}{% endfor %}
+  </ul>
+  <p><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>
+</section>

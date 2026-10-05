@@ -1,0 +1,9 @@
+{%- assign m = include.m -%}
+{%- if m.linkedin or m.orcid or m.github or m.web -%}
+<span class="person-links">
+{%- if m.linkedin %}<a href="{{ m.linkedin }}">LinkedIn</a>{% endif -%}
+{%- if m.orcid %}<a href="{{ m.orcid }}">ORCID</a>{% endif -%}
+{%- if m.github %}<a href="{{ m.github }}">GitHub</a>{% endif -%}
+{%- if m.web %}<a href="{{ m.web }}">Web</a>{% endif -%}
+</span>
+{%- endif -%}

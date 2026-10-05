@@ -1,0 +1,18 @@
+{%- comment -%} Renders one publication. Params: pub, label (optional, e.g. "37" or "P2") {%- endcomment -%}
+{%- assign p = include.pub -%}
+{%- assign me = "<strong class='me'>J. Fattaccioli</strong>" -%}
+<li class="pub">
+  {%- if include.label %}<span class="pub-num">{{ include.label }}</span>{% endif %}
+  <span class="pub-title">{{ p.title }}</span>
+  <span class="pub-authors">{{ p.authors | replace: "J. Fattaccioli", me }}</span>
+  <span class="pub-venue"><em>{{ p.venue }}</em>{% if p.details %} {{ p.details }}{% endif %}{% if p.status %} — {{ p.status }}{% endif %}</span>
+  {%- if p.links or p.notes or p.equal_contribution %}
+  <span class="pub-meta">
+    {%- for l in p.links %}<a class="tag-link" href="{{ l.url }}">{{ l.label }}</a>{% endfor -%}
+    {%- if p.equal_contribution %}<span class="muted">‡ equal contribution</span>{% endif -%}
+  </span>
+  {%- for n in p.notes %}
+  <span class="pub-note">{% if n.url %}<a href="{{ n.url }}">{{ n.text }}</a>{% else %}{{ n.text }}{% endif %}</span>
+  {%- endfor -%}
+  {%- endif %}
+</li>

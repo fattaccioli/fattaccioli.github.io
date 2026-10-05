@@ -1,80 +1,75 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# =====================================================================
+#  Site settings — restart `bundle exec jekyll serve` after editing.
+#  Everyday content lives in _data/ (publications, members, research)
+#  and in the numbered .markdown pages. See MAINTENANCE.md.
+# =====================================================================
 
-title: Jacques Fattaccioli | Microfluidics & Soft Matter
-description: "Official website of Jacques Fattaccioli, Professor in Chemistry at Sorbonne Université. Research in microfluidics, soft matter, and biophysics."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fattaccioli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: Jacques Fattaccioli
+tagline: Microfluidics · Soft matter · Biophysics · Immunology
+description: >-
+  Jacques Fattaccioli, Associate Professor in Chemistry (Sorbonne Université),
+  MesoBioLab team, CPCV laboratory (ENS-PSL) and Institut Pierre-Gilles de Gennes, Paris.
+  Droplet microfluidics, functional emulsions, soft matter biophysics and immunology.
+lang: en
+url: "https://fattaccioli.github.io"
+baseurl: ""
 
 author:
-  name: "Jacques Fattaccioli"
+  name: Jacques Fattaccioli
+  email_display: jacques.fattaccioli [at] ens.psl.eu   # shown on pages (spam-safe)
   email: jacques.fattaccioli@ens.psl.eu
 
+# Profiles: shown in the footer and used by search engines (jekyll-seo-tag)
+social:
+  name: Jacques Fattaccioli
+  links:
+    - https://orcid.org/0000-0002-0095-2576
+    - https://www.linkedin.com/in/jacquesfattaccioli/
+    - https://github.com/fattacciolilab
 
-github_username:  FattaccioliLab
-google_analytics: G-PW1QZ6LFPN
-ga_measurement_id: G-PW1QZ6LFPN
+profiles:
+  orcid: https://orcid.org/0000-0002-0095-2576
+  linkedin: https://www.linkedin.com/in/jacquesfattaccioli/
+  github: https://github.com/fattacciolilab
+  calendly: https://calendly.com/fattaccioli/30min
 
-# Build settings
-theme: minima
+image: /assets/images/Face_Jacques.jpg   # default image for link previews
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# ---------------------------------------------------------------------
+# Analytics (only active on the live site, never in local previews)
+#   goatcounter: your GoatCounter code, e.g. "fattaccioli" for
+#                https://fattaccioli.goatcounter.com — cookieless, always on.
+#                Leave empty to disable.
+#   ga4:         Google Analytics 4 ID — loaded ONLY after the visitor
+#                accepts the consent banner. Leave empty to disable.
+# ---------------------------------------------------------------------
+analytics:
+  goatcounter: ""
+  ga4: G-PW1QZ6LFPN
 
+# Navigation (order = menu order)
 header_pages:
   - 1_about.markdown
   - 2_research.markdown
-  - 3_teaching.markdown
   - 4_publications.markdown
   - 5_members.markdown
+  - 3_teaching.markdown
   - 6_positions.markdown
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Build settings
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 kramdown:
   parse_block_html: true
 
-provider:  "custom"
-#jekyll_analytics:
-#  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-#    id: G-PW1QZ6LFPN          # Required - replace with your tracking id
-#    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
-#end
+exclude:
+  - Archive/
+  - MAINTENANCE.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .github/
