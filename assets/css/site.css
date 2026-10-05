@@ -240,15 +240,20 @@ h3.year { font-size: 1rem; font-family: var(--sans); color: var(--muted); margin
    (avoids large gaps between words). Headings, publication entries,
    buttons and navigation stay left-aligned.
    To revert: delete this block. */
-p, li, dd, figcaption, .lead, .card p, .topic-body, .callout {
+p, li, dd, figcaption, .lead, .topic-body, .callout {
   text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
   text-wrap: pretty;
 }
 .pub, .pub *, .site-nav, .footer-meta, .footer-grid p, .person p,
-.hero-actions, .consent p, .toc, .alumni.compact li {
+.hero-actions, .consent p, .toc, .alumni.compact li, .card p {
   text-align: left;
   hyphens: manual;
   -webkit-hyphens: manual;
+}
+/* Narrow screens: justified lines this short leave large gaps, so
+   fall back to left alignment on phones. */
+@media (max-width: 600px) {
+  p, li, dd, figcaption, .lead, .topic-body, .callout { text-align: left; }
 }
