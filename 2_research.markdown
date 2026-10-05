@@ -23,14 +23,27 @@ Our work sits at the interface of **microfluidics, soft matter, biophysics and i
   <h2>{{ axis.title }}</h2>
   <p class="axis-short">{{ axis.short }}</p>
   {%- for t in axis.topics %}
-  <article class="topic" id="{{ t.id }}">
+  <article class="topic{% unless t.image %} no-img{% endunless %}" id="{{ t.id }}">
     {%- if t.image %}<img class="topic-img" src="{{ t.image | relative_url }}" alt="" loading="lazy">{% endif %}
     <div class="topic-body">
+      {%- if t.emerging %}<p class="eyebrow">Emerging direction</p>{% endif %}
       <h3>{{ t.title }}</h3>
+      {%- if t.question %}<p class="question">{{ t.question }}</p>{% endif %}
       {{ t.text | markdownify }}
+      {%- if t.highlight %}
+      <p class="highlight"><span class="label">Key result</span> <a href="{{ t.highlight.url }}">{{ t.highlight.text }}</a></p>
+      {%- endif %}
       {%- if t.funding %}
+      {%- assign cur = t.funding | where_exp: "f", "f.status != 'past'" -%}
+      {%- assign past = t.funding | where: "status", "past" -%}
+      {%- if cur.size > 0 %}
       <p class="funding"><span class="label">Funding</span>
-      {%- for f in t.funding %} <a href="{{ f.url }}">{{ f.name }}</a>{% if f.role %} {{ f.role }}{% endif %}{% unless forloop.last %};{% endunless %}{% endfor %}</p>
+      {%- for f in cur %} <a href="{{ f.url }}">{{ f.name }}</a>{% if f.role %} {{ f.role }}{% endif %}{% unless forloop.last %};{% endunless %}{% endfor %}</p>
+      {%- endif %}
+      {%- if past.size > 0 %}
+      <p class="funding muted"><span class="label">Past funding</span>
+      {%- for f in past %} <a href="{{ f.url }}">{{ f.name }}</a>{% if f.role %} {{ f.role }}{% endif %}{% unless forloop.last %};{% endunless %}{% endfor %}</p>
+      {%- endif %}
       {%- endif %}
       {%- assign rel = site.data.publications | where_exp: "p", "p.tags contains t.id" -%}
       {%- if rel.size > 0 %}

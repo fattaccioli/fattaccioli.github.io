@@ -26,12 +26,14 @@ social:
     - https://orcid.org/0000-0002-0095-2576
     - https://www.linkedin.com/in/jacquesfattaccioli/
     - https://github.com/fattacciolilab
+    - https://jfattaccioli.substack.com
 
 profiles:
   orcid: https://orcid.org/0000-0002-0095-2576
   linkedin: https://www.linkedin.com/in/jacquesfattaccioli/
   github: https://github.com/fattacciolilab
   calendly: https://calendly.com/fattaccioli/30min
+  substack: https://jfattaccioli.substack.com
 
 image: /assets/images/Face_Jacques.jpg   # default image for link previews
 

@@ -10,6 +10,8 @@
 #
 #  Optional fields: project, cosupervision, funding, details,
 #                   linkedin, orcid, github, web
+#  Alumni only:     now: "Research scientist, Sanofi"  (current position;
+#                   shown on /members/ and in "Where our alumni went" on /positions/)
 # =====================================================================
 
 current:

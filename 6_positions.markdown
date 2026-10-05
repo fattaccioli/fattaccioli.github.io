@@ -1,24 +1,49 @@
 ---
 layout: page
-title: Open positions
+title: Join the team
 nav_title: Positions
-description: "Open positions, internships, and PhD opportunities in Jacques Fattaccioli's research group at Sorbonne Université."
-
 permalink: /positions/
-lead: "Current openings in the MesoBioLab team. Spontaneous applications are welcome at all levels."
+description: "Open positions, internships, PhD and postdoctoral opportunities (including MSCA fellowships) in Jacques Fattaccioli's MesoBioLab team at the Institut Pierre-Gilles de Gennes, Paris."
+lead: "Internships, PhD and postdoctoral projects at the crossroads of microfluidics, soft matter and biology. Spontaneous applications are welcome at all levels."
 ---
 
-### Postdoctoral level (MSCA Fellowships - Call 2027)
+## Open now
 
-We are welcoming Marie S. Curie Postdoctoral Fellowships with [Sorbonne Université](https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-2026):
+### Postdoctoral fellowships (MSCA)
 
-Our two proposals : 
+We host Marie Skłodowska-Curie Postdoctoral Fellowships through the [Sorbonne Université MSCA programme](https://www.sorbonne-universite.fr/en/news/msca-postdoctoral-fellowships-2026) and help candidates build their proposal. Two projects are proposed:
 
-- [Unraveling the Mechanisms of Microbial Lipolysis in Fat Malabsorption via Spatiotemporal Microfluidics and Single-Cell Omics](https://www.sorbonne-universite.fr/sites/default/files/media/2026-02/FATTACCIOLI_SU_S1.pdf) with T. Le Roy and F. Carrière.
-- [Spatio-Temporal Quantification of Intraphagosomal Lipid Lipolysis via Advanced Bio-Imaging](https://www.sorbonne-universite.fr/sites/default/files/media/2026-02/FATTACCIOLI_SU_S2.pdf)
+- [Unraveling the mechanisms of microbial lipolysis in fat malabsorption via spatiotemporal microfluidics and single-cell omics](https://www.sorbonne-universite.fr/sites/default/files/media/2026-02/FATTACCIOLI_SU_S1.pdf), with T. Le Roy and F. Carrière.
+- [Spatio-temporal quantification of intraphagosomal lipid lipolysis via advanced bio-imaging](https://www.sorbonne-universite.fr/sites/default/files/media/2026-02/FATTACCIOLI_SU_S2.pdf).
 
-Please contact us directly or follow the procedure from the Sorbonne Université website. We are also open to alternate research projects if they fit with our background.
+Other projects are possible if they fit our expertise: contact us early, ideally several months before the call deadline.
 
-### Internships, PhD and engineer positions
+### Internships (M1, M2, engineering schools)
 
-We regularly host M1/M2 interns and recruit PhD students and engineers depending on funding. Send a short CV and a few lines about your interests to <span class="email">{{ site.author.email_display }}</span>. See also [the team page](/members/#join-the-team).
+We host interns every year on projects drawn from our [current research](/research/): droplet functionalisation and biophysics of phagocytosis, microfluidic device design and trapping arrays, microalgae selection, and quantitative image analysis in Python. M2 internships can lead to a PhD when funding allows.
+
+### PhD and engineer positions
+
+PhD positions open through doctoral school calls (ED388, PSL, Sorbonne Université), ANR projects and industrial CIFRE partnerships. Funded positions are announced here; if none is listed, you can still write to discuss upcoming calls.
+
+## Working in the team
+
+The team is based at the [Institut Pierre-Gilles de Gennes](https://www.institut-pgg.fr) in the heart of Paris (5th arrondissement), a building dedicated to microfluidics with its own clean room and technology platform, shared with physics, chemistry and biology groups from ENS, ESPCI, Institut Curie and Chimie ParisTech. We belong to the [CPCV laboratory](https://cpcv-beta.vercel.app/) of the ENS chemistry department.
+
+Projects are interdisciplinary by design: many PhD theses are co-supervised with biologists or physicists (Institut Cochin, Institut Curie, ESPCI…), and students learn microfabrication, interface chemistry, fluorescence microscopy and quantitative image analysis along the way. The team is also connected to the [Microfluidics and Miniaturization Master](https://microfluidics-master.fr/), which I direct.
+
+{%- assign placed = site.data.members.alumni | where_exp: "m", "m.now" -%}
+{%- if placed.size > 0 %}
+
+## Where our alumni went
+
+<ul class="alumni" markdown="0">
+{%- for m in placed %}
+  <li><strong>{{ m.name }}</strong> ({{ m.role }}, {{ m.years }}) → {{ m.now }}</li>
+{%- endfor %}
+</ul>
+{%- endif %}
+
+## How to apply
+
+Send a short CV, a few lines on what interests you in our work, and (optionally) links to publications, code or previous projects to <span class="email">{{ site.author.email_display }}</span>. For a first conversation, you can also [book a 30-minute meeting]({{ site.profiles.calendly }}){: data-track="out-calendly"}. See also the [team page](/members/).

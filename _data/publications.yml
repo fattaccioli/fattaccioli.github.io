@@ -17,7 +17,8 @@
 #    status    "Under review", "In press"…                      (optional)
 #    equal_contribution: true  -> prints "‡ equal contribution" (optional)
 #    tags      research topics, used on the Research page:      (optional)
-#              aapc | capsules | coatings | traps | algae | biofilms | plants
+#              aapc | lipolysis | capsules | coatings | traps | polarity |
+#              membranes | algae | biofilms | plants
 #    links     list of {label, url}  e.g. DOI, PDF, bioRxiv, Code
 #    notes     list of {text, url}   press coverage, highlights… (optional)
 #
@@ -91,7 +92,7 @@
   title: A microfluidic platform for actin-based membrane remodeling reveals the stabilizing role of branched actin networks on lipid microdomains
   venue: Small Science
   details: 2500210 (2025)
-  tags: [traps]
+  tags: [traps, membranes]
   links:
   - label: DOI
     url: https://doi.org/10.1002/smsc.202500210
@@ -183,7 +184,7 @@
   title: Phenotyping Polarization Dynamics Of Immune Cells Using A Lipid Droplet–Cell Pairing Microfluidic Platform
   venue: Cell Reports Methods
   details: (2022)
-  tags: [aapc, traps]
+  tags: [aapc, traps, polarity]
   links:
   - label: DOI
     url: https://doi.org/10.1016/j.crmeth.2022.100335
@@ -194,7 +195,7 @@
   title: Microtubules restrict F-actin polymerization to the immune synapse via GEF-H1 to maintain polarity in lymphocytes
   venue: eLife
   details: (2022)
-  tags: [aapc]
+  tags: [aapc, polarity]
   links:
   - label: DOI
     url: https://elifesciences.org/articles/78330

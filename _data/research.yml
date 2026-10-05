@@ -2,71 +2,139 @@
 #  RESEARCH AXES AND TOPICS — rendered on the homepage and /research/
 # =====================================================================
 #  Each axis groups several topics. Each topic has:
-#    id       short key; publications tagged with it in publications.yml
-#             are listed automatically under "Related publications"
-#    title, image (path in /assets/images/), text (Markdown allowed)
-#    collaborators, funding (list of {name, url, role}) — optional
+#    id         short key; publications tagged with it in publications.yml
+#               are listed automatically under "Related publications"
+#    title      topic title
+#    image      path in /assets/images/ (optional)
+#    question   the question we ask, one sentence (shown first)
+#    text       how we approach it and what we found (Markdown allowed)
+#    highlight  optional key result: {text, url}
+#    funding    optional list of {name, url, role, status}
+#               status: current (default) | past
+#    emerging   true -> shown with an "Emerging direction" label
 # =====================================================================
 
 - id: droplets
   title: Functional droplets and particles as biological tools
   short: >-
-    Lipid droplets engineered as artificial antigen-presenting cells, degradable
-    microcapsules and surface-functionalised microparticles, used to probe immune
-    cell mechanics, phagocytosis and receptor–ligand interactions with controlled
-    interface chemistry.
+    Emulsion droplets and microparticles with controlled size, softness and
+    surface chemistry, used as artificial targets to measure how immune cells
+    sense, engulf and process what they meet.
   topics:
     - id: aapc
-      title: Functional lipid droplets as artificial antigen-presenting cells
+      title: Biomimetic droplets to decode phagocytosis
       image: /assets/images/macrophage.jpg
+      question: >-
+        How do the size, deformability and surface chemistry of a target
+        control the way macrophages engulf and degrade it?
       text: >-
-        Functional emulsion droplets with a fluid, deformable and chemically
-        controlled interface act as artificial antigen-presenting cells. They
-        enable force mapping during macrophage phagocytosis, quantitative
-        readouts of phagosomal maturation, and studies of B-cell activation by
-        reproducing the interactions that occur during cell encounter and uptake.
+        Biological targets vary in many properties at once. We replace them by
+        lipid emulsion droplets whose interface we functionalise with defined
+        ligands (antibodies, mannose, biotin) and fluorescent reporters, so that
+        one parameter can be changed at a time. With this toolkit we showed that
+        target size alone tunes phagocytic uptake, built FRET-based particles
+        that report receptor clustering at the interface, and ratiometric
+        particles that follow phagosomal acidification quantitatively, cell by
+        cell.
+      highlight:
+        text: "Target size alone controls phagocytic uptake — Biophysical Journal (2019)"
+        url: https://doi.org/10.1016/j.bpj.2019.06.021
       funding:
-        - name: ANR Phagochemiforce
-          url: https://anr.fr/Project-ANR-20-CE13-0017
-          role: with F. Niedergang (Institut Cochin, coordinator), J.-M. Mallet and B. Dumat (CPCV, ENS)
         - name: ANR Imperis
           url: https://anr.fr/Project-ANR-21-CE30-0062
           role: with P. Pierobon (Institut Cochin, coordinator) and J.-F. Rupprecht (Centuri, Marseille)
+        - name: ANR Phagochemiforce
+          url: https://anr.fr/Project-ANR-20-CE13-0017
+          role: with F. Niedergang (Institut Cochin, coordinator), J.-M. Mallet and B. Dumat (CPCV, ENS)
+          status: past
+
+    - id: lipolysis
+      emerging: true
+      title: Lipid digestion at the droplet interface
+      question: >-
+        Where and how fast are lipids digested, inside phagosomes or by gut
+        microbes, and what limits this process?
+      text: >-
+        Emulsion droplets are natural substrates for lipases. We are extending
+        our droplet and imaging tools to measure lipolysis in space and time:
+        inside the phagosomes of macrophages, and by microbial communities
+        involved in fat malabsorption (with T. Le Roy and F. Carrière). Two
+        MSCA postdoctoral projects are open on this theme — see
+        [open positions](/positions/).
 
     - id: capsules
-      title: Degradable microcapsules from modified vegetable oils
+      title: Degradable particles from vegetable oils
       image: /assets/images/AESO.png
+      question: >-
+        Can bio-sourced oils replace petroleum-based polymers for degradable,
+        drug-loaded microparticles of controlled size?
       text: >-
-        We design functional, degradable microparticles and microcapsules from
-        bio-sourced acrylated epoxidised soybean oil, using microfluidic
-        (double) emulsification followed by photo-crosslinking, and study their
-        shaping, degradation and drug-release properties.
+        We shape acrylated epoxidised soybean oil into monodisperse particles
+        and capsules by microfluidic (double) emulsification and
+        photo-crosslinking, and characterise how they degrade and release
+        their cargo. The fabrication route is protected by a patent
+        (WO2023237670).
 
     - id: coatings
-      title: Polydopamine and metal-coated microparticles
+      title: Coated droplets as optical and flow tracers
       image: /assets/images/Polydopamine.png
+      question: >-
+        Can a liquid droplet carry a solid, functional shell, and serve as a
+        tracer for flows?
       text: >-
         Using emulsion droplets as templates, we showed that polydopamine
-        coatings become fluorescent under UV illumination, and developed
-        silver-coated liquid particles used as seeds for micro-velocimetry.
+        coatings become fluorescent under UV, made metal-coated liquid
+        particles for micro-velocimetry, and recently validated soybean-oil
+        emulsions with red-blood-cell-sized droplets as a blood-mimicking fluid
+        for both ultrasound Doppler and optical velocimetry.
 
 - id: platforms
   title: Microfluidic platforms for quantitative cell biology
   short: >-
-    Hydrodynamic trapping arrays, droplet compartmentalisation and quantitative
-    fluorescence microscopy to follow single-cell dynamics, immune cell
-    polarisation and intracellular processes at high throughput.
+    Trap arrays, droplet–cell pairing and reconstituted membrane systems that
+    turn single-cell and single-vesicle observations into statistics.
   topics:
     - id: traps
-      title: Microfluidic hydrodynamic trapping arrays
+      title: Trapping arrays for single-object statistics
       image: /assets/images/MicrofluidicTrap.png
+      question: >-
+        How can we capture hundreds of cells, droplets or particles at
+        defined positions, image them, and release them on demand?
       text: >-
-        Hydrodynamic trap arrays capture and position cells, droplets or
-        particles without mechanical contact. We optimise their capture
-        efficiency and homogeneity through flow design (oblique streams,
-        spanwise dispersion) and use them to pair immune cells with
-        functional droplets and image immune-synapse dynamics at the
-        single-cell level.
+        We design hydrodynamic trap arrays and optimise their efficiency from
+        the flow physics: oblique streams and lateral dispersion raise capture
+        efficiency and homogeneity in dense arrays. Our latest device adds a
+        pneumatically actuated membrane to release the trapped objects after
+        analysis, opening the way to selection.
+      highlight:
+        text: "Fully automated trapping, analysis and release — Micro and Nano Engineering (2025)"
+        url: https://doi.org/10.1016/j.mne.2025.100332
+
+    - id: polarity
+      title: Immune cell polarity, one synapse at a time
+      question: >-
+        How fast and how reproducibly do lymphocytes polarise when they meet
+        an antigen-presenting surface?
+      text: >-
+        By pairing single B cells with antigen-coated lipid droplets in
+        microfluidic traps, we follow the formation of the immune synapse in
+        many cells in parallel and extract quantitative polarisation
+        dynamics (with P. Pierobon, Institut Cochin). The same approach
+        revealed how microtubules restrict actin polymerisation to the
+        synapse.
+      highlight:
+        text: "Droplet–cell pairing platform — Cell Reports Methods (2022)"
+        url: https://doi.org/10.1016/j.crmeth.2022.100335
+
+    - id: membranes
+      title: Reconstituted membranes under control
+      question: >-
+        How do actin networks reshape lipid membranes, measured on whole
+        populations of vesicles rather than a few?
+      text: >-
+        With C. Campillo (Université d'Évry), we trap giant vesicles in a
+        microfluidic device and sequentially expose them to actin machinery.
+        This showed that branched actin networks stabilise lipid microdomains.
 
 - id: environment
   title: Microfluidics for plant and environmental biology
@@ -75,34 +143,45 @@
     phenotyping to the dynamics of hydrocarbon-degrading bacterial biofilms at
     oil–water interfaces.
   topics:
-    - id: algae
-      title: Isolation and selection of individual microalgae
-      image: /assets/images/Chlamydomonas.png
+    - id: biofilms
+      title: Bacteria that reshape oil to eat it
+      image: /assets/images/SnakeBacteria.jpg
+      question: >-
+        How do oil-degrading bacteria access hydrocarbons that are insoluble
+        in water?
       text: >-
-        We develop automated microfluidic setups to immobilise, phenotype and
-        select single microalgae according to optical readouts such as
-        fluorescence, and to release them for downstream culture.
+        *Alcanivorax borkumensis* forms biofilms on oil droplets. With
+        [Andrew Utada](https://andrew-utada.com/) (University of Tsukuba) and
+        J.-F. Rupprecht (CPT, Marseille), we showed that these biofilms deform
+        the oil–water interface into tubes, increasing the contact area and
+        accelerating oil degradation — a mechanism relevant to the
+        bioremediation of oil spills.
+      highlight:
+        text: "Biofilms enhance oil degradation by interfacial tubulation — Science (2023), with a Perspective and Physics Today coverage"
+        url: https://doi.org/10.1126/science.adf3345
+
+    - id: algae
+      title: Selecting single microalgae
+      image: /assets/images/Chlamydomonas.png
+      question: >-
+        Can we phenotype individual microalgae and keep the interesting ones?
+      text: >-
+        We develop automated microfluidic setups to immobilise single
+        microalgae, measure optical readouts such as fluorescence, and release
+        them for downstream culture.
       funding:
         - name: ANR Phosphalgue (coordinator)
           url: https://anr.fr/Project-ANR-21-CE43-0021
           role: with L. Jullien (CPCV, ENS), A. Boulouis and S. Eberhard (IBPC), F. Guyot (MNHN), G. Charvin (IGBMC)
 
-    - id: biofilms
-      title: Oil-degrading bacterial biofilms
-      image: /assets/images/SnakeBacteria.jpg
-      text: >-
-        *Alcanivorax borkumensis* forms biofilms on oil droplets and degrades
-        hydrocarbons, a key process in bioremediation. With
-        [Andrew Utada](https://andrew-utada.com/) (University of Tsukuba) and
-        J.-F. Rupprecht (CPT, Marseille), we showed that these biofilms deform
-        the oil–water interface into tubes that enhance oil consumption.
-
     - id: plants
       title: Plant development on chip
       image: /assets/images/Physco.gif
+      question: >-
+        How does a single plant cell regenerate a whole organism, followed from
+        seconds to weeks?
       text: >-
         With J.-C. Palauqui (IJPB, INRAE Versailles) we built a microfluidic and
-        microscopy toolbox to follow the development of the moss
-        *Physcomitrium patens* from single protoplasts to whole organisms,
-        from seconds to weeks. We contribute to quantitative pipelines for
-        protoplast culture with S. Verger (UPSC, Umeå).
+        microscopy toolbox to follow the moss *Physcomitrium patens* from
+        single protoplasts to whole plants. We also contribute to quantitative
+        pipelines for protoplast culture with S. Verger (UPSC, Umeå).

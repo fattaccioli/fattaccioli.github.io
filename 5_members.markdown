@@ -58,7 +58,7 @@ lead: "PhD students, postdocs, engineers and interns working on droplet microflu
 <h2>Alumni</h2>
 <ul class="alumni" markdown="0">
 {%- for m in team.alumni %}
-  <li><strong>{{ m.name }}</strong> — {{ m.role }}{% if m.years %} ({{ m.years }}){% endif %}{% if m.cosupervision %}, co-supervised with {{ m.cosupervision }}{% endif %}{% if m.funding %}, {{ m.funding }}{% endif %} {% include person-links.html m=m %}</li>
+  <li><strong>{{ m.name }}</strong> — {{ m.role }}{% if m.years %} ({{ m.years }}){% endif %}{% if m.cosupervision %}, co-supervised with {{ m.cosupervision }}{% endif %}{% if m.funding %}, {{ m.funding }}{% endif %}{% if m.now %} <span class="now">→ now {{ m.now }}</span>{% endif %} {% include person-links.html m=m %}</li>
 {%- endfor %}
 </ul>
 

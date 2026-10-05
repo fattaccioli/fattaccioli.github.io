@@ -37,6 +37,23 @@ layout: default
   </div>
 </section>
 
+<section class="wrap section news-wrap">
+  <div class="news">
+    <h2 class="section-title">News</h2>
+    <ul class="news-list">
+      {%- for n in site.data.news limit: 4 %}
+      <li><time datetime="{{ n.date }}">{{ n.date | append: "-01" | slice: 0, 10 | date: "%b %Y" }}</time><span>{{ n.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
+      {%- endfor %}
+    </ul>
+  </div>
+  <aside class="newsletter">
+    <p class="eyebrow">Newsletter</p>
+    <h3>Droplets of Science</h3>
+    <p>Close readings of the foundational papers of microfluidics, soft matter, surface chemistry and biophysics — what they showed, how, and what still holds.</p>
+    <a class="btn" href="{{ site.profiles.substack }}" data-track="out-substack">Read on Substack</a>
+  </aside>
+</section>
+
 <section class="wrap section">
   <div class="prose">{{ content }}</div>
 </section>

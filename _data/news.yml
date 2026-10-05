@@ -1,0 +1,21 @@
+# =====================================================================
+#  NEWS — the 4 most recent items appear on the homepage.
+#  Add new items at the TOP. Keep each one to a single sentence.
+#    date: 2026-06      (year-month; or 2026-06-08 for a precise day)
+#    text: Markdown allowed, e.g. links [like this](https://…)
+# =====================================================================
+
+- date: 2026-09
+  text: Héloïse Uhl joins the team as a postdoctoral researcher after her PhD with us, to work on force mapping during phagocytosis.
+
+- date: 2026-06
+  text: "Ratiometric pH-responsive biomimetic microparticles to monitor phagosomal acidification, published in [Chemistry – A European Journal](https://doi.org/10.1002/chem.71237)."
+
+- date: 2026-02
+  text: "Two MSCA Postdoctoral Fellowship projects on lipid digestion and lipolysis are open with Sorbonne Université — [see open positions](/positions/)."
+
+- date: 2025-11
+  text: "A fully automated microfluidic setup to trap, analyse and release particles, by Alexandre Chargueraud, published in [Micro and Nano Engineering](https://doi.org/10.1016/j.mne.2025.100332)."
+
+- date: 2025-07
+  text: "With C. Campillo's team: a microfluidic platform shows that branched actin stabilises lipid microdomains, in [Small Science](https://doi.org/10.1002/smsc.202500210)."
