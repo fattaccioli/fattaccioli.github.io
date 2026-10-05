@@ -3,15 +3,16 @@
    Colours and fonts are defined once below; change them here.
    ===================================================================== */
 :root {
-  --bg: #fbfaf7;
+  --bg: #ffffff;
+  --bg-alt: #f4f3ef;        /* footer, alternate bands */
   --surface: #ffffff;
-  --text: #1d2327;
-  --muted: #5d676e;
-  --line: #e3e1da;
-  --accent: #0b6e72;        /* teal — links, buttons */
-  --accent-strong: #08575a;
-  --accent-soft: #e3f1f0;
-  --highlight: #b8432f;     /* small accents (numbers) */
+  --text: #101417;
+  --muted: #3f484e;
+  --line: #d3d6d4;
+  --accent: #075a5e;        /* teal — links, buttons */
+  --accent-strong: #043f42;
+  --accent-soft: #dcefed;
+  --highlight: #a3361f;     /* small accents (numbers) */
   --radius: 10px;
   --wrap: 1080px;
   --measure: 720px;
@@ -20,15 +21,16 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #14181b;
-    --surface: #1b2024;
-    --text: #e6e8e6;
-    --muted: #9aa4aa;
-    --line: #2c3338;
-    --accent: #5cc4c0;
-    --accent-strong: #84d6d2;
-    --accent-soft: #1d3233;
-    --highlight: #ee8a72;
+    --bg: #0f1316;
+    --bg-alt: #161b1f;
+    --surface: #171c20;
+    --text: #f1f3f2;
+    --muted: #b4bdc2;
+    --line: #353d43;
+    --accent: #6fd3ce;
+    --accent-strong: #9ce3df;
+    --accent-soft: #173b3c;
+    --highlight: #f39a82;
   }
 }
 
@@ -128,7 +130,7 @@ p { margin: 0 0 1em; }
   display: block; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
   padding: 22px; text-decoration: none; color: var(--text); transition: border-color .15s, transform .15s;
 }
-.card:hover { border-color: var(--accent); transform: translateY(-2px); color: var(--text); }
+.card:hover { border-color: var(--accent); transform: translateY(-2px); color: var(--text); box-shadow: 0 6px 18px rgba(0,0,0,.07); }
 .card h3 { margin: .2em 0 .5em; font-size: 1.12rem; }
 .card p { color: var(--muted); font-size: .95rem; margin: 0; }
 .card-num { font-family: var(--serif); color: var(--highlight); font-weight: 600; }
@@ -186,6 +188,7 @@ figure.band figcaption { font-size: .85rem; color: var(--muted); margin-top: 6px
 .pub-num { position: absolute; left: 0; top: 13px; font-family: var(--serif); color: var(--highlight); font-weight: 600; font-size: .9rem; }
 .pub-title { display: block; font-weight: 600; color: var(--text); }
 .pub-authors { display: block; color: var(--muted); }
+.pub-title { font-size: 1rem; }
 .pub-authors .me { color: var(--text); font-weight: 600; }
 .pub-venue { display: block; }
 .pub-venue em { font-style: italic; font-weight: 500; }
@@ -215,7 +218,7 @@ h3.year { font-size: 1rem; font-family: var(--sans); color: var(--muted); margin
 @media (max-width: 560px) { .pi { grid-template-columns: 96px 1fr; } .pi img { width: 96px; } }
 
 /* ---------- footer ---------- */
-.site-footer { border-top: 1px solid var(--line); margin-top: 48px; padding: 32px 0 24px; font-size: .9rem; color: var(--muted); }
+.site-footer { background: var(--bg-alt); border-top: 1px solid var(--line); margin-top: 48px; padding: 32px 0 24px; font-size: .9rem; color: var(--muted); }
 .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 24px; }
 .footer-name { font-family: var(--serif); font-weight: 600; color: var(--text); font-size: 1.05rem; margin-bottom: .3em; }
 .footer-meta { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 16px; margin-top: 8px; font-size: .82rem; }
