@@ -49,6 +49,7 @@ lead: "PhD students, postdocs, engineers and interns working on droplet microflu
     <p class="person-role">{{ m.role }}{% if m.years %} · {{ m.years }}{% endif %}</p>
     {%- if m.project %}<p class="person-project">{{ m.project }}</p>{% endif -%}
     {%- if m.details %}<p class="muted">{{ m.details }}</p>{% endif -%}
+    {%- if m.funding %}<p class="muted">Funding: {{ m.funding }}</p>{% endif -%}
     {%- if m.cosupervision %}<p class="muted">Co-supervised with {{ m.cosupervision }}</p>{% endif -%}
     {%- include person-links.html m=m -%}
   </div>

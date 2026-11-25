@@ -15,12 +15,6 @@
 # =====================================================================
 
 current:
-- name: Héloïse Uhl
-  role: Postdoctoral researcher
-  group: postdoc
-  years: '2026'
-  project: Mechanobiology of phagocytosis — force mapping by image analysis
-  linkedin: https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-uhl-68309134a/
 - name: Alexandre Chargueraud
   role: PhD student
   group: phd
@@ -34,17 +28,27 @@ current:
   project: Migrating droplets driven by actin–myosin I motors
   cosupervision: F.-C. Tsai (Institut Curie, primary supervisor)
   github: https://github.com/moeinderakhshan
-- name: Sihem Guelai
-  role: Intern
-  group: intern
-  years: '2026'
-  details: M2 Chemistry, Sorbonne Université
-- name: Mame-Penda Mbodji
-  role: Intern
-  group: intern
-  years: '2026'
-  details: M1 Chemistry and Biology, Sorbonne Université
-  linkedin: https://www.linkedin.com/in/mame-penda-mbodji-833204345/
+- name: Sihem Guelaï
+  role: PhD student
+  group: phd
+  years: 2026–2029
+  funding: CIFRE with Michelin
+  cosupervision: S. Aimé (C3M, ESPCI)
+  linkedin: https://www.linkedin.com/in/sihem-guela%C3%AF-17b745201/
+  orcid: https://orcid.org/0009-0008-0122-9954
+- name: Juliette Rival
+  role: PhD student
+  group: phd
+  years: 2026–2029
+  funding: Sorbonne Université (ED388)
+  linkedin: https://www.linkedin.com/in/juliette-rival-09681226b/
+  orcid: https://orcid.org/0009-0005-3037-4833
+- name: Elena Sampanai
+  role: PhD student
+  group: phd
+  years: 2026–2029
+  funding: CNRS 80Prime
+  cosupervision: F. Niedergang (Institut Cochin)
 
 alumni:
 - name: Héloïse Uhl
@@ -127,6 +131,10 @@ alumni:
   linkedin: https://www.linkedin.com/in/kalthoumbenmbarek
 
 former_interns:
+- name: Mame-Penda Mbodji
+  year: 2026
+  details: Intern (M1 Chemistry and Biology, Sorbonne Université)
+  linkedin: https://www.linkedin.com/in/mame-penda-mbodji-833204345/
 - name: Capucine Zimmer
   year: 2026
   details: Intern (ESPCI, 1st year)
