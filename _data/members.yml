@@ -15,12 +15,6 @@
 # =====================================================================
 
 current:
-- name: Alexandre Chargueraud
-  role: PhD student
-  group: phd
-  years: 2022–2026
-  project: Immobilization and selection of microalgae using microfluidics
-  linkedin: https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/
 - name: Moein Derakhshan
   role: PhD student
   group: phd
@@ -51,6 +45,10 @@ current:
   cosupervision: F. Niedergang (Institut Cochin)
 
 alumni:
+- name: Alexandre Chargueraud
+  role: PhD student
+  years: 2022–2026
+  linkedin: https://www.linkedin.com/in/alexandre-chargueraud-1018721a5/
 - name: Héloïse Uhl
   role: PhD student
   years: 2022–2026
